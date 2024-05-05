@@ -1,0 +1,63 @@
+<!-- Post, Page Content
+================================================== -->
+<div class="article-post">
+    <!-- Toc if any -->
+    {% if page.toc %}
+    {% if page.beforetoc %}
+        <p><em>{{page.beforetoc}}</em></p>
+
+
+        {% if page.rating %}
+
+
+        
+            <script type="application/ld+json">
+            {
+              "@context": "https://schema.org/",
+              "@type": "Product",
+              "name": "{{ page.title }}",
+              "description": "{{page.beforetoc}}",
+              "review": {
+                "@type": "Review",
+                "reviewRating": {
+                  "@type": "Rating",
+                  "ratingValue": "{{ page.rating }}",
+                  "bestRating": "5"
+                },
+                "author": {
+                  "@type": "Person",
+                  "name": "Killcreek"
+                }
+              },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "{{ page.rating }}",
+                "reviewCount": "5"
+              }
+            }
+            </script>
+
+            {% endif %}
+
+    {% endif %}
+    <div class="toc mt-4 mb-4 lead">
+        <h3 class="font-weight-bold">Summary</h3>
+        {% include toc.html html=content %}
+    </div>
+    {% endif %}
+    <!-- End Toc -->
+    <!-- <div class="container">
+      <div class="row">
+        <div class="col">
+          {% if page.rating %}
+    
+          <strong class="mr-1">Rating:</strong> {% include star_rating.html %} {%
+          endif %}
+        </div>
+      </div>
+    </div> -->
+    {{content}}
+    
+</div
+
+

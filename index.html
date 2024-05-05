@@ -1,0 +1,29 @@
+---
+layout: default
+title: Home
+---
+
+ 
+  
+<!-- Posts Index
+================================================== -->
+
+
+<div class="blog-grid-container">
+
+    <h1 class="p-5">Get more help to pass the driving theory test</h1>
+
+
+    {% for post in paginator.posts %}
+        {% include postbox.html %}
+    {% endfor %}
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+

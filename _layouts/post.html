@@ -1,0 +1,27 @@
+---
+layout: default
+disqus: false
+archive: false
+post_class: post-template
+---
+
+<div class="entry-header">
+  <!-- Post Title -->
+  <h1 class="posttitle">{{ page.title }}</h1>
+</div>
+
+<!-- Featured Image -->
+{% include featured-image.html %}
+
+<!-- Content -->
+{% include article.html %}
+<!-- Rating -->
+
+<!-- Author Box if enabled from _config.yml -->
+{% include author-box.html %}
+
+<!-- Share -->
+{% include share.html %}
+
+<!-- Related Post -->
+{% include related-posts.html %}

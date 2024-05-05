@@ -1,0 +1,183 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link rel="icon" href="{{ site.baseurl }}/assets/images/icon.png" />
+    {% seo %}
+    <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet" />
+    <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet" />
+
+    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+  
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&family=Mukta:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- defer loading of font and font awesome -->
+  <noscript id="deferred-styles">
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+      integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp"
+      crossorigin="anonymous"
+    />
+  </noscript>
+  </head>
+
+  {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{%
+  endcapture %}
+  <body>
+  
+
+    <!-- Begin Sidebar Navigation
+================================================== -->
+
+    <div class="sidebar"></div>
+    <div class="nav-icon">
+      <div class="hamburger-bar"></div>
+    </div>
+    <div id="blackover-nav" class="blackover"></div>
+    <nav id="menu">
+      <ul>
+        <h3>Navigation</h3>
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+         
+
+        <li><a href="{{ site.baseurl }}/categories">Categories</a></li>
+        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+      </ul>
+    </nav>
+
+    {% include search-lunr.html %}
+
+    <!-- End Sidebar Navigation
+================================================== -->
+
+    <div class="site-content {% if page.url == '/' %} firstpage {% endif %}">
+      <div class="container">
+        <!-- Site Logo/Name
+    ================================================== -->
+
+        <a class="navbar-brand" href="{{ site.baseurl }}/">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            height="40"
+            width="40"
+            viewBox="2 0 24 24"
+            stroke-width="1.5"
+            stroke="black"
+            class="w-6 h-6"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              d="M15.75 10.5V6a3.75 3.75 0 10-7.5 0v4.5m11.356-1.993l1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 01-1.12-1.243l1.264-12A1.125 1.125 0 015.513 7.5h12.974c.576 0 1.059.435 1.119 1.007zM8.625 10.5a.375.375 0 11-.75 0 .375.375 0 01.75 0zm7.5 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z"
+            />
+          </svg>
+          <img
+            src="{{ site.baseurl }}/{{ site.logo }}"
+            alt="{{ site.name }}"
+            loading="lazy"
+          />
+        </a>
+
+        <!-- Site Tag
+    =========================== -->
+        {% if page.url == '/' %}
+ 
+
+        <div class="container my-5">
+          <div class="row">
+            <div class="col-lg-6">
+              <img class="w-100" src="{{ site.baseurl }}/assets/images/hero.png" />
+            </div>
+            <div class="col-lg-6">
+              <div class="p-5">
+                <h1 class="display-4 font-weight-bold headline">{{ site.subheading }}</h1>
+                <span class="text-secondary">{{ site.description }}</span>
+           
+                  
+                </div>
+            </div>
+        </div>
+        
+
+        <div class="container my-5 border">
+          <div class="p-5 d-flex flex-column flex-sm-row align-items-center justify-content-between">
+           <span>{{ site.cta-text}}</span>
+           <a href="{{ site.cta-link}}" class="btn btn-primary px-5 py-3 text-white mt-3 mt-sm-0" style="border-radius: 30px; ">Get Started</a>
+          </div>
+        </div>
+
+         
+          
+        {% endif %}
+
+        <!-- Site Tag  ======================= -->
+
+        <!-- Content
+    ================================================== -->
+        <div class="main-content">{{ content }}</div>
+      </div>
+
+      <!-- Begin Footer
+================================================== -->
+      <footer class="footer">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 col-sm-12 text-center text-lg-left">
+              Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
+            </div>
+            <div class="col-md-6 col-sm-12 text-center text-lg-right">
+              <span class="ml-3 text-muted small">Follow</span>
+
+              <a
+                target="_blank"
+                href="https://www.facebook.com/internetdailydeals/"
+              >
+                <svg
+                  class="ml-3"
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  fill="currentColor"
+                  class="bi bi-facebook"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"
+                  />
+                </svg>
+              </a>
+
+             
+            </div>
+          </div>
+        </div>
+      </footer>
+      <!-- End Footer
+================================================== -->
+    </div>
+    <!-- /.site-content -->
+
+    <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
+
+    <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+
+    {% if site.lazyimages == "enabled" %}
+    <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
+    {% endif %}
+
+    {% include cookie-consent.html %}
+
+  </body>
+</html>
