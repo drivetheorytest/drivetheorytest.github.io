@@ -5,8 +5,8 @@
     <description>The driving theory test has two parts: a multiple-choice section and a hazard perception test. The multiple-choice section has 50 questions, and the hazard perception test has 75 clips. The pass mark for the multiple-choice section is 43 out of 50, and the pass mark for the hazard perception test is 44 out of 75. The test usually takes about 60 minutes to complete, but the length can vary depending on how quickly you answer</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 May 2024 21:18:43 +0800</pubDate>
-    <lastBuildDate>Sun, 05 May 2024 21:18:43 +0800</lastBuildDate>
+    <pubDate>Sun, 05 May 2024 21:35:20 +0800</pubDate>
+    <lastBuildDate>Sun, 05 May 2024 21:35:20 +0800</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
