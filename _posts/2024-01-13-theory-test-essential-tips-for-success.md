@@ -1,5 +1,5 @@
 ---
-title: 'Theory Test: Essential Tips for Success'
+title: 'How Can I Pass My Driving Theory Test Easily?'
 layout: post
 author: Killcreek
 categories:
