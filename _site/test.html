@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Question Pagination</title>
+<!-- Add Bootstrap CSS -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<div id="question-container" class="container"></div>
+<div id="pagination-buttons"></div>
+
+<script>
+let currentQuestionIndex = 0;
+
+// Function to fetch JSON file
+async function fetchQuestions() {
+    try {
+        const response = await fetch('/assets/questions.json');
+        if (!response.ok) {
+            throw new Error('Failed to fetch questions');
+        }
+        const data = await response.json();
+        return data;
+    } catch (error) {
+        console.error('Error fetching questions:', error);
+        return [];
+    }
+}
+
+// Function to display questions based on current page
+function displayQuestions(questions, page, pageSize) {
+    const startIndex = (page - 1) * pageSize;
+    const endIndex = startIndex + pageSize;
+    const currentPageQuestions = questions.slice(startIndex, endIndex);
+
+    const questionContainer = document.getElementById('question-container');
+    questionContainer.innerHTML = '';
+
+    const question = currentPageQuestions[0];
+    const questionDiv = document.createElement('div');
+    questionDiv.classList.add('row', 'mt-3', 'border', 'p-3');
+    questionDiv.innerHTML = `
+        <div class="col-md-6">
+            <div class="image-container">
+                ${question.image ? `<img src="${question.image}" alt="Question Image" class="img-fluid">` : '<p>Image not available</p>'}
+            </div>
+            <div id="answerAlert" class="alert alert-dismissible fade" role="alert" style="display:none;"></div>
+        </div>
+        <div class="col-md-6">
+            <div class="info-container">
+                <h3>${question.question}</h3>
+                <p>${question.heading}</p>
+                <p>${question.explanation}</p>
+                <ul class="list-group">
+                    ${question.questions.map((q, index) => `<li class="list-group-item answer-option" data-index="${index}">${q}</li>`).join('')}
+                </ul>
+            </div>
+        </div>
+    `;
+    questionContainer.appendChild(questionDiv);
+
+    const answerOptions = questionDiv.querySelectorAll('.answer-option');
+    answerOptions.forEach(option => {
+        option.addEventListener('click', () => {
+            const selectedIndex = parseInt(option.getAttribute('data-index'));
+            if (selectedIndex === question.questions.indexOf(question.answer)) {
+                displayAlert('alert-success', `Correct! Answer: ${question.answer}`);
+                setTimeout(() => {
+                    currentQuestionIndex++;
+                    if (currentQuestionIndex < questions.length) {
+                        displayNextQuestion(questions, page, pageSize);
+                    } else {
+                        alert('End of questions');
+                    }
+                }, 2000); // Wait for 2 seconds before displaying the next question
+            } else {
+                displayAlert('alert-danger', 'Incorrect answer');
+            }
+        });
+    });
+}
+
+// Function to display the next question
+function displayNextQuestion(questions, page, pageSize) {
+    const nextPage = Math.ceil((currentQuestionIndex + 1) / pageSize);
+    displayQuestions(questions, nextPage, pageSize);
+}
+
+// Function to display Bootstrap alert
+function displayAlert(alertClass, alertText) {
+    const alertDiv = document.getElementById('answerAlert');
+    alertDiv.className = `alert ${alertClass} alert-dismissible fade show`;
+    alertDiv.textContent = alertText;
+    alertDiv.style.display = 'block';
+}
+
+// Entry point
+async function main() {
+    const pageSize = 1; // Number of questions per page
+    const questions = await fetchQuestions();
+    if (questions.length > 0) {
+        displayQuestions(questions, 1, pageSize); // Display first page by default
+    } else {
+        console.error('No questions available.');
+    }
+}
+
+main();
+</script>
+</body>
+</html>
