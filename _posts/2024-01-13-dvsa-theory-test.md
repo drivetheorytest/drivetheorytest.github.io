@@ -2,7 +2,8 @@
 layout: post
 title:  "DVSA Theory Test Comprehensive Guide"
 author: jeff
-categories: [ driving test, tutorial ]
+categories: 
+- How-To
 image: /assets/images/dvsa-theory-test-your-comprehensive-guide.png
 categories:
   - Accessories

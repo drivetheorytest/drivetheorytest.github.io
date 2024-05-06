@@ -2,7 +2,6 @@
 layout: post
 title:  "How to Boost Your Confidence Before Your Driving Theory Test"
 author: jeff
-categories: [ driving test, theory test ]
 image: /assets/images/boost-confidence.png
 categories:
   - How-to
