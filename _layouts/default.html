@@ -64,28 +64,15 @@ layout: compress
     ================================================== -->
 
         <a class="navbar-brand" href="{{ site.baseurl }}/">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            height="40"
-            width="40"
-            viewBox="2 0 24 24"
-            stroke-width="1.5"
-            stroke="black"
-            class="w-6 h-6"
-          >
-            <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              d="M15.75 10.5V6a3.75 3.75 0 10-7.5 0v4.5m11.356-1.993l1.263 12c.07.665-.45 1.243-1.119 1.243H4.25a1.125 1.125 0 01-1.12-1.243l1.264-12A1.125 1.125 0 015.513 7.5h12.974c.576 0 1.059.435 1.119 1.007zM8.625 10.5a.375.375 0 11-.75 0 .375.375 0 01.75 0zm7.5 0a.375.375 0 11-.75 0 .375.375 0 01.75 0z"
-            />
-          </svg>
+         
           <img
             src="{{ site.baseurl }}/{{ site.logo }}"
             alt="{{ site.name }}"
             loading="lazy"
-          />
+          />   
+     
         </a>
+     
 
         <!-- Site Tag
     =========================== -->
@@ -94,35 +81,33 @@ layout: compress
 
         <div class="container my-5">
           <div class="row">
-            <div class="col-lg-6">
-              <img class="w-100" src="{{ site.baseurl }}/assets/images/hero.png" alt="{{ site.subheading }}" loading="lazy" />
-            </div>
-            <div class="col-lg-6">
-              <div>
-                <h1 class="display-4 font-weight-bold headline">{{ site.subheading }}</h1>
-                <span class="text-secondary">{{ site.description }}</span>
-           
-                  
-                </div>
-            </div>
-        </div>
+              <div class="col-lg-5">
+                  <img class="w-100" src="{{ site.baseurl }}/assets/images/hero.png" alt="{{ site.subheading }}" loading="lazy" />
+              </div>
+              <div class="col-lg-7">
+                  <div class="d-flex flex-column justify-content-center h-100">
+                      <h1 class="display-4 font-weight-bold headline mt-">{{ site.subheading }}</h1>
+                      <span class="text-secondary">{{ site.description }}</span>
+                  </div>
+              </div>
+          </div>
+      </div>
+      
+      
 
        
  
 
-        <div class="container my-5">
-          <div class="d-flex flex-column align-items-center justify-content-between">
-           
-            <h2 class="font-weight-bold text-center">{{ site.cta-head }}</h2>
-            <span class="mb-4 text-center">{{ site.cta-text}}</span>
+      <div class="container my-5">
+        <div class="d-flex flex-column align-items-center justify-content-between">
+            <h2 class="text-center">{{ site.cta-head }}</h2>
+            <span class="mb-4 text-center text-secondary">{{ site.cta-text}}</span>
             <div>
-              <a href="{{ site.cta-link}}" class="btn btn-primary px-5 py-3 text-white mt-3 mt-sm-0" style="border-radius: 30px; ">Get Started</a>
-                 
-             
+                <a href="{{ site.cta-link}}" class="btn btn-primary btn-lg px-4 py-3 text-white rounded-pill mt-3 mt-sm-0" style="font-size: 1.2rem;">Get Started</a>
             </div>
-          </div>
         </div>
-
+    </div>
+    
         
          
           
