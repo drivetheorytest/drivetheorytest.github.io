@@ -41,6 +41,9 @@
 <loc>http://localhost:4000/category/accessories/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/category/how-to/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/admin/</loc>
 <lastmod>2024-05-06T09:40:27+08:00</lastmod>
 </url>

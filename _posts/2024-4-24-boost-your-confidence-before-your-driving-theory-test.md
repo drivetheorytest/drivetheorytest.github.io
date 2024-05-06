@@ -5,7 +5,7 @@ author: jeff
 categories: [ driving test, theory test ]
 image: /assets/images/boost-confidence.png
 categories:
-  - Accessories
+  - How-to
 rating: "5"
 toc: true
 author: Killcreek
