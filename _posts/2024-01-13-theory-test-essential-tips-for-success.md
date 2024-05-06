@@ -36,11 +36,11 @@ Now that you have a grasp of what to expect in the **Driving Theory Test**, let'
 
 ### 1. Study Diligently
 
-Invest ample time in studying the **Highway Code** and other relevant materials. Make use of **official DVSA** resources, such as books and online practice tests, to familiarize yourself with the test format and content.
+Invest ample time in studying the **Highway Code** and other relevant materials. Make use of **[DVSA resources](/dvsa-theory-test/)** , such as books and online practice tests, to familiarize yourself with the test format and content.
 
 ### 2. Practice Regularly
 
-Consistent practice is key to mastering the **Driving Theory Test**. Set aside dedicated study sessions and use **mock tests** to gauge your progress. Focus on areas where you need improvement and strive to enhance your knowledge and understanding.
+Consistent practice is key to mastering the **Driving Theory Test**. Set aside dedicated study sessions and use **[mock tests](/test)** to gauge your progress. Focus on areas where you need improvement and strive to enhance your knowledge and understanding.
 
 ### 3. Understand Road Signs and Markings
 
