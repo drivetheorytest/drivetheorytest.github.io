@@ -38,7 +38,7 @@ var documents = [{
     "id": 7,
     "url": "http://localhost:4000/test",
     "title": "",
-    "body": "&lt;!DOCTYPE html&gt; Driving Theory Mock Test "
+    "body": "&lt;!DOCTYPE html&gt;          {% seo %}                       Navigation  Home  Mock Test {% include search-lunr. html %}                                  Copyright © {{ site. time | date:  %Y  }} {{ site. name }}          Follow                                   &lt;/footer&gt;{% if site. lazyimages ==  enabled  %}{% endif %}{% include cookie-consent. html %}&lt;/body&gt;&lt;/html&gt;"
     }, {
     "id": 8,
     "url": "http://localhost:4000/boost-your-confidence-before-your-driving-theory-test/",
