@@ -1,15 +1,15 @@
 ---
-title: How Long is a Driving Theory Test?
 layout: post
-author: Killcreek
+title: How Long is a Driving Theory Test?
+image: /assets/images/test-driving.png
 categories:
-- How-To
-image: "/assets/images/test-driving.png"
-rating: 5
+  - How-To
+rating: "5"
 toc: true
-beforetoc: Driving theory test typically takes around 71 minutes to complete, consisting
-  of a multiple-choice section lasting approximately 57 minutes and a hazard perception
-  test lasting approximately 14 minutes
+author: Killcreek
+beforetoc: Driving theory test typically takes around 71 minutes to complete,
+  consisting of a multiple-choice section lasting approximately 57 minutes and a
+  hazard perception test lasting approximately 14 minutes
 ---
 When it comes to obtaining a driver's license, passing the **driving theory test** is a crucial step. But just how long does this test take? Let's delve into the details to provide you with a comprehensive understanding.
 
