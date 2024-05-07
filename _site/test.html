@@ -143,8 +143,10 @@
             </div>
             <div class="col-md-6">
                 <div class="info-container">
+                  <h2>${question.heading}</h2>
+                  <br/>
                     <h3>${question.question}</h3>
-                    <p>${question.heading}</p>
+                    
                     <p>${question.explanation}</p>
                     <form id="answerForm">
                         ${question.questions.map((q, index) => `
