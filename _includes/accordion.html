@@ -15,3 +15,5 @@ ul.dtt-accordion li input:checked + label::before {transform: rotate(-45deg);}
         <li><input id="accordion{{ forloop.index }}" type="checkbox" /><label for="accordion{{ forloop.index }}">{{ item.title }}</label><div>{{ item.content | markdownify }}</div></li>
     {% endfor %}
 </ul>
+
+
