@@ -1,6 +1,6 @@
 ---
 permalink: "/test"
-title: Mock Test
+title: Road and Traffic Signs Mock Test
 accordion: 
   - title: Can I take a Driver Theory Test while disqualified from driving?
     content: Yes, you can take a driver theory test while disqualified from driving in the UK, as you don't need a learner permit or driving license to do so. However, you can only take the theory test for the AM or BW categories while disqualified.
@@ -83,7 +83,7 @@ accordion:
     </a>
 
     
-    <div class="posttitle">Road and traffic signs</div>
+    <div class="posttitle">Road and traffic Sign Test</div>
 
 <div id="question-container" class="container"></div>
 <div id="pagination-buttons"></div>
@@ -150,11 +150,11 @@ accordion:
       answerForm.addEventListener('change', (event) => {
           const selectedIndex = parseInt(event.target.value);
           if (selectedIndex === question.questions.indexOf(question.answer)) {
-              displayAlert('alert-success', `Correct! Answer: ${question.answer}`);
+              displayAlert('alert-success', `✅  ${question.answer}`);
               displayExplanation(); // Display explanation
               nextButton.style.display = 'block'; // Show the "Next" button
           } else {
-              displayAlert('alert-danger', 'Incorrect answer');
+              displayAlert('alert-danger', '❌ Incorrect answer');
           }
       });
 
