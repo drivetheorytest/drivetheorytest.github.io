@@ -83,112 +83,146 @@ accordion:
     </a>
 
     
-    <div class="posttitle">Traffic Signs and Regulatory Matters</div>
+    <div class="posttitle">Road and traffic signs</div>
 
-    <div id="question-container" class="container"></div>
-    <div id="pagination-buttons"></div>
-    
-    <script>
-    let currentQuestionIndex = 0;
-    
-    // Function to fetch JSON file
-    async function fetchQuestions() {
-        try {
-            const response = await fetch('/assets/questions.json');
-            if (!response.ok) {
-                throw new Error('Failed to fetch questions');
-            }
-            const data = await response.json();
-            return data;
-        } catch (error) {
-            console.error('Error fetching questions:', error);
-            return [];
-        }
-    }
-    
-    // Function to display questions based on current page
-    function displayQuestions(questions, page, pageSize) {
-        const startIndex = (page - 1) * pageSize;
-        const endIndex = startIndex + pageSize;
-        const currentPageQuestions = questions.slice(startIndex, endIndex);
-    
-        const questionContainer = document.getElementById('question-container');
-        questionContainer.innerHTML = '';
-    
-        const question = currentPageQuestions[0];
-        const questionDiv = document.createElement('div');
-        questionDiv.classList.add('row', 'mt-3', 'border', 'p-3');
-        questionDiv.innerHTML = `
-            <div class="col-md-6">
-                <div class="image-container">
-                    ${question.image ? `<img src="${question.image}" alt="Question Image" class="img-fluid">` : '<p>Image not available</p>'}
-                </div>
-                <div id="answerAlert" class="alert alert-dismissible fade" role="alert" style="display:none;"></div>
-            </div>
-            <div class="col-md-6">
-                <div class="info-container">
-                 
-                    <h3>${question.question}</h3>
-                    
-                    <p>${question.explanation}</p>
-                    <form id="answerForm">
-                        ${question.questions.map((q, index) => `
-                            <input type="radio" id="option${index}" name="answer" value="${index}">
-                            <label for="option${index}">${q}</label><br>
-                        `).join('')}
-                    </form>
-                </div>
-            </div>
-        `;
-        questionContainer.appendChild(questionDiv);
-    
-        const answerForm = questionDiv.querySelector('#answerForm');
-        answerForm.addEventListener('change', (event) => {
-            const selectedIndex = parseInt(event.target.value);
-            if (selectedIndex === question.questions.indexOf(question.answer)) {
-                displayAlert('alert-success', `Correct! Answer: ${question.answer}`);
-                setTimeout(() => {
-                    currentQuestionIndex++;
-                    if (currentQuestionIndex < questions.length) {
-                        displayNextQuestion(questions, page, pageSize);
-                    } else {
-                        alert('End of questions');
-                    }
-                }, 2000); // Wait for 2 seconds before displaying the next question
-            } else {
-                displayAlert('alert-danger', 'Incorrect answer');
-            }
-        });
-    }
-    
-    // Function to display the next question
-    function displayNextQuestion(questions, page, pageSize) {
-        const nextPage = Math.ceil((currentQuestionIndex + 1) / pageSize);
-        displayQuestions(questions, nextPage, pageSize);
-    }
-    
-    // Function to display Bootstrap alert
-    function displayAlert(alertClass, alertText) {
-        const alertDiv = document.getElementById('answerAlert');
-        alertDiv.className = `alert ${alertClass} alert-dismissible fade show`;
-        alertDiv.textContent = alertText;
-        alertDiv.style.display = 'block';
-    }
-    
-    // Entry point
-    async function main() {
-        const pageSize = 1; // Number of questions per page
-        const questions = await fetchQuestions();
-        if (questions.length > 0) {
-            displayQuestions(questions, 1, pageSize); // Display first page by default
-        } else {
-            console.error('No questions available.');
-        }
-    }
-    
-    main();
-    </script>
-    
+<div id="question-container" class="container"></div>
+<div id="pagination-buttons"></div>
+
+<script>
+  let currentQuestionIndex = 0;
+  const totalQuestionsToShow = 75; // Total number of questions to show
+
+  // Function to fetch JSON file
+  async function fetchQuestions() {
+      try {
+          const response = await fetch('/assets/questions.json');
+          if (!response.ok) {
+              throw new Error('Failed to fetch questions');
+          }
+          const data = await response.json();
+          return data;
+      } catch (error) {
+          console.error('Error fetching questions:', error);
+          return [];
+      }
+  }
+
+  // Function to display questions based on current page
+  function displayQuestions(questions, page, pageSize) {
+      const startIndex = (page - 1) * pageSize;
+      const endIndex = startIndex + pageSize;
+      const currentPageQuestions = questions.slice(startIndex, endIndex);
+
+      const questionContainer = document.getElementById('question-container');
+      questionContainer.innerHTML = '';
+
+      const question = currentPageQuestions[0];
+      const questionDiv = document.createElement('div');
+      questionDiv.classList.add('row', 'mt-3', 'border', 'p-3');
+      questionDiv.innerHTML = `
+          <div class="col-md-6">
+              <div class="image-container">
+                  ${question.image ? `<img src="${question.image}" alt="Question Image" class="img-fluid">` : '<p>Image not available</p>'}
+              </div>
+              <div id="answerAlert" class="alert alert-dismissible fade" role="alert" style="display:none;"></div>
+          </div>
+          <div class="col-md-6">
+              <div class="info-container">
+                  <h3>${question.question}</h3>
+                  <div id="explanation" class="alert alert-success" role="alert" style="display:none;">
+                      ${question.explanation}
+                  </div>
+                  <form id="answerForm">
+                      ${question.questions.map((q, index) => `
+                          <input type="radio" id="option${index}" name="answer" value="${index}">
+                          <label for="option${index}">${q}</label><br>
+                      `).join('')}
+                  </form>
+                  <button id="nextButton" class="btn btn-primary mt-3" style="display:none;">Next</button>
+              </div>
+          </div>
+      `;
+      questionContainer.appendChild(questionDiv);
+
+      const answerForm = questionDiv.querySelector('#answerForm');
+      const nextButton = questionDiv.querySelector('#nextButton');
+
+      answerForm.addEventListener('change', (event) => {
+          const selectedIndex = parseInt(event.target.value);
+          if (selectedIndex === question.questions.indexOf(question.answer)) {
+              displayAlert('alert-success', `Correct! Answer: ${question.answer}`);
+              displayExplanation(); // Display explanation
+              nextButton.style.display = 'block'; // Show the "Next" button
+          } else {
+              displayAlert('alert-danger', 'Incorrect answer');
+          }
+      });
+
+      // Function to display explanation
+      function displayExplanation() {
+          const explanationDiv = questionDiv.querySelector('#explanation');
+          explanationDiv.style.display = 'block';
+      }
+
+      // Event listener for the "Next" button
+      nextButton.addEventListener('click', () => {
+          currentQuestionIndex++;
+          if (currentQuestionIndex < totalQuestionsToShow) {
+              if (currentQuestionIndex < questions.length) {
+                  displayNextQuestion(questions, page, pageSize);
+              } else {
+                  displayCongratulationMessage();
+              }
+          } else {
+              displayCongratulationMessage();
+          }
+      });
+  }
+
+  // Function to display the next question
+  function displayNextQuestion(questions, page, pageSize) {
+      const nextPage = Math.ceil((currentQuestionIndex + 1) / pageSize);
+      displayQuestions(questions, nextPage, pageSize);
+  }
+
+  // Function to display Bootstrap alert
+  function displayAlert(alertClass, alertText) {
+      const alertDiv = document.getElementById('answerAlert');
+      alertDiv.className = `alert ${alertClass} alert-dismissible fade show`;
+      alertDiv.textContent = alertText;
+      alertDiv.style.display = 'block';
+  }
+
+  // Function to display congratulatory message
+  function displayCongratulationMessage() {
+      const questionContainer = document.getElementById('question-container');
+      questionContainer.innerHTML = '';
+
+      const congratulationDiv = document.createElement('div');
+      congratulationDiv.classList.add('row', 'justify-content-center', 'text-center', 'py-5');
+      congratulationDiv.innerHTML = `
+          <div class="col-md-6">
+              <h2>Congratulations!</h2>
+              <p>You have completed all the questions.</p>
+              <a href="/test" class="btn btn-primary">Restart Quiz</a>
+          </div>
+      `;
+      questionContainer.appendChild(congratulationDiv);
+  }
+
+  // Entry point
+  async function main() {
+      const pageSize = 1; // Number of questions per page
+      const questions = await fetchQuestions();
+      if (questions.length > 0) {
+          displayQuestions(questions, 1, pageSize); // Display first page by default
+      } else {
+          console.error('No questions available.');
+      }
+  }
+
+  main();
+</script>
 
 
 
