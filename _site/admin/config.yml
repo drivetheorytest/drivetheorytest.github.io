@@ -43,8 +43,6 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
 
 
-
-pagecollections:
   - name: "page"
     label: "Pages"
     folder: "_pages"
