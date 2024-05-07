@@ -1,14 +1,14 @@
 ---
-layout: post
-title:  "How to Boost Your Confidence Before Your Driving Theory Test"
-author: Killcreek
+title: How to Boost Your Confidence Before Your Driving Theory Test
 image: /assets/images/boost-confidence.png
 categories:
-  - How-to
+  - How-To
 rating: "5"
 toc: true
 author: Killcreek
-beforetoc: With the right mindset and preparation, you can boost your confidence and conquer your driving theory test with ease. Remember to stay focused, stay positive, and believe in yourself. You've got this!
+beforetoc: With the right mindset and preparation, you can boost your confidence
+  and conquer your driving theory test with ease. Remember to stay focused, stay
+  positive, and believe in yourself. You've got this!
 ---
 When it comes to preparing for your driving theory test, confidence is key. We understand the nerves and anxiety that can accompany such an important examination, but fear not! We're here to equip you with the **knowledge** and strategies necessary to boost your confidence and ace your driving theory test with ease.
 
