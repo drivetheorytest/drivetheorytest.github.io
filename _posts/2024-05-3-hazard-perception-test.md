@@ -32,6 +32,12 @@ Now that we've laid the groundwork, let's explore some strategies for mastering 
 
 One of the most effective ways to prepare for the hazard perception test is to familiarize yourself with its format. Practice using official practice tests provided by your local licensing authority, as these will closely resemble the actual test format and help you get accustomed to identifying hazards in a simulated driving environment.
 
+
+<!-- _includes/cta.html -->
+
+{% include cta.html %}
+
+
 ### Develop Situational Awareness
 
 Situational awareness is crucial for hazard perception. Train yourself to constantly scan the road ahead, checking mirrors regularly and anticipating potential hazards before they materialize. This proactive approach will not only help you perform better on the test but also make you a safer driver in real-world situations.

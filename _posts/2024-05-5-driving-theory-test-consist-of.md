@@ -43,6 +43,11 @@ Engaging in [mock exams](/test/) is an invaluable component of preparation for t
 
 Effective revision techniques can significantly enhance learning and retention of information. Candidates should employ a variety of methods, such as note-taking, flashcards, mind maps, and group study sessions, to reinforce key concepts and reinforce their understanding of driving theory principles. Consistent and structured revision is essential for maximizing knowledge retention and performance on the test day.
 
+<!-- _includes/cta.html -->
+
+{% include cta.html %}
+
+
 ## Test Day Tips
 
 ### Arrive Early

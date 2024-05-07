@@ -53,6 +53,12 @@ Nerves can impact your performance on test day, so it's crucial to stay calm and
 
 Time management is key to success in the DVSA theory test. Allocate sufficient time to each question, but avoid spending too long on challenging ones. If you're unsure of an answer, make an educated guess and move on to maximize your chances of completing the test within the [allocated timeframe](/how-long-is-the-driving-test/).
 
+
+<!-- _includes/cta.html -->
+
+{% include cta.html %}
+
+
 ### Review and Reflect
 
 After completing mock tests or study sessions, take the time to review your performance and identify areas where you can improve. Reflect on your strengths and weaknesses, and tailor your study approach accordingly to ensure comprehensive preparation.

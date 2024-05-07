@@ -42,6 +42,14 @@ Invest ample time in studying the **Highway Code** and other relevant materials.
 
 Consistent practice is key to mastering the **Driving Theory Test**. Set aside dedicated study sessions and use **[mock tests](/test)** to gauge your progress. Focus on areas where you need improvement and strive to enhance your knowledge and understanding.
 
+
+
+<!-- _includes/cta.html -->
+
+{% include cta.html %}
+
+
+
 ### 3. Understand Road Signs and Markings
 
 Familiarize yourself with common **road signs** and **road markings** outlined in the **Highway Code**. Understanding the meaning of each sign and marking is crucial for interpreting traffic signals and navigating safely on the road.

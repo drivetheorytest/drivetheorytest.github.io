@@ -37,6 +37,12 @@ While the standard duration of the **driving theory test** is around **71 minute
 
 The process of booking and administration can impact the time it takes to complete the **driving theory test**. This includes checking in at the testing center, verifying identification, and receiving instructions from the invigilator.
 
+
+<!-- _includes/cta.html -->
+ 
+{% include cta.html %}
+
+
 ### Accessibility Adjustments
 
 Individuals with specific accessibility requirements may be entitled to additional time or other accommodations during the **driving theory test**. These adjustments aim to ensure that everyone has an equal opportunity to demonstrate their knowledge and skills.

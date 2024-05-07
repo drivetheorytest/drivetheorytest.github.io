@@ -38,6 +38,11 @@ To acclimate yourself to the testing environment, simulate test conditions whene
 
 Incorporate relaxation techniques into your study routine to manage stress and anxiety. Deep breathing exercises, progressive muscle relaxation, or mindfulness meditation can help calm your nerves and promote a sense of inner peace.
 
+
+<!-- _includes/cta.html -->
+
+{% include cta.html %}
+
 ### Confidence-Boosting Affirmations
 
 Repeat the following affirmations to yourself daily to reinforce a positive mindset:
