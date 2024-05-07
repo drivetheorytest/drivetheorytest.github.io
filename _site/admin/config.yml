@@ -44,7 +44,7 @@ collections:
 
 
 
-collections:
+pagecollections:
   - name: "page"
     label: "Pages"
     folder: "_pages"
