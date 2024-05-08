@@ -16,8 +16,7 @@ disqus: ""
 mailchimp-list: ""
 include: ["_pages"]
 permalink: /:title/
-email: press@bundldeals.xyz
-formsfree: xwkalnqd
+email: press@drivingtheorytest.info
 
 # Authors
 authors:
@@ -27,9 +26,9 @@ authors:
     avatar: "assets/images/avatar.png"
     email: mrgabonijeff@gmail.com
     gravatar: 298224aa0a009468d621d71b80cf8395
-    web: https://www.webdevpl.us
+    web: https://drivingtheorytest.info/
     facebook: 
-    description: "Web Developer/Designer🚀 turned SEO 🌐 / Writer 📝"
+    description: ""
 
 # Plugins
 plugins:
