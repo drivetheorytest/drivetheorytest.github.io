@@ -25,7 +25,7 @@ In this section, you'll be presented with a series of **multiple-choice question
 
 ### 2. Hazard Perception Test
 
-The hazard perception test assesses your ability to identify potential hazards on the road. You'll watch a series of video clips depicting various driving scenarios and must indicate when you perceive a hazard. Practicing with **official DVSA hazard perception videos** can help sharpen your observation skills and improve your performance in this section.
+The [hazard perception test](/hazard-perception-test/) assesses your ability to identify potential hazards on the road. You'll watch a series of video clips depicting various driving scenarios and must indicate when you perceive a hazard. Practicing with **official DVSA hazard perception videos** can help sharpen your observation skills and improve your performance in this section.
 
 
 > Related: [How Long is a Driving Theory Test?](/how-long-is-the-driving-test/)
@@ -56,7 +56,7 @@ Familiarize yourself with common **road signs** and **road markings** outlined i
 
 ### 4. Develop Hazard Perception Skills
 
-Practice **[hazard perception](/hazard-perception-test/)** using official DVSA videos and other resources. Train yourself to anticipate potential hazards, such as pedestrians crossing the road or vehicles suddenly changing lanes. Developing keen observation skills is essential for passing this portion of the test.
+Practice **hazard perception** using official DVSA videos and other resources. Train yourself to anticipate potential hazards, such as pedestrians crossing the road or vehicles suddenly changing lanes. Developing keen observation skills is essential for passing this portion of the test.
 
 ### 5. Stay Calm and Focused
 
