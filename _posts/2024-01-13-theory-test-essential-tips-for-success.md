@@ -52,11 +52,11 @@ Consistent practice is key to mastering the **Driving Theory Test**. Set aside d
 
 ### 3. Understand Road Signs and Markings
 
-Familiarize yourself with common **road signs** and **road markings** outlined in the **Highway Code**. Understanding the meaning of each sign and marking is crucial for interpreting traffic signals and navigating safely on the road.
+Familiarize yourself with common **road signs** and **road markings** outlined in the **[Highway Code](/test)**. Understanding the meaning of each sign and marking is crucial for interpreting traffic signals and navigating safely on the road.
 
 ### 4. Develop Hazard Perception Skills
 
-Practice **hazard perception** using official DVSA videos and other resources. Train yourself to anticipate potential hazards, such as pedestrians crossing the road or vehicles suddenly changing lanes. Developing keen observation skills is essential for passing this portion of the test.
+Practice **[hazard perception](/hazard-perception-test/)** using official DVSA videos and other resources. Train yourself to anticipate potential hazards, such as pedestrians crossing the road or vehicles suddenly changing lanes. Developing keen observation skills is essential for passing this portion of the test.
 
 ### 5. Stay Calm and Focused
 
