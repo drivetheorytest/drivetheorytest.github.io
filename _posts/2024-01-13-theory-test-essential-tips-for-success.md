@@ -28,7 +28,7 @@ In this section, you'll be presented with a series of **multiple-choice question
 The hazard perception test assesses your ability to identify potential hazards on the road. You'll watch a series of video clips depicting various driving scenarios and must indicate when you perceive a hazard. Practicing with **official DVSA hazard perception videos** can help sharpen your observation skills and improve your performance in this section.
 
 
-> [How Long is a Driving Theory Test?](/how-long-is-the-driving-test/)
+> Related: [How Long is a Driving Theory Test?](/how-long-is-the-driving-test/)
 
 ## Proven Strategies for Success
 
