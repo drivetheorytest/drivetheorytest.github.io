@@ -1,0 +1,78 @@
+---
+layout: page
+title: The Highway Code - Rules for Pedestrians
+permalink: /rules-for-pedestrians
+<!-- image: /assets/images/codes-pedestrians.jpg -->
+comments: false
+---
+
+ 
+<h2 class="text-center mt-4">General Guidance (rules 1 to 6)</h2>
+
+<ul class="list-group">
+    {% for codes in site.data.general-guidance %}
+    <li class="list-group-item">
+        <h3>{{ codes.rule }}</h3>
+         <p>{{ codes.content }}</p>
+        
+      </li>
+    {% endfor %}
+    </ul>
+
+    <br/>
+    <br/>
+    <br/>
+
+
+    <h2 class="text-center">Crossing the road (rules 7 to 17)</h2>
+
+    <ul class="list-group">
+        {% for codes in site.data.crossing-the-road %}
+        <li class="list-group-item">
+            <h3>{{ codes.rule }}</h3>
+             <p>{{ codes.content }}</p>
+            
+          </li>
+        {% endfor %}
+        </ul>
+
+
+        <br/>
+    <br/>
+    <br/>
+
+
+    <h2 class="text-center">Crossings (rules 18 to 30)</h2>
+
+    <ul class="list-group">
+        {% for codes in site.data.crossing %}
+        <li class="list-group-item">
+            <h3>{{ codes.rule }}</h3>
+             <p>{{ codes.content }}</p>
+            
+          </li>
+        {% endfor %}
+        </ul>
+
+        <br/>
+    <br/>
+    <br/>
+
+
+    <h2 class="text-center">Situations needing extra care (rules 31 to 35)</h2>
+
+    <ul class="list-group">
+        {% for codes in site.data.situations %}
+        <li class="list-group-item">
+            <h3>{{ codes.rule }}</h3>
+             <p>{{ codes.content }}</p>
+            
+          </li>
+        {% endfor %}
+        </ul>
+ 
+
+
+
+
+    </div>
