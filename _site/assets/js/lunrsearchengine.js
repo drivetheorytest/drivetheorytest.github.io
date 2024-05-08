@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/aff",
     "title": "Affiliate Page",
-    "body": " &nbsp;Theory Test Course  &nbsp;Codepen  &nbsp;Instagram  &nbsp;Twitter  &nbsp;Company Site"
+    "body": " &nbsp;Theory Test Course "
     }, {
     "id": 2,
     "url": "http://localhost:4000/authors",

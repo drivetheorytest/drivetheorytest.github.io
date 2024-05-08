@@ -6,4 +6,5 @@ site
 *~
 .jekyll-cache
 docker-compose.yml
+.vscode
 
