@@ -8,5 +8,5 @@ site
 docker-compose.yml
 .vscode
 Gemfile
-Gemlfile.lock
+Gemfile.lock
 
