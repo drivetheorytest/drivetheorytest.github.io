@@ -7,4 +7,6 @@ site
 .jekyll-cache
 docker-compose.yml
 .vscode
+Gemfile
+Gemlfile.lock
 
