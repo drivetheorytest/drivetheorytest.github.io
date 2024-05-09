@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "http://localhost:4000/aff",
     "title": "Affiliate Page",
-    "body": " &nbsp;Theory Test Course "
+    "body": "         Pass the theory test:      This course has everything you need to pass your driving theory test first time. Includes licensed DVSA content.                                                                            10% OFF - Buy All Courses         "
     }, {
     "id": 2,
     "url": "http://localhost:4000/authors",
