@@ -22,6 +22,7 @@ group :jekyll_plugins do
     gem 'jekyll-admin'
     gem 'github-pages'
     gem 'jekyll-compress-images', :git => 'https://github.com/valerijaspasojevic/jekyll-compress-images.git'
+    gem 'jekyll-compose', group: [:jekyll_plugins]
   
 
    
