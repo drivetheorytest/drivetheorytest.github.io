@@ -138,7 +138,7 @@
       questionDiv.innerHTML = `
           <div class="col-md-6">
               <div class="image-container">
-                  ${question.image ? `<img src="${question.image}" alt="Question Image" class="img-fluid">` : '<p>Image not available</p>'}
+                  ${question.image ? `<img src="${question.image}" alt="${question.question}" class="img-fluid">` : '<p>Image not available</p>'}
               </div>
               <div id="answerAlert" class="alert alert-dismissible fade" role="alert" style="display:none;"></div>
           </div>
