@@ -44,7 +44,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
 
 <div class="container mt-4">
   <div class="row">
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/40-mph.svg" class="card-img-top" alt="The maximum speed">
         <div class="card-body">
@@ -52,16 +52,15 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/national-speed-limit.svg" class="card-img-top" alt="The national speed limit">
         <div class="card-body">
           <p class="card-text">The national speed limit for the type of road and class of traffic applies.</p>
-          <p class="card-text">A larger sign indicates the start of a speed limit. Smaller repeater signs act as reminders. Repeater signs for a 30 mph limit are used only on roads with no street lighting. Repeater signs for the national speed limit are used only on roads with street lighting (other than motorways).</p>
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/40-mph-road-marking.svg" class="card-img-top" alt="Road marking">
         <div class="card-body">
@@ -69,7 +68,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/20-mph-zone.svg" class="card-img-top" alt="Entrance to a 20 mph zone">
         <div class="card-body">
@@ -77,7 +76,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/30-mph-zone.svg" class="card-img-top" alt="End of 20 mph zone">
         <div class="card-body">
@@ -85,7 +84,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/village-speed-limit.svg" class="card-img-top" alt="Start of a speed limit">
         <div class="card-body">
@@ -93,7 +92,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/start-of-motorway.svg" class="card-img-top" alt="Start of motorway regulations">
         <div class="card-body">
@@ -101,15 +100,15 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/new-30-mph.svg" class="card-img-top" alt="Point on a road">
         <div class="card-body">
-          <p class="card-text">Point on a road with street lighting where an existing 30 mph limit originally ended but has subsequently been extended (temporary sign). This sign alerts drivers that a previous higher limit has been replaced by a 30 mph limit by the removal of speed limit signs.</p>
+          <p class="card-text">Point on a road with street lighting where an existing 30 mph limit originally ended but has subsequently been extended (temporary sign).</p>
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/road-works.svg" class="card-img-top" alt="End of road works">
         <div class="card-body">
@@ -117,7 +116,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/speed-camera.svg" class="card-img-top" alt="Area where speed cameras are in use">
         <div class="card-body">
@@ -125,7 +124,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/average-speed-check.svg" class="card-img-top" alt="Length of road">
         <div class="card-body">
@@ -133,7 +132,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/enforcement-camera.svg" class="card-img-top" alt="Reminder that enforcement cameras">
         <div class="card-body">
@@ -141,7 +140,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/speed-camera-30-mph.svg" class="card-img-top" alt="Speed camera nearby">
         <div class="card-body">
@@ -149,7 +148,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/speed-camera-national-speed-limit.svg" class="card-img-top" alt="Speed camera nearby">
         <div class="card-body">
@@ -157,7 +156,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/max-speed-30-mph.svg" class="card-img-top" alt="Maximum speed advised">
         <div class="card-body">
@@ -165,7 +164,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/min-30-mph.svg" class="card-img-top" alt="Minimum speed permitted">
         <div class="card-body">
@@ -173,7 +172,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/end-of-min-30-mph.svg" class="card-img-top" alt="End of minimum speed requirement">
         <div class="card-body">
@@ -181,7 +180,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/variable-speed.svg" class="card-img-top" alt="Start of variable speed limit">
         <div class="card-body">
@@ -189,7 +188,7 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-    <div class="col-md-6 mb-4">
+    <div class="col-md-6">
       <div class="card">
         <img src="/assets/images/end-of-variable-speed.svg" class="card-img-top" alt="End of variable speed limit">
         <div class="card-body">
@@ -197,12 +196,12 @@ In areas of street lighting (other than on motorways), a speed limit of 30 mph a
         </div>
       </div>
     </div>
-
-    
   </div>
 </div>
 
+<!-- _includes/cta.html -->
 
+{% include cta.html %}
 
 
 ## Decoding Speed Limit Signage
