@@ -5,8 +5,8 @@
     <description>Your journey to becoming a licensed driver starts here. Don&apos;t let the fear of failing your theory test stand in your way. Our proven strategies and effective study tools will empower you to succeed.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 May 2024 04:24:34 +0800</pubDate>
-    <lastBuildDate>Tue, 14 May 2024 04:24:34 +0800</lastBuildDate>
+    <pubDate>Tue, 14 May 2024 09:40:26 +0800</pubDate>
+    <lastBuildDate>Tue, 14 May 2024 09:40:26 +0800</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -39,118 +39,165 @@
 
 &lt;p&gt;In areas of street lighting (other than on motorways), a speed limit of 30 mph applies unless signs show otherwise. In Wales, this limit is 20 mph.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/40-mph.svg&quot; alt=&quot;The maximum speed&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The maximum speed, in miles per hour, at which traffic may travel, if it is safe to do so.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/national-speed-limit.svg&quot; alt=&quot;The national speed limit&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The national speed limit for the type of road and class of traffic applies.&lt;/p&gt;
-
-&lt;p&gt;A larger sign indicates the start of a speed limit. Smaller repeater signs act as reminders. Repeater signs for a 30 mph limit are used only on roads with no street lighting. Repeater signs for the national speed limit are used only on roads with street lighting (other than motorways)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/40-mph-road-marking.svg&quot; alt=&quot;Road marking&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Road marking used in conjunction with upright signs to indicate the speed limit.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/20-mph-zone.svg&quot; alt=&quot;Entrance to a 20 mph zone&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Entrance to a 20 mph zone in which traffic-calming measures may be encountered.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/30-mph-zone.svg&quot; alt=&quot;End of 20 mph zone&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;End of 20 mph zone and start of 30 mph speed limit.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/village-speed-limit.svg&quot; alt=&quot;Start of a speed limit&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Start of a speed limit at the boundary of a town or village.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/start-of-motorway.svg&quot; alt=&quot;Start of motorway regulations&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Start of motorway regulations, including the national speed limit (unless a different speed limit is signed).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/new-30-mph.svg&quot; alt=&quot;Point on a road &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Point on a road with street lighting where an existing 30 mph limit originally ended but has subsequently been extended (temporary sign). This sign alerts drivers that a previous higher limit has been replaced by a 30 mph limit by the removal of speed limit signs.&lt;/p&gt;
-
-&lt;!-- _includes/cta.html --&gt;
-
-&lt;div class=&quot;container my-5 border border-light&quot;&gt;
+&lt;div class=&quot;container mt-4&quot;&gt;
   &lt;div class=&quot;row&quot;&gt;
-      &lt;div class=&quot;col-lg-6&quot;&gt;
-          &lt;h3&gt;Pass the theory test&lt;/h3&gt;
-          &lt;span class=&quot;text-secondary&quot;&gt;This course has everything you need to pass your driving theory test first time. Includes licensed DVSA content.&lt;/span&gt;
-          &lt;!-- Star Rating --&gt;
-          &lt;div class=&quot;star-rating&quot;&gt;
-              &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-              &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-              &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-              &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt; 4.9
-          &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/40-mph.svg&quot; class=&quot;card-img-top&quot; alt=&quot;The maximum speed&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;The maximum speed, in miles per hour, at which traffic may travel, if it is safe to do so.&lt;/p&gt;
+        &lt;/div&gt;
       &lt;/div&gt;
-      &lt;div class=&quot;col-lg-6&quot;&gt;
-          &lt;div class=&quot;d-flex flex-column justify-content-center h-100&quot;&gt;
-                &lt;a href=&quot;https://testbuddy.app/theory-test-practice-offer/?ref=46&quot; class=&quot;btn btn-primary btn-lg px-4 py-3 text-white rounded-pill mt-3 mt-sm-0&quot; style=&quot;font-size: 1.2rem;&quot;&gt;&lt;i class=&quot;fa fa-shopping-cart&quot;&gt;&lt;/i&gt; 10% OFF - Buy All Courses&lt;/a&gt;
-          &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/national-speed-limit.svg&quot; class=&quot;card-img-top&quot; alt=&quot;The national speed limit&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;The national speed limit for the type of road and class of traffic applies.&lt;/p&gt;
+          &lt;p class=&quot;card-text&quot;&gt;A larger sign indicates the start of a speed limit. Smaller repeater signs act as reminders. Repeater signs for a 30 mph limit are used only on roads with no street lighting. Repeater signs for the national speed limit are used only on roads with street lighting (other than motorways).&lt;/p&gt;
+        &lt;/div&gt;
       &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/40-mph-road-marking.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Road marking&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Road marking used in conjunction with upright signs to indicate the speed limit.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/20-mph-zone.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Entrance to a 20 mph zone&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Entrance to a 20 mph zone in which traffic-calming measures may be encountered.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/30-mph-zone.svg&quot; class=&quot;card-img-top&quot; alt=&quot;End of 20 mph zone&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;End of 20 mph zone and start of 30 mph speed limit.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/village-speed-limit.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Start of a speed limit&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Start of a speed limit at the boundary of a town or village.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/start-of-motorway.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Start of motorway regulations&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Start of motorway regulations, including the national speed limit (unless a different speed limit is signed).&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/new-30-mph.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Point on a road&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Point on a road with street lighting where an existing 30 mph limit originally ended but has subsequently been extended (temporary sign). This sign alerts drivers that a previous higher limit has been replaced by a 30 mph limit by the removal of speed limit signs.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/road-works.svg&quot; class=&quot;card-img-top&quot; alt=&quot;End of road works&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;End of road works and any temporary speed limit through those works (may be supplemented by a sign indicating the permanent speed limit beyond the road works).&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/speed-camera.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Area where speed cameras are in use&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Area where speed cameras are in use.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/average-speed-check.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Length of road&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Length of road where 2 cameras are used to measure the average speed of a vehicle between 2 points.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/enforcement-camera.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Reminder that enforcement cameras&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Reminder that enforcement cameras are in use (may be supplemented by a speed limit sign).&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/speed-camera-30-mph.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Speed camera nearby&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Speed camera nearby on a lit road with a 30 mph speed limit (i.e. where there are no speed limit repeater signs).&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/speed-camera-national-speed-limit.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Speed camera nearby&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Speed camera nearby on an unlit road subject to the national speed limit (i.e. where there are no speed limit repeater signs).&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/max-speed-30-mph.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Maximum speed advised&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Maximum speed advised, in miles per hour, at a bend (the plate may be used with other warning signs).&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/min-30-mph.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Minimum speed permitted&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Minimum speed permitted, in miles per hour, unless it is impracticable or unsafe to comply.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/end-of-min-30-mph.svg&quot; class=&quot;card-img-top&quot; alt=&quot;End of minimum speed requirement&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;End of minimum speed requirement.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/variable-speed.svg&quot; class=&quot;card-img-top&quot; alt=&quot;Start of variable speed limit&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;Start of variable speed limit on a length of road where enforcement cameras are in use.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6 mb-4&quot;&gt;
+      &lt;div class=&quot;card&quot;&gt;
+        &lt;img src=&quot;/assets/images/end-of-variable-speed.svg&quot; class=&quot;card-img-top&quot; alt=&quot;End of variable speed limit&quot; /&gt;
+        &lt;div class=&quot;card-body&quot;&gt;
+          &lt;p class=&quot;card-text&quot;&gt;End of variable speed limit. The national speed limit for the type of road and class of traffic now applies.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;style&gt;
-  /* Star Rating CSS */
-.star-rating {
-    color: #FFD700;
-    font-size: 24px;
-}
-
-.checked {
-    color: #FFD700;
-}
-&lt;/style&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/road-works.svg&quot; alt=&quot;End of road works&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;End of road works and any temporary speed limit through those works (may be supplemented by a sign indicating the permanent speed limit beyond the road works).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/speed-camera.svg&quot; alt=&quot;Area where speed cameras are in use&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Area where speed cameras are in use.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/average-speed-check.svg&quot; alt=&quot;Length of road&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Length of road where 2 cameras are used to measure the average speed of a vehicle between 2 points.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/enforcement-camera.svg&quot; alt=&quot;Reminder that enforcement cameras&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Reminder that enforcement cameras are in use (may be supplemented by a speed limit sign).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/speed-camera-30-mph.svg&quot; alt=&quot;Speed camera nearby&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speed camera nearby on a lit road with a 30 mph speed limit (i.e. where there are no speed limit repeater signs).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/speed-camera-national-speed-limit.svg&quot; alt=&quot;Speed camera nearby&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Speed camera nearby on an unlit road subject to the national speed limit (i.e. where there are no speed limit repeater signs).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/max-speed-30-mph.svg&quot; alt=&quot;Maximum speed advised&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Maximum speed advised, in miles per hour, at a bend (the plate may be used with other warning signs).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/min-30-mph.svg&quot; alt=&quot;Minimum speed permitted&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Minimum speed permitted, in miles per hour, unless it is impracticable or unsafe to comply.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/end-of-min-30-mph.svg&quot; alt=&quot;End of minimum speed requirement&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;End of minimum speed requirement.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/variable-speed.svg&quot; alt=&quot;Start of variable speed limit&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Start of variable speed limit on a length of road where enforcement cameras are in use.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/end-of-variable-speed.svg&quot; alt=&quot;End of variable speed limit&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;End of variable speed limit. The national speed limit for the type of road and class of traffic now applies.&lt;/p&gt;
 
 &lt;h2 id=&quot;decoding-speed-limit-signage&quot;&gt;Decoding Speed Limit Signage&lt;/h2&gt;
 
@@ -244,7 +291,7 @@
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt; 4.9
+              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;  
           &lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&quot;col-lg-6&quot;&gt;
@@ -354,7 +401,7 @@
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt; 4.9
+              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;  
           &lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&quot;col-lg-6&quot;&gt;
@@ -460,7 +507,7 @@
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt; 4.9
+              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;  
           &lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&quot;col-lg-6&quot;&gt;
@@ -546,7 +593,7 @@
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt; 4.9
+              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;  
           &lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&quot;col-lg-6&quot;&gt;
@@ -632,7 +679,7 @@
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt; 4.9
+              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;  
           &lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&quot;col-lg-6&quot;&gt;
@@ -723,7 +770,7 @@
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt; 4.9
+              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;  
           &lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&quot;col-lg-6&quot;&gt;
@@ -825,7 +872,7 @@
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt; 4.9
+              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;  
           &lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&quot;col-lg-6&quot;&gt;
@@ -905,7 +952,7 @@
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
               &lt;span class=&quot;fa fa-star checked&quot;&gt;&lt;/span&gt;
-              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt; 4.9
+              &lt;span class=&quot;fa fa-star&quot;&gt;&lt;/span&gt;  
           &lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&quot;col-lg-6&quot;&gt;
