@@ -74,7 +74,7 @@ To ensure you receive top-notch instruction, look for the following qualities in
 
 {% include cta.html %}
 
-
+****
 ## **Common Questions When Choosing an ADI**
 
 ### **How many lessons will I need?**
@@ -88,6 +88,30 @@ You should bring your provisional driving license, any glasses or contact lenses
 ### **Can I change instructors if I am not satisfied?**
 
 Yes, if you are not satisfied with your current ADI, you have the right to switch instructors. Ensure you communicate your reasons for leaving and any concerns you have to your new instructor.
+
+
+ 
+
+
+
+<br/><br/>
+### Check a driving instructor who is not listed
+
+Contact  DVSA  to check if the driving instructor is qualified.
+
+You need their name and  ADI  number (if you have it).
+
+**DVSA driving test enquiries**
+[customerservices@dvsa.gov.uk](mailto:customerservices@dvsa.gov.uk)  
+Telephone: 0300 200 1122  
+Monday to Friday, 8am to 4pm  
+[Find out about call charges](https://www.gov.uk/call-charges)
+<br/><br/>
+
+<a href="https://finddrivinginstructor.dvsa.gov.uk/DSAFindNearestWebApp/findNearest.form?lang=en&_ga=2.217091472.720677894.1715619173-1464072300.1714430794" class="tn btn-primary btn-lg px-4 py-3 text-white mt-3 mt-sm-0">Start Now</a>
+<p>on the find driving instructors service</p>
+<br/><br/>
+
 
 ## **Conclusion**
 
