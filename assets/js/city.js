@@ -325,7 +325,7 @@ const urls = [
     '/yeading-london',
     '/yeovil',
     '/york',
-    '/zbirmingham-wyndley',
+    '/birmingham-wyndley',
     '/national-figures'
     
 ];
