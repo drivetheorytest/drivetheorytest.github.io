@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Kelso"
+months: N/A
+male_conducted: 141
+male_passes: 92
+male_passes_rate_percentage: 65.2
+female_conducted: 127
+female_passes: 89
+female_pass_rate_percentage: 70.1
+total_conducted: 268
+total_passes: 181
+total_pass_rate_percentage: 67.5
+---
+
+# Kelso

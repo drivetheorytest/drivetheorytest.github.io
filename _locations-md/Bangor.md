@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Bangor"
+months: N/A
+male_conducted: 1076
+male_passes: 542
+male_passes_rate_percentage: 50.4
+female_conducted: 1029
+female_passes: 571
+female_pass_rate_percentage: 55.5
+total_conducted: 2105
+total_passes: 1113
+total_pass_rate_percentage: 52.9
+---
+
+# Bangor

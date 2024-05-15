@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Ipswich"
+months: N/A
+male_conducted: 4068
+male_passes: 2434
+male_passes_rate_percentage: 59.8
+female_conducted: 3164
+female_passes: 1911
+female_pass_rate_percentage: 60.4
+total_conducted: 7232
+total_passes: 4345
+total_pass_rate_percentage: 60.1
+---
+
+# Ipswich

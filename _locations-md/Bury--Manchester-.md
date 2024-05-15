@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Bury (Manchester)"
+months: N/A
+male_conducted: 2984
+male_passes: 1236
+male_passes_rate_percentage: 41.4
+female_conducted: 2504
+female_passes: 903
+female_pass_rate_percentage: 36.1
+total_conducted: 5493
+total_passes: 2140
+total_pass_rate_percentage: 39
+---
+
+# Bury (Manchester)

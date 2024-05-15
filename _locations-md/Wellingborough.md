@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Wellingborough"
+months: N/A
+male_conducted: 440
+male_passes: 239
+male_passes_rate_percentage: 54.3
+female_conducted: 505
+female_passes: 274
+female_pass_rate_percentage: 54.3
+total_conducted: 945
+total_passes: 513
+total_pass_rate_percentage: 54.3
+---
+
+# Wellingborough

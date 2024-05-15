@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Dumfries"
+months: N/A
+male_conducted: 990
+male_passes: 495
+male_passes_rate_percentage: 50
+female_conducted: 872
+female_passes: 446
+female_pass_rate_percentage: 51.1
+total_conducted: 1862
+total_passes: 941
+total_pass_rate_percentage: 50.5
+---
+
+# Dumfries

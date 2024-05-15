@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Alness"
+months: N/A
+male_conducted: 328
+male_passes: 208
+male_passes_rate_percentage: 63.4
+female_conducted: 357
+female_passes: 203
+female_pass_rate_percentage: 56.9
+total_conducted: 685
+total_passes: 411
+total_pass_rate_percentage: 60
+---
+
+# Alness

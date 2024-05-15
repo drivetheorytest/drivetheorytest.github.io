@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Leeds"
+months: N/A
+male_conducted: 3729
+male_passes: 1915
+male_passes_rate_percentage: 51.4
+female_conducted: 3134
+female_passes: 1438
+female_pass_rate_percentage: 45.9
+total_conducted: 6865
+total_passes: 3354
+total_pass_rate_percentage: 48.9
+---
+
+# Leeds

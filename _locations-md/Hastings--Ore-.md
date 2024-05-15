@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Hastings (Ore)"
+months: N/A
+male_conducted: 1409
+male_passes: 673
+male_passes_rate_percentage: 47.8
+female_conducted: 1227
+female_passes: 592
+female_pass_rate_percentage: 48.2
+total_conducted: 2636
+total_passes: 1265
+total_pass_rate_percentage: 48
+---
+
+# Hastings (Ore)

@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Farnborough"
+months: N/A
+male_conducted: 4051
+male_passes: 2462
+male_passes_rate_percentage: 60.8
+female_conducted: 3761
+female_passes: 2068
+female_pass_rate_percentage: 55
+total_conducted: 7812
+total_passes: 4530
+total_pass_rate_percentage: 58
+---
+
+# Farnborough

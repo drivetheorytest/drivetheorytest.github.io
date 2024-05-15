@@ -18,6 +18,19 @@ include: ["_pages"]
 permalink: /:title/
 email: press@drivingtheorytest.info
 
+
+collections:
+  cities:
+    output: true
+     
+
+
+collections:
+  locations-md:
+    output: true
+    permalink: /:name/
+
+
 # Authors
 authors:
   killcreek:

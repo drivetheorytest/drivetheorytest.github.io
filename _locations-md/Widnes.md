@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Widnes"
+months: N/A
+male_conducted: 1980
+male_passes: 922
+male_passes_rate_percentage: 46.6
+female_conducted: 2064
+female_passes: 817
+female_pass_rate_percentage: 39.6
+total_conducted: 4044
+total_passes: 1739
+total_pass_rate_percentage: 43
+---
+
+# Widnes

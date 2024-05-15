@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Malton"
+months: N/A
+male_conducted: 179
+male_passes: 106
+male_passes_rate_percentage: 59.2
+female_conducted: 231
+female_passes: 133
+female_pass_rate_percentage: 57.6
+total_conducted: 410
+total_passes: 239
+total_pass_rate_percentage: 58.3
+---
+
+# Malton

@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Skegness"
+months: N/A
+male_conducted: 420
+male_passes: 263
+male_passes_rate_percentage: 62.6
+female_conducted: 433
+female_passes: 261
+female_pass_rate_percentage: 60.3
+total_conducted: 853
+total_passes: 524
+total_pass_rate_percentage: 61.4
+---
+
+# Skegness

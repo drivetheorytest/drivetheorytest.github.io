@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Hither Green (London)"
+months: N/A
+male_conducted: 1603
+male_passes: 891
+male_passes_rate_percentage: 55.6
+female_conducted: 1666
+female_passes: 817
+female_pass_rate_percentage: 49
+total_conducted: 3269
+total_passes: 1708
+total_pass_rate_percentage: 52.2
+---
+
+# Hither Green (London)

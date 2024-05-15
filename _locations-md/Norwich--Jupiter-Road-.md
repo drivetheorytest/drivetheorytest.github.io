@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Norwich (Jupiter Road)"
+months: N/A
+male_conducted: 2479
+male_passes: 996
+male_passes_rate_percentage: 40.2
+female_conducted: 1474
+female_passes: 632
+female_pass_rate_percentage: 42.9
+total_conducted: 3953
+total_passes: 1628
+total_pass_rate_percentage: 41.2
+---
+
+# Norwich (Jupiter Road)

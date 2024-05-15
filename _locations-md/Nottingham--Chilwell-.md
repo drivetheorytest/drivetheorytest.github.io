@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Nottingham (Chilwell)"
+months: N/A
+male_conducted: 3495
+male_passes: 1404
+male_passes_rate_percentage: 40.2
+female_conducted: 2866
+female_passes: 1088
+female_pass_rate_percentage: 38
+total_conducted: 6361
+total_passes: 2492
+total_pass_rate_percentage: 39.2
+---
+
+# Nottingham (Chilwell)

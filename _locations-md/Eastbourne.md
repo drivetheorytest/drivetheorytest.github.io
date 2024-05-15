@@ -1,0 +1,16 @@
+---
+layout: location
+title: "Eastbourne"
+months: N/A
+male_conducted: 2637
+male_passes: 1314
+male_passes_rate_percentage: 49.8
+female_conducted: 2247
+female_passes: 1066
+female_pass_rate_percentage: 47.4
+total_conducted: 4884
+total_passes: 2380
+total_pass_rate_percentage: 48.7
+---
+
+# Eastbourne
