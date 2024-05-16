@@ -8,7 +8,7 @@ categories:
 image: "/assets/images/dtt-cost.png"
 rating: 5
 toc: true
-beforetoc: Fhile the process of getting your driving license in the UK can be expensive, careful planning and budgeting can help you manage the costs effectively
+beforetoc: While the process of getting your driving license in the UK can be expensive, careful planning and budgeting can help you manage the costs effectively
 ---
 
 
