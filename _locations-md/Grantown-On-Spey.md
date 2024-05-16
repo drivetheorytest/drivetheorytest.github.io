@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Grantown-On-Spey"
+description: Practising Grantown-On-Spey's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Grantown-On-Spey
 months: N/A
 male_conducted: 62
 male_passes: 35

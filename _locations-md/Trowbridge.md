@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Trowbridge"
+description: Practising Trowbridge's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Trowbridge
 months: N/A
 male_conducted: 1028
 male_passes: 515

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Stevenage"
+description: Practising Stevenage's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Stevenage
 months: N/A
 male_conducted: 1522
 male_passes: 662

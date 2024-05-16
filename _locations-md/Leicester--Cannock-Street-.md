@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Leicester (Cannock Street)"
+description: Practising Leicester (Cannock Street)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Leicester (Cannock Street)
 months: N/A
 male_conducted: 6662
 male_passes: 2687

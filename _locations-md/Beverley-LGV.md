@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Beverley LGV"
+description: Practising Beverley LGV's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Beverley LGV
 months: N/A
 male_conducted: 259
 male_passes: 137

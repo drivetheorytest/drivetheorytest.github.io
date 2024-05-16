@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Heysham"
+description: Practising Heysham's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Heysham
 months: N/A
 male_conducted: 1581
 male_passes: 866

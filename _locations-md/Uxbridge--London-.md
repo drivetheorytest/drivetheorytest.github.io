@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Uxbridge (London)"
+description: Practising Uxbridge (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Uxbridge (London)
 months: N/A
 male_conducted: 3189
 male_passes: 1510

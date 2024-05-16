@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Bishopbriggs"
+description: Practising Bishopbriggs's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Bishopbriggs
 months: N/A
 male_conducted: 3041
 male_passes: 1598

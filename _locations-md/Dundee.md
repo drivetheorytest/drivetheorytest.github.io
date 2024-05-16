@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Dundee"
+description: Practising Dundee's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Dundee
 months: N/A
 male_conducted: 2397
 male_passes: 1511

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Aberystwyth (Park Avenue)"
+description: Practising Aberystwyth (Park Avenue)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Aberystwyth (Park Avenue)
 months: N/A
 male_conducted: 514
 male_passes: 316

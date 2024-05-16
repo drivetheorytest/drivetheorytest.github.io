@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Rothesay"
+description: Practising Rothesay's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Rothesay
 months: N/A
 male_conducted: 47
 male_passes: 28

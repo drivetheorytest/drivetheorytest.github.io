@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "West Wickham (London)"
+description: Practising West Wickham (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in West Wickham (London)
 months: N/A
 male_conducted: 4384
 male_passes: 2135

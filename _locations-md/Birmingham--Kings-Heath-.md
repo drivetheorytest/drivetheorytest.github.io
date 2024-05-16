@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Birmingham (Kings Heath)"
+description: Practising Birmingham (Kings Heath)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Birmingham (Kings Heath)
 months: N/A
 male_conducted: 2943
 male_passes: 1346

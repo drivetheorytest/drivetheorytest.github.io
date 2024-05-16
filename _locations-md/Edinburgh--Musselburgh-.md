@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Edinburgh (Musselburgh)"
+description: Practising Edinburgh (Musselburgh)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Edinburgh (Musselburgh)
 months: N/A
 male_conducted: 3155
 male_passes: 1344

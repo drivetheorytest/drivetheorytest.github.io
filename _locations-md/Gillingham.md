@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Gillingham"
+description: Practising Gillingham's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Gillingham
 months: N/A
 male_conducted: 4789
 male_passes: 2751

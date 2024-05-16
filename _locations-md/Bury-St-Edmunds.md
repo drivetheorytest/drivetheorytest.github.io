@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Bury St Edmunds"
+description: Practising Bury St Edmunds's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Bury St Edmunds
 months: N/A
 male_conducted: 3564
 male_passes: 1482

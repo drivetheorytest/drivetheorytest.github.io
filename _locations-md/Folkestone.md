@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Folkestone"
+description: Practising Folkestone's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Folkestone
 months: N/A
 male_conducted: 1249
 male_passes: 537

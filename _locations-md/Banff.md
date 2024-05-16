@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Banff"
+description: Practising Banff's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Banff
 months: N/A
 male_conducted: 81
 male_passes: 43

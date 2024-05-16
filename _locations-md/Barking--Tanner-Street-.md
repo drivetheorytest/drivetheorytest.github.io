@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Barking (Tanner Street)"
+description: Practising Barking (Tanner Street)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Barking (Tanner Street)
 months: N/A
 male_conducted: 2973
 male_passes: 1222

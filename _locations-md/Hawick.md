@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Hawick"
+description: Practising Hawick's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Hawick
 months: N/A
 male_conducted: 143
 male_passes: 109

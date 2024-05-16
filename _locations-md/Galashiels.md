@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Galashiels"
+description: Practising Galashiels's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Galashiels
 months: N/A
 male_conducted: 728
 male_passes: 429

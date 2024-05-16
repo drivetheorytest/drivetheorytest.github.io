@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Thurso"
+description: Practising Thurso's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Thurso
 months: N/A
 male_conducted: 80
 male_passes: 47

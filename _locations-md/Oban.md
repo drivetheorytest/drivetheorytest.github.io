@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Oban"
+description: Practising Oban's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Oban
 months: N/A
 male_conducted: 127
 male_passes: 76

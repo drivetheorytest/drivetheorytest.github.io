@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Paisley"
+description: Practising Paisley's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Paisley
 months: N/A
 male_conducted: 2013
 male_passes: 1032

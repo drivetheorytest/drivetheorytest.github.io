@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Chelmsford (Hanbury Road)"
+description: Practising Chelmsford (Hanbury Road)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Chelmsford (Hanbury Road)
 months: N/A
 male_conducted: 5410
 male_passes: 2674

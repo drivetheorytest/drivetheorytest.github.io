@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Louth"
+description: Practising Louth's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Louth
 months: N/A
 male_conducted: 252
 male_passes: 147

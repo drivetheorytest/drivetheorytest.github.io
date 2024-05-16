@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Burton on Trent"
+description: Practising Burton on Trent's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Burton on Trent
 months: N/A
 male_conducted: 2881
 male_passes: 1555

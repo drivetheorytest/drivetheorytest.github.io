@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Forfar"
+description: Practising Forfar's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Forfar
 months: N/A
 male_conducted: 248
 male_passes: 189

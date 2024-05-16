@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Middlesbrough"
+description: Practising Middlesbrough's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Middlesbrough
 months: N/A
 male_conducted: 3599
 male_passes: 1881

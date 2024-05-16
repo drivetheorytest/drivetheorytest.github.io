@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Bristol (Avonmouth)"
+description: Practising Bristol (Avonmouth)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Bristol (Avonmouth)
 months: N/A
 male_conducted: 4266
 male_passes: 2407

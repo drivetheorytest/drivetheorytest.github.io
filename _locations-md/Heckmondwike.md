@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Heckmondwike"
+description: Practising Heckmondwike's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Heckmondwike
 months: N/A
 male_conducted: 2187
 male_passes: 1113

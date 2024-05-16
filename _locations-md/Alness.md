@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Alness"
+description: Practising Alness's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Alness
 months: N/A
 male_conducted: 328
 male_passes: 208

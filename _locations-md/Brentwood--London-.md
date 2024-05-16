@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Brentwood (London)"
+description: Practising Brentwood (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Brentwood (London)
 months: N/A
 male_conducted: 1926
 male_passes: 963

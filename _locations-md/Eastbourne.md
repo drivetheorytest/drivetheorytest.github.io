@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Eastbourne"
+description: Practising Eastbourne's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Eastbourne
 months: N/A
 male_conducted: 2637
 male_passes: 1314

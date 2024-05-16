@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Wednesbury"
+description: Practising Wednesbury's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Wednesbury
 months: N/A
 male_conducted: 3241
 male_passes: 1299

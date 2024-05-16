@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Redditch"
+description: Practising Redditch's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Redditch
 months: N/A
 male_conducted: 2516
 male_passes: 1157

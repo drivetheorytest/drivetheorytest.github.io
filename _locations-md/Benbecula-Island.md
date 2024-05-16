@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Benbecula Island"
+description: Practising Benbecula Island's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Benbecula Island
 months: N/A
 male_conducted: 36
 male_passes: 32

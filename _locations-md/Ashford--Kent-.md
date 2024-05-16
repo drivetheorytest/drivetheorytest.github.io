@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Ashford (Kent)"
+description: Practising Ashford (Kent)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Ashford (Kent)
 months: N/A
 male_conducted: 1812
 male_passes: 914

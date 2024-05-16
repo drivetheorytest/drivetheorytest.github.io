@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Bodmin"
+description: Practising Bodmin's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Bodmin
 months: N/A
 male_conducted: 2373
 male_passes: 1018

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Northwich"
+description: Practising Northwich's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Northwich
 months: N/A
 male_conducted: N/A
 male_passes: N/A

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Blackburn with Darwen"
+description: Practising Blackburn with Darwen's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Blackburn with Darwen
 months: N/A
 male_conducted: 3391
 male_passes: 1655

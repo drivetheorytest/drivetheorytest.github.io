@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Pwllheli"
+description: Practising Pwllheli's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Pwllheli
 months: N/A
 male_conducted: 337
 male_passes: 177

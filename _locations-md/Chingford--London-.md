@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Chingford (London)"
+description: Practising Chingford (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Chingford (London)
 months: N/A
 male_conducted: 6266
 male_passes: 2408

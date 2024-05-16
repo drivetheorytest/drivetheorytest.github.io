@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Llantrisant"
+description: Practising Llantrisant's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Llantrisant
 months: N/A
 male_conducted: 3447
 male_passes: 1917

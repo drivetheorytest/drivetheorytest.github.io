@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Coventry"
+description: Practising Coventry's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Coventry
 months: N/A
 male_conducted: 3725
 male_passes: 1633

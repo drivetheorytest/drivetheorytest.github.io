@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Swindon"
+description: Practising Swindon's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Swindon
 months: N/A
 male_conducted: 3489
 male_passes: 1673

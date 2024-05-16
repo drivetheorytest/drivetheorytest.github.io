@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Isle of Skye (Portree)"
+description: Practising Isle of Skye (Portree)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Isle of Skye (Portree)
 months: N/A
 male_conducted: 49
 male_passes: 30

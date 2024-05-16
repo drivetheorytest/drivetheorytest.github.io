@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Bromley (London)"
+description: Practising Bromley (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Bromley (London)
 months: N/A
 male_conducted: 3798
 male_passes: 2099

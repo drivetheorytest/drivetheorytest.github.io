@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "High Wycombe"
+description: Practising High Wycombe's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in High Wycombe
 months: N/A
 male_conducted: 944
 male_passes: 524

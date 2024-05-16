@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Stirling"
+description: Practising Stirling's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Stirling
 months: N/A
 male_conducted: 1213
 male_passes: 609

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Pembroke Dock"
+description: Practising Pembroke Dock's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Pembroke Dock
 months: N/A
 male_conducted: 807
 male_passes: 439

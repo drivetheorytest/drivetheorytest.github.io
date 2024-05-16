@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Luton"
+description: Practising Luton's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Luton
 months: N/A
 male_conducted: 5243
 male_passes: 2107

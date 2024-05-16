@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Kendal (Oxenholme Road)"
+description: Practising Kendal (Oxenholme Road)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Kendal (Oxenholme Road)
 months: N/A
 male_conducted: 884
 male_passes: 566

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Exeter LGV"
+description: Practising Exeter LGV's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Exeter LGV
 months: N/A
 male_conducted: 222
 male_passes: 78

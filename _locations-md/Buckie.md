@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Buckie"
+description: Practising Buckie's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Buckie
 months: N/A
 male_conducted: 130
 male_passes: 54

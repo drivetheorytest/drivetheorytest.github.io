@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Stoke-On-Trent (Cobridge)"
+description: Practising Stoke-On-Trent (Cobridge)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Stoke-On-Trent (Cobridge)
 months: N/A
 male_conducted: 1617
 male_passes: 690

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Bishops Stortford"
+description: Practising Bishops Stortford's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Bishops Stortford
 months: N/A
 male_conducted: 3024
 male_passes: 1515

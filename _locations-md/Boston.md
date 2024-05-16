@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Boston"
+description: Practising Boston's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Boston
 months: N/A
 male_conducted: 1950
 male_passes: 1043

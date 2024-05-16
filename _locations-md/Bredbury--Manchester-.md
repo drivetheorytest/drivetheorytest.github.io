@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Bredbury (Manchester)"
+description: Practising Bredbury (Manchester)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Bredbury (Manchester)
 months: N/A
 male_conducted: 3885
 male_passes: 2099

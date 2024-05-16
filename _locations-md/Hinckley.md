@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Hinckley"
+description: Practising Hinckley's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Hinckley
 months: N/A
 male_conducted: 1029
 male_passes: 527

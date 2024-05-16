@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Melton Mowbray"
+description: Practising Melton Mowbray's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Melton Mowbray
 months: N/A
 male_conducted: 946
 male_passes: 576

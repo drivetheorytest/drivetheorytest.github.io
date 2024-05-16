@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Lincoln"
+description: Practising Lincoln's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Lincoln
 months: N/A
 male_conducted: 3336
 male_passes: 1677

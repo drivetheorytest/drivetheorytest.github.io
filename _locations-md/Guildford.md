@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Guildford"
+description: Practising Guildford's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Guildford
 months: N/A
 male_conducted: 2677
 male_passes: 1223

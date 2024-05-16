@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Durham"
+description: Practising Durham's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Durham
 months: N/A
 male_conducted: 3441
 male_passes: 1748

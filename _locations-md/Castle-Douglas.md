@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Castle Douglas"
+description: Practising Castle Douglas's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Castle Douglas
 months: N/A
 male_conducted: 192
 male_passes: 100

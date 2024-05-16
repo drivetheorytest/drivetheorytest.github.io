@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Inveraray"
+description: Practising Inveraray's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Inveraray
 months: N/A
 male_conducted: 29
 male_passes: 24

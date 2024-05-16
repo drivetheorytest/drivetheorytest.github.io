@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Leicester (Wigston)"
+description: Practising Leicester (Wigston)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Leicester (Wigston)
 months: N/A
 male_conducted: 6244
 male_passes: 2858

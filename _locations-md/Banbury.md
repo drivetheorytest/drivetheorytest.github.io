@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Banbury"
+description: Practising Banbury's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Banbury
 months: N/A
 male_conducted: 2302
 male_passes: 911

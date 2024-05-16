@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Irvine"
+description: Practising Irvine's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Irvine
 months: N/A
 male_conducted: 2601
 male_passes: 1295

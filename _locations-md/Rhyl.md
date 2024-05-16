@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Rhyl"
+description: Practising Rhyl's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Rhyl
 months: N/A
 male_conducted: 1476
 male_passes: 798

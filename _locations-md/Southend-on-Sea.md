@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Southend-on-Sea"
+description: Practising Southend-on-Sea's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Southend-on-Sea
 months: N/A
 male_conducted: 1639
 male_passes: 893

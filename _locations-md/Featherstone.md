@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Featherstone"
+description: Practising Featherstone's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Featherstone
 months: N/A
 male_conducted: 5511
 male_passes: 1864

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Brecon"
+description: Practising Brecon's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Brecon
 months: N/A
 male_conducted: 697
 male_passes: 421

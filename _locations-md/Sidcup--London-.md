@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Sidcup (London)"
+description: Practising Sidcup (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Sidcup (London)
 months: N/A
 male_conducted: 4803
 male_passes: 2866

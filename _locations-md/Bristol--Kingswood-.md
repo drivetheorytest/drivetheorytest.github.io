@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Bristol (Kingswood)"
+description: Practising Bristol (Kingswood)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Bristol (Kingswood)
 months: N/A
 male_conducted: 4508
 male_passes: 2455

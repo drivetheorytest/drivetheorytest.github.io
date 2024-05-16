@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Aberdeen North"
+description: Practising Aberdeen North's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Aberdeen North
 months: N/A
 male_conducted: 1642
 male_passes: 738

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Glasgow (Anniesland)"
+description: Practising Glasgow (Anniesland)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Glasgow (Anniesland)
 months: N/A
 male_conducted: 3093
 male_passes: 1436

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Wolverhampton"
+description: Practising Wolverhampton's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Wolverhampton
 months: N/A
 male_conducted: 6511
 male_passes: 2237

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Upton"
+description: Practising Upton's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Upton
 months: N/A
 male_conducted: 4273
 male_passes: 2039

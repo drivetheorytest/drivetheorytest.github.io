@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Rochdale (Manchester)"
+description: Practising Rochdale (Manchester)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Rochdale (Manchester)
 months: N/A
 male_conducted: 2522
 male_passes: 1104

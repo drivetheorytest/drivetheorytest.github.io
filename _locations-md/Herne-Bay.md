@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Herne Bay"
+description: Practising Herne Bay's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Herne Bay
 months: N/A
 male_conducted: 3154
 male_passes: 1792

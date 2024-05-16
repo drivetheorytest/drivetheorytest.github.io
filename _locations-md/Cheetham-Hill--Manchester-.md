@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Cheetham Hill (Manchester)"
+description: Practising Cheetham Hill (Manchester)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Cheetham Hill (Manchester)
 months: N/A
 male_conducted: 4406
 male_passes: 1978

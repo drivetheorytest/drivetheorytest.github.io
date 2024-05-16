@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Gloucester"
+description: Practising Gloucester's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Gloucester
 months: N/A
 male_conducted: 2135
 male_passes: 1022

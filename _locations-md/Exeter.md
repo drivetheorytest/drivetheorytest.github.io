@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Exeter"
+description: Practising Exeter's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Exeter
 months: N/A
 male_conducted: 3625
 male_passes: 1749

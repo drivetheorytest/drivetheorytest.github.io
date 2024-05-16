@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Plymouth"
+description: Practising Plymouth's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Plymouth
 months: N/A
 male_conducted: 3342
 male_passes: 1393

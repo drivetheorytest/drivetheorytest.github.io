@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Yeading (London)"
+description: Practising Yeading (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Yeading (London)
 months: N/A
 male_conducted: 2800
 male_passes: 1222

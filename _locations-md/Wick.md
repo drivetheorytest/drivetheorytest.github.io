@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Wick"
+description: Practising Wick's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Wick
 months: N/A
 male_conducted: 105
 male_passes: 66

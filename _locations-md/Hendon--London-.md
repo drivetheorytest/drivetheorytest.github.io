@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Hendon (London)"
+description: Practising Hendon (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Hendon (London)
 months: N/A
 male_conducted: 4681
 male_passes: 2416

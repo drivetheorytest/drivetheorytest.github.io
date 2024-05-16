@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Sale (Manchester)"
+description: Practising Sale (Manchester)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Sale (Manchester)
 months: N/A
 male_conducted: 3984
 male_passes: 2066

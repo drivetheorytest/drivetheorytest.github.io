@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Cheltenham"
+description: Practising Cheltenham's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Cheltenham
 months: N/A
 male_conducted: 2728
 male_passes: 1311

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Newton Stewart"
+description: Practising Newton Stewart's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Newton Stewart
 months: N/A
 male_conducted: 82
 male_passes: 52

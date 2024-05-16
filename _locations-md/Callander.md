@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Callander"
+description: Practising Callander's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Callander
 months: N/A
 male_conducted: 52
 male_passes: 25

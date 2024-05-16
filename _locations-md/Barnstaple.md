@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Barnstaple"
+description: Practising Barnstaple's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Barnstaple
 months: N/A
 male_conducted: 1484
 male_passes: 863

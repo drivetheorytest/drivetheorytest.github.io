@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Bolton (Manchester)"
+description: Practising Bolton (Manchester)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Bolton (Manchester)
 months: N/A
 male_conducted: 4618
 male_passes: 2745

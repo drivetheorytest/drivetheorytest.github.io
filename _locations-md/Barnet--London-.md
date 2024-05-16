@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Barnet (London)"
+description: Practising Barnet (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Barnet (London)
 months: N/A
 male_conducted: 4126
 male_passes: 2064

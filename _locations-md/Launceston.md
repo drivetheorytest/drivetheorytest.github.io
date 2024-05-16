@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Launceston"
+description: Practising Launceston's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Launceston
 months: N/A
 male_conducted: 1055
 male_passes: 447

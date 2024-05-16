@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Pitlochry"
+description: Practising Pitlochry's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Pitlochry
 months: N/A
 male_conducted: 44
 male_passes: 28

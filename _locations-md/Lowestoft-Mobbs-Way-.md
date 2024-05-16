@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Lowestoft(Mobbs Way)"
+description: Practising Lowestoft(Mobbs Way)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Lowestoft(Mobbs Way)
 months: N/A
 male_conducted: 1983
 male_passes: 943

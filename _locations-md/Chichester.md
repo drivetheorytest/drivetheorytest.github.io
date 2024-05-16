@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Chichester"
+description: Practising Chichester's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Chichester
 months: N/A
 male_conducted: 2907
 male_passes: 1908

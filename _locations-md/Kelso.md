@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Kelso"
+description: Practising Kelso's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Kelso
 months: N/A
 male_conducted: 141
 male_passes: 92

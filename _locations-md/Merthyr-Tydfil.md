@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Merthyr Tydfil"
+description: Practising Merthyr Tydfil's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Merthyr Tydfil
 months: N/A
 male_conducted: 1085
 male_passes: 553

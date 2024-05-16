@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Hereford"
+description: Practising Hereford's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Hereford
 months: N/A
 male_conducted: 1518
 male_passes: 875

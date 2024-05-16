@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Horsforth"
+description: Practising Horsforth's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Horsforth
 months: N/A
 male_conducted: 3987
 male_passes: 2066

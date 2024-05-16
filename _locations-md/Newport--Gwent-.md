@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Newport (Gwent)"
+description: Practising Newport (Gwent)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Newport (Gwent)
 months: N/A
 male_conducted: 2313
 male_passes: 1086

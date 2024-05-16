@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Barra"
+description: Practising Barra's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Barra
 months: N/A
 male_conducted: 10
 male_passes: 8

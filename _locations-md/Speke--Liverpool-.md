@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Speke (Liverpool)"
+description: Practising Speke (Liverpool)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Speke (Liverpool)
 months: N/A
 male_conducted: 4204
 male_passes: 1361

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Burgess Hill"
+description: Practising Burgess Hill's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Burgess Hill
 months: N/A
 male_conducted: 5540
 male_passes: 2429

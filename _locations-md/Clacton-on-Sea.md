@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Clacton-on-Sea"
+description: Practising Clacton-on-Sea's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Clacton-on-Sea
 months: N/A
 male_conducted: 801
 male_passes: 443

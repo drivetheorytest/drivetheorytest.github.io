@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Hartlepool"
+description: Practising Hartlepool's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Hartlepool
 months: N/A
 male_conducted: 3468
 male_passes: 1590

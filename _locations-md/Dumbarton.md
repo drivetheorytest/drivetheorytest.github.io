@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Dumbarton"
+description: Practising Dumbarton's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Dumbarton
 months: N/A
 male_conducted: 723
 male_passes: 353

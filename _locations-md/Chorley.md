@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Chorley"
+description: Practising Chorley's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Chorley
 months: N/A
 male_conducted: 1578
 male_passes: 894

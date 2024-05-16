@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Colchester"
+description: Practising Colchester's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Colchester
 months: N/A
 male_conducted: 4444
 male_passes: 2060

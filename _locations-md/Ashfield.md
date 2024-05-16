@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Ashfield"
+description: Practising Ashfield's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Ashfield
 months: N/A
 male_conducted: 4033
 male_passes: 2176

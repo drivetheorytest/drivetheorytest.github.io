@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Cardigan"
+description: Practising Cardigan's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Cardigan
 months: N/A
 male_conducted: 559
 male_passes: 275

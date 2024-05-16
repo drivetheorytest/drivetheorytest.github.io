@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Chadderton"
+description: Practising Chadderton's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Chadderton
 months: N/A
 male_conducted: 4829
 male_passes: 2312

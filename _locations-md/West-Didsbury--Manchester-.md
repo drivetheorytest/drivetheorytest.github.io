@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "West Didsbury (Manchester)"
+description: Practising West Didsbury (Manchester)'s driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in West Didsbury (Manchester)
 months: N/A
 male_conducted: 7077
 male_passes: 3793

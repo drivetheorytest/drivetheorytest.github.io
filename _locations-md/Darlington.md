@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Darlington"
+description: Practising Darlington's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Darlington
 months: N/A
 male_conducted: 3312
 male_passes: 1805

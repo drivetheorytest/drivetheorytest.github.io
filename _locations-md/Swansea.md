@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Swansea"
+description: Practising Swansea's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Swansea
 months: N/A
 male_conducted: 4422
 male_passes: 2389

@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Lerwick"
+description: Practising Lerwick's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Lerwick
 months: N/A
 male_conducted: 155
 male_passes: 107

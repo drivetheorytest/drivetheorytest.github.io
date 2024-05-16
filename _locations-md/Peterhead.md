@@ -1,6 +1,7 @@
 ---
 layout: location
-title: "Peterhead"
+description: Practising Peterhead's driving test routes will help you become more confident in your gear-changing abilities.
+title: Driving Test Centres Passing Rates in Peterhead
 months: N/A
 male_conducted: 546
 male_passes: 325
