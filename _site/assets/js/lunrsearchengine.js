@@ -22,7 +22,7 @@ var documents = [{
     }, {
     "id": 4,
     "url": "http://localhost:4000/driving-test-centres",
-    "title": "Driving Test Centres Passing Rates",
+    "title": "UK Driving Test Centres Passing Rates",
     "body": " &lt;input type= text  class= form-control bigradius text-small launch-modal-search  id= searchInput  placeholder= Search City  onkeyup= filterURLs() &gt; &lt;ul id= suggestionsList &gt;&lt;/ul&gt; &lt;p&gt;Between April 2023 and September 2023, a total of &lt;strong&gt;865,703 exams&lt;/strong&gt; were conducted across the UK, with an average pass rate of &lt;strong&gt;48. 8%&lt;/strong&gt;. During this period, &lt;strong&gt;50%&lt;/strong&gt; of all male applicants successfully obtained their driving license after completing the test. &lt;/p&gt; &lt;p&gt;Explore our extensive range of driving test centers situated across the UK. From &lt;strong&gt;Aberdeen North&lt;/strong&gt; to &lt;a href= /yeovil/ &gt;Yeovil&lt;/a&gt;, our list encompasses various testing facilities. Locate the nearest center to you and prepare for your driving journey with confidence. &lt;/p&gt;                Aberdeen North       Aberdeen South (Cove)       Aberfeldy       Abergavenny       Aberystwyth (Park Avenue)       Airdrie       Alness                       Alnwick       Arbroath       Ashfield       Ashford (Kent)       Atherton (Manchester)       Aylesbury       Ayr                       Bala       Ballater       Banbury       Banff       Bangor       Barking (Tanner Street)       Barnet (London)                       Barnsley       Barnstaple       Barra       Barrow In Furness       Barry       Basildon       Basingstoke         &lt;/div&gt;   "
     }, {
     "id": 5,
