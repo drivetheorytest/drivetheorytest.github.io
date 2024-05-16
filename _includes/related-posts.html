@@ -7,8 +7,10 @@
     {% endunless %}
     
     <div class="d-flex justify-content-center align-items-center">
+        
+      
     
-    <!-- Categories -->
+        <!-- Categories -->
     {% assign sortedCategories = page.categories | sort %}
     {% for category in sortedCategories %}
     <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/category/{{ category | replace: " ","-" }}">{{ category }}</a>                
@@ -22,10 +24,14 @@
 
     </div>
 
-    {% assign maxRelated = 3 %}
+    {% assign maxRelated = 2 %}
     {% assign minCommonTags =  1 %}
     {% assign maxRelatedCounter = 0 %}
     <div class="blog-grid-container">
+         <!-- drive test aff -->
+         {% include cta-drive.html %}
+
+         
         {% for post in site.posts %}
         
             {% assign sameTagCount = 0 %}
@@ -50,5 +56,7 @@
             {% endif %}
         
         {% endfor %}
-        </div>        
+        </div>  
+         
+          
 </div>
