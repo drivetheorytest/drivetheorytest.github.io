@@ -37,7 +37,7 @@ To [succeed in the driving theory test](/theory-test-essential-tips-for-success/
 
 ### Mock Exams
 
-Engaging in [mock exams](/test/) is an invaluable component of preparation for the driving theory test. Mock exams simulate the testing environment and allow candidates to assess their knowledge, identify areas of weakness, and practice time management strategies. By taking multiple mock exams, candidates can build confidence and familiarity with the format and content of the actual test.
+Engaging in [mock exams](/test) is an invaluable component of preparation for the driving theory test. Mock exams simulate the testing environment and allow candidates to assess their knowledge, identify areas of weakness, and practice time management strategies. By taking multiple mock exams, candidates can build confidence and familiarity with the format and content of the actual test.
 
 ### Revision Techniques
 
