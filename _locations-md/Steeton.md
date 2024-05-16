@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Steeton's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Steeton
 title: Driving Test Centres Passing Rates in Steeton
 months: N/A
 male_conducted: 2010

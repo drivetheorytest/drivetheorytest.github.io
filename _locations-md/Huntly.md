@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Huntly's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Huntly
 title: Driving Test Centres Passing Rates in Huntly
 months: N/A
 male_conducted: 105

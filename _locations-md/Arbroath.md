@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Arbroath's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Arbroath
 title: Driving Test Centres Passing Rates in Arbroath
 months: N/A
 male_conducted: 183

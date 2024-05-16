@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Derby (Alvaston)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Derby (Alvaston)
 title: Driving Test Centres Passing Rates in Derby (Alvaston)
 months: N/A
 male_conducted: 3568

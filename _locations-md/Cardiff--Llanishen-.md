@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Cardiff (Llanishen)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Cardiff (Llanishen)
 title: Driving Test Centres Passing Rates in Cardiff (Llanishen)
 months: N/A
 male_conducted: 6408

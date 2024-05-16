@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Yeovil's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Yeovil
 title: Driving Test Centres Passing Rates in Yeovil
 months: N/A
 male_conducted: 2668

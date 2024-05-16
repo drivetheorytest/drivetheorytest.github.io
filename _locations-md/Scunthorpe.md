@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Scunthorpe's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Scunthorpe
 title: Driving Test Centres Passing Rates in Scunthorpe
 months: N/A
 male_conducted: 3307

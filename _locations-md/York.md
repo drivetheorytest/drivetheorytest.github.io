@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising York's driving test routes will help you become more confident in your gear-changing abilities.
+loc: York
 title: Driving Test Centres Passing Rates in York
 months: N/A
 male_conducted: 2848

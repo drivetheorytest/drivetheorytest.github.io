@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Bridgend's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Bridgend
 title: Driving Test Centres Passing Rates in Bridgend
 months: N/A
 male_conducted: 2180

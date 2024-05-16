@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Malton's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Malton
 title: Driving Test Centres Passing Rates in Malton
 months: N/A
 male_conducted: 179

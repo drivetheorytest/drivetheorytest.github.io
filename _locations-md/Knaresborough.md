@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Knaresborough's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Knaresborough
 title: Driving Test Centres Passing Rates in Knaresborough
 months: N/A
 male_conducted: 1765

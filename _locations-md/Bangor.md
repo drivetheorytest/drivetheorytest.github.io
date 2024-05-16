@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Bangor's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Bangor
 title: Driving Test Centres Passing Rates in Bangor
 months: N/A
 male_conducted: 1076

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Aberfeldy's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Aberfeldy
 title: Driving Test Centres Passing Rates in Aberfeldy
 months: N/A
 male_conducted: 53

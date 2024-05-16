@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Dunoon's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Dunoon
 title: Driving Test Centres Passing Rates in Dunoon
 months: N/A
 male_conducted: 88

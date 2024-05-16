@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Carlisle LGV (Cars)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Carlisle LGV (Cars)
 title: Driving Test Centres Passing Rates in Carlisle LGV (Cars)
 months: N/A
 male_conducted: 1119

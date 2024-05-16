@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Grimsby Coldwater's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Grimsby Coldwater
 title: Driving Test Centres Passing Rates in Grimsby Coldwater
 months: N/A
 male_conducted: 2228

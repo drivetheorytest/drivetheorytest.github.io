@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Preston's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Preston
 title: Driving Test Centres Passing Rates in Preston
 months: N/A
 male_conducted: 4842

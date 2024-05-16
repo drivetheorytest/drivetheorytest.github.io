@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Farnborough's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Farnborough
 title: Driving Test Centres Passing Rates in Farnborough
 months: N/A
 male_conducted: 4051

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Nottingham (Colwick)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Nottingham (Colwick)
 title: Driving Test Centres Passing Rates in Nottingham (Colwick)
 months: N/A
 male_conducted: 3871

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Canterbury's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Canterbury
 title: Driving Test Centres Passing Rates in Canterbury
 months: N/A
 male_conducted: 1624

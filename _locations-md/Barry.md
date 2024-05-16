@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Barry's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Barry
 title: Driving Test Centres Passing Rates in Barry
 months: N/A
 male_conducted: 596

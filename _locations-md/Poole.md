@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Poole's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Poole
 title: Driving Test Centres Passing Rates in Poole
 months: N/A
 male_conducted: 4491

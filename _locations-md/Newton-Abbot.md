@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Newton Abbot's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Newton Abbot
 title: Driving Test Centres Passing Rates in Newton Abbot
 months: N/A
 male_conducted: 2439

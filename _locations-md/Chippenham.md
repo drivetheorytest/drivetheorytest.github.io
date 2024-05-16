@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Chippenham's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Chippenham
 title: Driving Test Centres Passing Rates in Chippenham
 months: N/A
 male_conducted: 2752

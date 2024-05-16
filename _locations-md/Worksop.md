@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Worksop's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Worksop
 title: Driving Test Centres Passing Rates in Worksop
 months: N/A
 male_conducted: 2390

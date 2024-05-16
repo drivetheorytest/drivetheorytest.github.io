@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Birmingham (Shirley)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Birmingham (Shirley)
 title: Driving Test Centres Passing Rates in Birmingham (Shirley)
 months: N/A
 male_conducted: 3096

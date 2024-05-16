@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Hornchurch (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Hornchurch (London)
 title: Driving Test Centres Passing Rates in Hornchurch (London)
 months: N/A
 male_conducted: 2454

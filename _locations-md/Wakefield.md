@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Wakefield's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Wakefield
 title: Driving Test Centres Passing Rates in Wakefield
 months: N/A
 male_conducted: 3374

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Birmingham (Sutton Coldfield)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Birmingham (Sutton Coldfield)
 title: Driving Test Centres Passing Rates in Birmingham (Sutton Coldfield)
 months: N/A
 male_conducted: 1412

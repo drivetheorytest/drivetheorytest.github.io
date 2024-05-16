@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Weston-super-Mare's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Weston-super-Mare
 title: Driving Test Centres Passing Rates in Weston-super-Mare
 months: N/A
 male_conducted: 2348

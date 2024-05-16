@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Pinner (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Pinner (London)
 title: Driving Test Centres Passing Rates in Pinner (London)
 months: N/A
 male_conducted: 5716

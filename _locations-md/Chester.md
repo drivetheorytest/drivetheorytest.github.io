@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Chester's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Chester
 title: Driving Test Centres Passing Rates in Chester
 months: N/A
 male_conducted: 4099

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Greenford (Horsenden Lane)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Greenford (Horsenden Lane)
 title: Driving Test Centres Passing Rates in Greenford (Horsenden Lane)
 months: N/A
 male_conducted: 3324

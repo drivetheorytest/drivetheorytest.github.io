@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Watford's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Watford
 title: Driving Test Centres Passing Rates in Watford
 months: N/A
 male_conducted: 4521

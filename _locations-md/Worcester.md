@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Worcester's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Worcester
 title: Driving Test Centres Passing Rates in Worcester
 months: N/A
 male_conducted: 3883

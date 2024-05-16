@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Dudley's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Dudley
 title: Driving Test Centres Passing Rates in Dudley
 months: N/A
 male_conducted: 4203

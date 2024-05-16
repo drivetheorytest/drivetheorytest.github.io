@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Widnes's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Widnes
 title: Driving Test Centres Passing Rates in Widnes
 months: N/A
 male_conducted: 1980

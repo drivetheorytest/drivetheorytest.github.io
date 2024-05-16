@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Lochgilphead's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Lochgilphead
 title: Driving Test Centres Passing Rates in Lochgilphead
 months: N/A
 male_conducted: 74

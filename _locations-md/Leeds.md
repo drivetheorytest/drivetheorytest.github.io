@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Leeds's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Leeds
 title: Driving Test Centres Passing Rates in Leeds
 months: N/A
 male_conducted: 3729

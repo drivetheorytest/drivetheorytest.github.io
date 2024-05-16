@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Bradford (Heaton)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Bradford (Heaton)
 title: Driving Test Centres Passing Rates in Bradford (Heaton)
 months: N/A
 male_conducted: 2163

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Skipton's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Skipton
 title: Driving Test Centres Passing Rates in Skipton
 months: N/A
 male_conducted: 1048

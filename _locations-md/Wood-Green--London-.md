@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Wood Green (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Wood Green (London)
 title: Driving Test Centres Passing Rates in Wood Green (London)
 months: N/A
 male_conducted: 5461

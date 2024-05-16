@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Walton LGV's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Walton LGV
 title: Driving Test Centres Passing Rates in Walton LGV
 months: N/A
 male_conducted: 999

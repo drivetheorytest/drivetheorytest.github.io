@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Oswestry's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Oswestry
 title: Driving Test Centres Passing Rates in Oswestry
 months: N/A
 male_conducted: 660

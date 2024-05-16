@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising NATIONAL FIGURES's driving test routes will help you become more confident in your gear-changing abilities.
+loc: NATIONAL FIGURES
 title: Driving Test Centres Passing Rates in NATIONAL FIGURES
 months: N/A
 male_conducted: 749885

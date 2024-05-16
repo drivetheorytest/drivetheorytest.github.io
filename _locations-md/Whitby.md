@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Whitby's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Whitby
 title: Driving Test Centres Passing Rates in Whitby
 months: N/A
 male_conducted: 199

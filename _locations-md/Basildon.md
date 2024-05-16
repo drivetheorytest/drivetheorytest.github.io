@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Basildon's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Basildon
 title: Driving Test Centres Passing Rates in Basildon
 months: N/A
 male_conducted: 2595

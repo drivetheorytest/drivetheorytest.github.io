@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Monmouth's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Monmouth
 title: Driving Test Centres Passing Rates in Monmouth
 months: N/A
 male_conducted: 575

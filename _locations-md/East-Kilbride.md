@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising East Kilbride's driving test routes will help you become more confident in your gear-changing abilities.
+loc: East Kilbride
 title: Driving Test Centres Passing Rates in East Kilbride
 months: N/A
 male_conducted: 1488

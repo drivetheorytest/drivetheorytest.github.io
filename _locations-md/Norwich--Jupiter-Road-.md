@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Norwich (Jupiter Road)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Norwich (Jupiter Road)
 title: Driving Test Centres Passing Rates in Norwich (Jupiter Road)
 months: N/A
 male_conducted: 2479

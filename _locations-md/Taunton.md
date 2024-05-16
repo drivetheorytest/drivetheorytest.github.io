@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Taunton's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Taunton
 title: Driving Test Centres Passing Rates in Taunton
 months: N/A
 male_conducted: 2263

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Montrose's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Montrose
 title: Driving Test Centres Passing Rates in Montrose
 months: N/A
 male_conducted: 274

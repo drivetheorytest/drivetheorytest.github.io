@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Portsmouth's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Portsmouth
 title: Driving Test Centres Passing Rates in Portsmouth
 months: N/A
 male_conducted: 4589

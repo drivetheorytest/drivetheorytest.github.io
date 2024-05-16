@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Kyle of Lochalsh's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Kyle of Lochalsh
 title: Driving Test Centres Passing Rates in Kyle of Lochalsh
 months: N/A
 male_conducted: 56

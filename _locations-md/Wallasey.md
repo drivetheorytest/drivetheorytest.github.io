@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Wallasey's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Wallasey
 title: Driving Test Centres Passing Rates in Wallasey
 months: N/A
 male_conducted: 665

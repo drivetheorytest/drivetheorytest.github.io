@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Kings Lynn's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Kings Lynn
 title: Driving Test Centres Passing Rates in Kings Lynn
 months: N/A
 male_conducted: 3118

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Borehamwood (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Borehamwood (London)
 title: Driving Test Centres Passing Rates in Borehamwood (London)
 months: N/A
 male_conducted: 3118

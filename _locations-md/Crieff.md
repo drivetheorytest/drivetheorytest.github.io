@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Crieff's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Crieff
 title: Driving Test Centres Passing Rates in Crieff
 months: N/A
 male_conducted: 34

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Greenock's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Greenock
 title: Driving Test Centres Passing Rates in Greenock
 months: N/A
 male_conducted: 887

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Bletchley's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Bletchley
 title: Driving Test Centres Passing Rates in Bletchley
 months: N/A
 male_conducted: 2714

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Bala's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Bala
 title: Driving Test Centres Passing Rates in Bala
 months: N/A
 male_conducted: 166

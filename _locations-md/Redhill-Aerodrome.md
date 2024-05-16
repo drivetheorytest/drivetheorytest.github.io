@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Redhill Aerodrome's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Redhill Aerodrome
 title: Driving Test Centres Passing Rates in Redhill Aerodrome
 months: N/A
 male_conducted: 2350

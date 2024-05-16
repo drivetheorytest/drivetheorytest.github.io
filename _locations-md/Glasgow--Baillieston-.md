@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Glasgow (Baillieston)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Glasgow (Baillieston)
 title: Driving Test Centres Passing Rates in Glasgow (Baillieston)
 months: N/A
 male_conducted: 3675

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Swindon LGV's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Swindon LGV
 title: Driving Test Centres Passing Rates in Swindon LGV
 months: N/A
 male_conducted: 450

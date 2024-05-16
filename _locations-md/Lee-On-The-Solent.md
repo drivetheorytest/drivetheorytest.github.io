@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Lee On The Solent's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Lee On The Solent
 title: Driving Test Centres Passing Rates in Lee On The Solent
 months: N/A
 male_conducted: 4840

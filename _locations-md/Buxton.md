@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Buxton's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Buxton
 title: Driving Test Centres Passing Rates in Buxton
 months: N/A
 male_conducted: 1549

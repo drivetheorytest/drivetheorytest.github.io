@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Nottingham (Chilwell)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Nottingham (Chilwell)
 title: Driving Test Centres Passing Rates in Nottingham (Chilwell)
 months: N/A
 male_conducted: 3495

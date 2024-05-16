@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Maidstone's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Maidstone
 title: Driving Test Centres Passing Rates in Maidstone
 months: N/A
 male_conducted: 2013

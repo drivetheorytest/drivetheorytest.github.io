@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Perth (Arran Road)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Perth (Arran Road)
 title: Driving Test Centres Passing Rates in Perth (Arran Road)
 months: N/A
 male_conducted: 1188

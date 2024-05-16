@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Goodmayes (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Goodmayes (London)
 title: Driving Test Centres Passing Rates in Goodmayes (London)
 months: N/A
 male_conducted: 9636

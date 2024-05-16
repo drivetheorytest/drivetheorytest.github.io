@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Hastings (Ore)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Hastings (Ore)
 title: Driving Test Centres Passing Rates in Hastings (Ore)
 months: N/A
 male_conducted: 1409

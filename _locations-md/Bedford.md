@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Bedford's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Bedford
 title: Driving Test Centres Passing Rates in Bedford
 months: N/A
 male_conducted: 3165

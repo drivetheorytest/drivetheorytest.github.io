@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Berwick-On-Tweed's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Berwick-On-Tweed
 title: Driving Test Centres Passing Rates in Berwick-On-Tweed
 months: N/A
 male_conducted: 259

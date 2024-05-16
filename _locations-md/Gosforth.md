@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Gosforth's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Gosforth
 title: Driving Test Centres Passing Rates in Gosforth
 months: N/A
 male_conducted: 4747

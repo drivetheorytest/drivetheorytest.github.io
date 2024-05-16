@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Loughborough's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Loughborough
 title: Driving Test Centres Passing Rates in Loughborough
 months: N/A
 male_conducted: 2030

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Loughton (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Loughton (London)
 title: Driving Test Centres Passing Rates in Loughton (London)
 months: N/A
 male_conducted: 2055

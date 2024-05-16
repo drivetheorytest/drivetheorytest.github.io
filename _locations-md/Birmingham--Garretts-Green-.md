@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Birmingham (Garretts Green)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Birmingham (Garretts Green)
 title: Driving Test Centres Passing Rates in Birmingham (Garretts Green)
 months: N/A
 male_conducted: 8400

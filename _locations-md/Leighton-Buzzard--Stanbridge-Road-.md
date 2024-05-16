@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Leighton Buzzard (Stanbridge Road)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Leighton Buzzard (Stanbridge Road)
 title: Driving Test Centres Passing Rates in Leighton Buzzard (Stanbridge Road)
 months: N/A
 male_conducted: 2752

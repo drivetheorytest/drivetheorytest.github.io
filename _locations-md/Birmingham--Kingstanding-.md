@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Birmingham (Kingstanding)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Birmingham (Kingstanding)
 title: Driving Test Centres Passing Rates in Birmingham (Kingstanding)
 months: N/A
 male_conducted: 5229

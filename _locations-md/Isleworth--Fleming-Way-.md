@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Isleworth (Fleming Way)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Isleworth (Fleming Way)
 title: Driving Test Centres Passing Rates in Isleworth (Fleming Way)
 months: N/A
 male_conducted: 4769

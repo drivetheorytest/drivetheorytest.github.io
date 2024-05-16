@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Bradford (Thornbury)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Bradford (Thornbury)
 title: Driving Test Centres Passing Rates in Bradford (Thornbury)
 months: N/A
 male_conducted: 2192

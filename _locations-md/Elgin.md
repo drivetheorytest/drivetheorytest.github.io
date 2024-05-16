@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Elgin's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Elgin
 title: Driving Test Centres Passing Rates in Elgin
 months: N/A
 male_conducted: 766

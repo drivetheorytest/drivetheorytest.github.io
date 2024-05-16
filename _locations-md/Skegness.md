@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Skegness's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Skegness
 title: Driving Test Centres Passing Rates in Skegness
 months: N/A
 male_conducted: 420

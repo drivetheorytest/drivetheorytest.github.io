@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Mill Hill (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Mill Hill (London)
 title: Driving Test Centres Passing Rates in Mill Hill (London)
 months: N/A
 male_conducted: 4250

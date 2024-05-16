@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Orkney's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Orkney
 title: Driving Test Centres Passing Rates in Orkney
 months: N/A
 male_conducted: 119

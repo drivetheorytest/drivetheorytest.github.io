@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Morden (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Morden (London)
 title: Driving Test Centres Passing Rates in Morden (London)
 months: N/A
 male_conducted: 6186

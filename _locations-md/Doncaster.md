@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Doncaster's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Doncaster
 title: Driving Test Centres Passing Rates in Doncaster
 months: N/A
 male_conducted: 2882

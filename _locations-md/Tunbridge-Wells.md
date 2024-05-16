@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Tunbridge Wells's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Tunbridge Wells
 title: Driving Test Centres Passing Rates in Tunbridge Wells
 months: N/A
 male_conducted: 1351

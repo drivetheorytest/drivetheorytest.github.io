@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Fort William's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Fort William
 title: Driving Test Centres Passing Rates in Fort William
 months: N/A
 male_conducted: 147

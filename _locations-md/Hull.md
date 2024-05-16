@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Hull's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Hull
 title: Driving Test Centres Passing Rates in Hull
 months: N/A
 male_conducted: 3697

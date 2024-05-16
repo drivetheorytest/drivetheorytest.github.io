@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Inverness (Seafield Road)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Inverness (Seafield Road)
 title: Driving Test Centres Passing Rates in Inverness (Seafield Road)
 months: N/A
 male_conducted: 895

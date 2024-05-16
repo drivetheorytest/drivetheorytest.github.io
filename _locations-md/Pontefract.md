@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Pontefract's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Pontefract
 title: Driving Test Centres Passing Rates in Pontefract
 months: N/A
 male_conducted: 2006

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Hither Green (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Hither Green (London)
 title: Driving Test Centres Passing Rates in Hither Green (London)
 months: N/A
 male_conducted: 1603

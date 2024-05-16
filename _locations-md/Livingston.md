@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Livingston's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Livingston
 title: Driving Test Centres Passing Rates in Livingston
 months: N/A
 male_conducted: 1838

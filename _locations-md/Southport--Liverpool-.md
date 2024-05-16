@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Southport (Liverpool)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Southport (Liverpool)
 title: Driving Test Centres Passing Rates in Southport (Liverpool)
 months: N/A
 male_conducted: 2676

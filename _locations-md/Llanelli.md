@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Llanelli's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Llanelli
 title: Driving Test Centres Passing Rates in Llanelli
 months: N/A
 male_conducted: 1172

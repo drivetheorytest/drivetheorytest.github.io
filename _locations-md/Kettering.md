@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Kettering's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Kettering
 title: Driving Test Centres Passing Rates in Kettering
 months: N/A
 male_conducted: 4526

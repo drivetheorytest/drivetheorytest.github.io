@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Norwich (Peachman Way)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Norwich (Peachman Way)
 title: Driving Test Centres Passing Rates in Norwich (Peachman Way)
 months: N/A
 male_conducted: 4030

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Stoke-on-Trent (Newcastle-Under-Lyme)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Stoke-on-Trent (Newcastle-Under-Lyme)
 title: Driving Test Centres Passing Rates in Stoke-on-Trent (Newcastle-Under-Lyme)
 months: N/A
 male_conducted: 2516

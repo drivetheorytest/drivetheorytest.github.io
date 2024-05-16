@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Newtown's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Newtown
 title: Driving Test Centres Passing Rates in Newtown
 months: N/A
 male_conducted: 831

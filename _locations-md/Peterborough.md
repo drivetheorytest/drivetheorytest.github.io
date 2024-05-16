@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Peterborough's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Peterborough
 title: Driving Test Centres Passing Rates in Peterborough
 months: N/A
 male_conducted: 3833

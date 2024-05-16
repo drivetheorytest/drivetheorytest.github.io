@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Fraserburgh's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Fraserburgh
 title: Driving Test Centres Passing Rates in Fraserburgh
 months: N/A
 male_conducted: 204

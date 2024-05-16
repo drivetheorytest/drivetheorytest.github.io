@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Rugby's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Rugby
 title: Driving Test Centres Passing Rates in Rugby
 months: N/A
 male_conducted: 1868

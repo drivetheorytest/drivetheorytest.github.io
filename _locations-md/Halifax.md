@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Halifax's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Halifax
 title: Driving Test Centres Passing Rates in Halifax
 months: N/A
 male_conducted: 2357

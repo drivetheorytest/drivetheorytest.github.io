@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Isles of Scilly's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Isles of Scilly
 title: Driving Test Centres Passing Rates in Isles of Scilly
 months: N/A
 male_conducted: ..

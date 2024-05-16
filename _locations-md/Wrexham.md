@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Wrexham's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Wrexham
 title: Driving Test Centres Passing Rates in Wrexham
 months: N/A
 male_conducted: 2084

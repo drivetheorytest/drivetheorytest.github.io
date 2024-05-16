@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Chesterfield's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Chesterfield
 title: Driving Test Centres Passing Rates in Chesterfield
 months: N/A
 male_conducted: 1827

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Isle of Mull's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Isle of Mull
 title: Driving Test Centres Passing Rates in Isle of Mull
 months: N/A
 male_conducted: 10

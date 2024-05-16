@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Enfield (Brancroft Way)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Enfield (Brancroft Way)
 title: Driving Test Centres Passing Rates in Enfield (Brancroft Way)
 months: N/A
 male_conducted: 123

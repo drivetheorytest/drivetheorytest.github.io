@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Ballater's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Ballater
 title: Driving Test Centres Passing Rates in Ballater
 months: N/A
 male_conducted: 60

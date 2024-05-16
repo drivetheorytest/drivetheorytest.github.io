@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Warwick (Wedgenock House)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Warwick (Wedgenock House)
 title: Driving Test Centres Passing Rates in Warwick (Wedgenock House)
 months: N/A
 male_conducted: 4362

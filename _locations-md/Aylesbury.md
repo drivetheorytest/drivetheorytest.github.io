@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Aylesbury's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Aylesbury
 title: Driving Test Centres Passing Rates in Aylesbury
 months: N/A
 male_conducted: 2093

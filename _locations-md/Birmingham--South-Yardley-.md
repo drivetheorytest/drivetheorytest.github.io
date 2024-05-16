@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Birmingham (South Yardley)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Birmingham (South Yardley)
 title: Driving Test Centres Passing Rates in Birmingham (South Yardley)
 months: N/A
 male_conducted: 3959

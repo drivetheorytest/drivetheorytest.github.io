@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Edinburgh (Currie)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Edinburgh (Currie)
 title: Driving Test Centres Passing Rates in Edinburgh (Currie)
 months: N/A
 male_conducted: 3437

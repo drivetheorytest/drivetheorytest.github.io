@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Barrow In Furness's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Barrow In Furness
 title: Driving Test Centres Passing Rates in Barrow In Furness
 months: N/A
 male_conducted: 675

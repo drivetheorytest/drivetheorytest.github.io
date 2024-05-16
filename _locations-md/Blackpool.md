@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Blackpool's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Blackpool
 title: Driving Test Centres Passing Rates in Blackpool
 months: N/A
 male_conducted: 2756

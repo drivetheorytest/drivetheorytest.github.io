@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Abergavenny's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Abergavenny
 title: Driving Test Centres Passing Rates in Abergavenny
 months: N/A
 male_conducted: 2052

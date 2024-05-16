@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Plymouth LGV's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Plymouth LGV
 title: Driving Test Centres Passing Rates in Plymouth LGV
 months: N/A
 male_conducted: 54

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Slough (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Slough (London)
 title: Driving Test Centres Passing Rates in Slough (London)
 months: N/A
 male_conducted: 5877

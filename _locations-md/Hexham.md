@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Hexham's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Hexham
 title: Driving Test Centres Passing Rates in Hexham
 months: N/A
 male_conducted: 424

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Sunderland's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Sunderland
 title: Driving Test Centres Passing Rates in Sunderland
 months: N/A
 male_conducted: 3961

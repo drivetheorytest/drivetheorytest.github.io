@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Chertsey (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Chertsey (London)
 title: Driving Test Centres Passing Rates in Chertsey (London)
 months: N/A
 male_conducted: 3661

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Norris Green (Liverpool)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Norris Green (Liverpool)
 title: Driving Test Centres Passing Rates in Norris Green (Liverpool)
 months: N/A
 male_conducted: 4995

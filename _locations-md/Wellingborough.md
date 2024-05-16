@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Wellingborough's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Wellingborough
 title: Driving Test Centres Passing Rates in Wellingborough
 months: N/A
 male_conducted: 440

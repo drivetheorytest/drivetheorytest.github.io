@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Gairloch's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Gairloch
 title: Driving Test Centres Passing Rates in Gairloch
 months: N/A
 male_conducted: 19

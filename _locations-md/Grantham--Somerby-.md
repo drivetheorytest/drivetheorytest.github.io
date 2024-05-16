@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Grantham (Somerby)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Grantham (Somerby)
 title: Driving Test Centres Passing Rates in Grantham (Somerby)
 months: N/A
 male_conducted: 2712

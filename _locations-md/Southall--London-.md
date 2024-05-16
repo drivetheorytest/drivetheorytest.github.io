@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Southall (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Southall (London)
 title: Driving Test Centres Passing Rates in Southall (London)
 months: N/A
 male_conducted: 2069

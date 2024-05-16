@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising St Helens (Liverpool)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: St Helens (Liverpool)
 title: Driving Test Centres Passing Rates in St Helens (Liverpool)
 months: N/A
 male_conducted: 3912

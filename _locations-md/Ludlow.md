@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Ludlow's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Ludlow
 title: Driving Test Centres Passing Rates in Ludlow
 months: N/A
 male_conducted: 1504

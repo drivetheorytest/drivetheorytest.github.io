@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Penzance's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Penzance
 title: Driving Test Centres Passing Rates in Penzance
 months: N/A
 male_conducted: 224

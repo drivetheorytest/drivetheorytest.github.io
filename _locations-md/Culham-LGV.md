@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Culham LGV's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Culham LGV
 title: Driving Test Centres Passing Rates in Culham LGV
 months: N/A
 male_conducted: 83

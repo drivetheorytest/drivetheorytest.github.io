@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Dorchester's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Dorchester
 title: Driving Test Centres Passing Rates in Dorchester
 months: N/A
 male_conducted: 2083

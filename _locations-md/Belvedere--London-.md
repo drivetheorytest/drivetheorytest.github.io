@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Belvedere (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Belvedere (London)
 title: Driving Test Centres Passing Rates in Belvedere (London)
 months: N/A
 male_conducted: 1370

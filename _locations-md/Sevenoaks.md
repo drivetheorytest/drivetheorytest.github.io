@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Sevenoaks's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Sevenoaks
 title: Driving Test Centres Passing Rates in Sevenoaks
 months: N/A
 male_conducted: 1926

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Gateshead's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Gateshead
 title: Driving Test Centres Passing Rates in Gateshead
 months: N/A
 male_conducted: 3778

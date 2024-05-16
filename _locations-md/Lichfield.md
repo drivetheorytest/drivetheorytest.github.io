@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Lichfield's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Lichfield
 title: Driving Test Centres Passing Rates in Lichfield
 months: N/A
 male_conducted: 2975

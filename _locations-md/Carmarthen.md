@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Carmarthen's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Carmarthen
 title: Driving Test Centres Passing Rates in Carmarthen
 months: N/A
 male_conducted: 844

@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Newport (Isle of Wight)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Newport (Isle of Wight)
 title: Driving Test Centres Passing Rates in Newport (Isle of Wight)
 months: N/A
 male_conducted: 1644

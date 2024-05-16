@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Glasgow (Shieldhall)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Glasgow (Shieldhall)
 title: Driving Test Centres Passing Rates in Glasgow (Shieldhall)
 months: N/A
 male_conducted: 2338

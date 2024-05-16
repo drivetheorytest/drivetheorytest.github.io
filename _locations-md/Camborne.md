@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Camborne's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Camborne
 title: Driving Test Centres Passing Rates in Camborne
 months: N/A
 male_conducted: 2247

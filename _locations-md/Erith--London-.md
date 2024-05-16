@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Erith (London)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Erith (London)
 title: Driving Test Centres Passing Rates in Erith (London)
 months: N/A
 male_conducted: 1878

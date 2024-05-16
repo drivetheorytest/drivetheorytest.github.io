@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Airdrie's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Airdrie
 title: Driving Test Centres Passing Rates in Airdrie
 months: N/A
 male_conducted: 2896

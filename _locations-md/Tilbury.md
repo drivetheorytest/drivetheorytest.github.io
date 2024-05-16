@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Tilbury's driving test routes will help you become more confident in your gear-changing abilities.
+loc: Tilbury
 title: Driving Test Centres Passing Rates in Tilbury
 months: N/A
 male_conducted: 1576

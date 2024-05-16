@@ -1,6 +1,7 @@
 ---
 layout: location
 description: Practising Sheffield (Handsworth)'s driving test routes will help you become more confident in your gear-changing abilities.
+loc: Sheffield (Handsworth)
 title: Driving Test Centres Passing Rates in Sheffield (Handsworth)
 months: N/A
 male_conducted: 4400
