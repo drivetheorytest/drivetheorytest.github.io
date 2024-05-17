@@ -82,9 +82,7 @@ Adding up all these expenses, a realistic budget for obtaining your UK driving l
 
 - Insurance, etc.: **£100 - £300**
 
-  
-
-**Total: £1,309 - £1,811**
+- Total: **£1,309 - £1,811**
 
   
 
