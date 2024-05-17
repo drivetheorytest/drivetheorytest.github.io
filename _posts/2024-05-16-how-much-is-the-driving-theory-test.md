@@ -48,10 +48,9 @@ Adding up all these expenses, a realistic budget for obtaining your UK driving l
 - Study Materials: **£10 - £20**
 - Driving Lessons: **£1,080 - £1,350**
 - Practical Test: £62 - **£75**
-- Extra Costs (Insurance, etc.): **£100 - £300**
-----------------
-**Total: £1,309 - £1,811**
+- Insurance, etc.: **£100 - £300**
 
+**Total: £1,309 - £1,811**
 
 <!-- _includes/cta.html -->
 
