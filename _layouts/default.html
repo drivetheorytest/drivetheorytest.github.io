@@ -81,56 +81,16 @@ layout: compress
          
           
 
-        <!-- Site Tag
+        <!-- Home Contents
     =========================== -->
         {% if page.url == '/' %}
  
-
+         <!-- hero -->
+        {% include hero.html %}
       
+         <!-- Testimonials -->
+      {% include testimonials.html %}
       
-
-      
-      <div class="container my-5">
-        <div class="row">
-            <div class="col-lg-5">
-              <h1 class="display-4 font-weight-bold headline mt-">{{ site.subheading }}</h1>
-              <span class="text-secondary">{{ site.description }}</span>
-            </div>
-            <div class="col-lg-7">
-                <div class="d-flex flex-column justify-content-center h-100">
-              
-
-                    <img class="w-100" src="{{ site.baseurl }}/assets/images/hero2.png" alt="{{ site.subheading }}" loading="lazy" />
-                </div>
-            </div>
-        </div>
-    </div>
-    
-      
-    
- 
-  
-  <div class="container my-5">
-    <div class="row">
-        <div class="col-lg-5">
-          <h2>{{ site.cta-head }}</h2>
-          <span class="text-secondary">{{ site.cta-text}}</span>
-
-        </div>
-        <div class="col-lg-7">
-            <div class="d-flex flex-column justify-content-center h-100">
-      
-              <a href="{{ site.cta-link}}" class="btn btn-primary btn-lg px-4 py-3 text-white rounded-pill mt-3 mt-sm-0" style="font-size: 1.2rem;">Road Sign Test</a>
-            </div>
-        </div>
-    </div>
-</div>
-
-      
-    
-        
-         
-          
         {% endif %}
 
         <!-- Site Tag  ======================= -->
@@ -139,6 +99,9 @@ layout: compress
     ================================================== -->
         <div class="main-content">{{ content }}</div>
       </div>
+
+
+  
 
       <!-- Begin Footer
 ================================================== -->

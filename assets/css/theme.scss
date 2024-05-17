@@ -4,6 +4,9 @@
 $brown: #111;
 $main: #1500ff;
 $black: #111;
+$light: #0062ff;
+
+$secondary: $light;
 $primary: $main;
 $dark: $black;
 $enable-rounded: true;
@@ -569,7 +572,7 @@ img:hover {
     li {
       margin: 15px 0;
       a {
-        color: $dark;
+        color: $secondary;
       }
     }
   }
@@ -796,3 +799,39 @@ body.active-side {
 }
 
 
+/* Testimonial section */
+
+.testimonial-section {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.testimonial-section h2 {
+  font-size: 36px;
+  margin-bottom: 40px;
+}
+
+.testimonials {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.testimonial {
+  flex: 1;
+  min-width: 300px;
+  max-width: 400px;
+  padding: 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  text-align: left;
+  border-left: 2px solid $secondary; /* Added border-left color */
+}
+
+.testimonial-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
