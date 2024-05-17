@@ -68,7 +68,8 @@ The practical driving test fee is **£62 on weekdays** and **£75 for evening**,
 
 Adding up all these expenses, a realistic budget for obtaining your UK driving license would be:
 
-  
+
+
 
 - Provisional License: **£34 - £43**
 
@@ -84,7 +85,7 @@ Adding up all these expenses, a realistic budget for obtaining your UK driving l
 
 - Total: **£1,309 - £1,811**
 
-  
+ 
 
 <!-- _includes/cta.html -->
 

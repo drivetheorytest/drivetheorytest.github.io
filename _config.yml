@@ -20,6 +20,7 @@ permalink: /:title/
 email: press@drivingtheorytest.info
 
 
+
 collections:
   cities:
     output: true
