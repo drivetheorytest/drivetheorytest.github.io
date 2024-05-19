@@ -17,7 +17,7 @@ disqus: ""
 mailchimp-list: ""
 include: ["_pages"]
 permalink: /:title/
-email: press@drivingtheorytest.info
+email: drivingtheorytest.info@gmail.com
 
 
 
@@ -39,7 +39,7 @@ authors:
     name: killcreek
     display_name: killcreek
     avatar: "assets/images/avatar.png"
-    email: mrgabonijeff@gmail.com
+    email: press@drivingtheorytest.info
     gravatar: 298224aa0a009468d621d71b80cf8395
     web: https://drivingtheorytest.info/
     facebook: 
