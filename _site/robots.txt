@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /admin
-Sitemap: https://drivingtheorytest.info/sitemap.xml
+Sitemap: https://drivingtheorytest.info/main.xml
