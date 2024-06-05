@@ -4,7 +4,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign appears at junctions where a minor road joins a major road. You must stop your vehicle completely at a STOP sign.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/stop.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/stop.jpg",
       "questions": [
         "Stop, for school crossing ahead.",
         "Stop your vehicle.",
@@ -18,7 +18,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must turn right. It is usually displayed on the approach to a one-way system.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/turnrightahead.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/turnrightahead.jpg",
       "questions": [
         "Turn right ahead.",
         "Diversion to the right ahead.",
@@ -32,7 +32,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This is an advance warning sign for cyclists to be aware that they are approaching a tram track and that the surface may be slippery.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tramcycle.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tramcycle.jpg",
       "questions": [
         "Trams may block cyclists from your view.",
         "Cyclists and tram only ahead.",
@@ -46,7 +46,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This is a motorway information sign telling you that you are entering a motorway.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/motorwayentry.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/motorwayentry.jpg",
       "questions": [
         "End to motorway.",
         "Low bridge ahead.",
@@ -60,7 +60,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This is a motorway information sign that tells you that the motorway will end in 500 meters.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/motorwayend.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/motorwayend.jpg",
       "questions": [
         "Motorway ends 500 meters ahead.",
         "No overtaking for 500 meters.",
@@ -74,7 +74,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign indicates the end of the motorway.You are now leaving the motorway and its restrictions no longer apply.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/endofmotorway.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/endofmotorway.jpg",
       "questions": [
         "End of motorway.",
         "Crossing onto the opposite carriageway is not allowed.",
@@ -88,7 +88,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This is a motorway information sign that tells you that the next exit off the motorway is 300 meters ahead.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/300meterexit.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/300meterexit.jpg",
       "questions": [
         "Crossing traffic ahead.",
         "Steep climb up ahead for 3 kilometers.",
@@ -102,7 +102,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This is a motorway information sign that tells you that the next exit off the motorway is 200 meters ahead.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/200meterexit.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/200meterexit.jpg",
       "questions": [
         "Two hundred meters to the next exit.",
         "Sharp corner to left.",
@@ -116,7 +116,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This is a motorway information sign that tells you that the next exit off the motorway is 100 meters ahead.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/100meterexit.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/100meterexit.jpg",
       "questions": [
         "One hundred meters to the next exit.",
         "Low bridge ahead.",
@@ -130,7 +130,7 @@
       "question": "What does this sign mean when displayed on the approach to a motorway? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign is used at motorway tool plazas to direct traffic into a lane where toll charge may be paid directly to a cashier. This lane would normally be used by motorists who have neither the exact change nor an electronic tag on their vehicles.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/cashier.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/cashier.jpg",
       "questions": [
         "Coin basket in this lane.",
         "Leisure area on the left.",
@@ -144,7 +144,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This warning sign tells you that there are road works ahead.You should approach with caution and be alert for a change in road surface,and for the presence of machinery and road workers.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/roadworks.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/roadworks.jpg",
       "questions": [
         "Building site ahead.",
         "Tree planting ahead.",
@@ -158,7 +158,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that the surface ahead is uneven and you should approach with caution.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/uneven.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/uneven.jpg",
       "questions": [
         "Pipe laying ahead.",
         "Series of steep hills ahead.",
@@ -172,7 +172,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must keep left. It is usually displayed at a traffic island in the centre of the road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/keepleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/keepleft.jpg",
       "questions": [
         "Sharp bend to the left ahead.",
         "Steep decline ahead to the left.",
@@ -186,7 +186,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that the surface ahead is slippery and that there is increaseed risk of skidding.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/slipperyroad.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/slipperyroad.jpg",
       "questions": [
         "Steep hill ahead.",
         "Slippery road .",
@@ -200,7 +200,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that the road narrows suddenly from the left creating a potential hazard.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/narrowleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/narrowleft.jpg",
       "questions": [
         "Road narrows from left.",
         "Left-hand lane has an uneven surface.",
@@ -214,7 +214,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that the road narrows suddenly from the right creating a potential hazard.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/narrowright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/narrowright.jpg",
       "questions": [
         "Overtaking lane ends ahead.",
         "Right-hand lane has an uneven surface.",
@@ -228,7 +228,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that the road narrows on both sides creating a potential hazard. Drive with extra care.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/narrowbothsides.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/narrowbothsides.jpg",
       "questions": [
         "Road narrows on both sides.",
         "Tunnel ahead.",
@@ -242,7 +242,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that the traffic sequence ahead is controlled manually or by an automatic system.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/flagmanahead.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/flagmanahead.jpg",
       "questions": [
         "Football stadium ahead.",
         "Hitch-hiking permitted.",
@@ -256,7 +256,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that temporary traffic signals are in use ahead.You hould approach with caution and signal displayed.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/temporarytrafficsignals.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/temporarytrafficsignals.jpg",
       "questions": [
         "Temporary traffic signals ahead.",
         "Roundabout with traffic lights ahead.",
@@ -270,7 +270,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that there is two-way-traffic in operation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/twowaytraffic.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/twowaytraffic.jpg",
       "questions": [
         "Traffic may not stop.",
         "Two-way traffic.",
@@ -284,7 +284,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that the lane on the left ahead is closed.If you are in the left lane you will need to move to the right when it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/nearsidetwoclosed.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/nearsidetwoclosed.jpg",
       "questions": [
         "Nearside lane of two closed .",
         "No overtaking.",
@@ -298,7 +298,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that the lane left-hand lane of three is closed ahead.If you are in the left lane you will need to move to the right when it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/nearsidethreeclosed.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/nearsidethreeclosed.jpg",
       "questions": [
         "No left turn ahead.",
         "Nearside lane of three closed .",
@@ -312,7 +312,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that the road ahead has been resurfaced and there may be loose chippings. You should reduce speed while driving through this area as the loose chippings could affect your vehicle's road holding and braking.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/loosechippings.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/loosechippings.jpg",
       "questions": [
         "Loose chippings on road.",
         "Vehicle broken down ahead on right.",
@@ -326,7 +326,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must keep right. It is usually found in a one way system where the traffic is required to keep to the right.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/keepright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/keepright.jpg",
       "questions": [
         "Turn back.",
         "Steep decline ahead to the right.",
@@ -340,7 +340,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that the extreme right-hand lane is closed ahead.If you are in this lane,you will need to move to the left when it is safe to do so.The offside lane is the lane closest to the centre of the road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/offsidethreeclosed.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/offsidethreeclosed.jpg",
       "questions": [
         "End of dual carriageway ahead.",
         "Offside lane closed ahead.",
@@ -354,7 +354,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that there may be traffic queues ahead, possibly due to temporary traffic lights at the works. Proceed with caution.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/queueslikely.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/queueslikely.jpg",
       "questions": [
         "Steep incline ahead.",
         "Parking for works vehicles on left.",
@@ -368,7 +368,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that the road surface may be uneven, possible due to the resurfacing of part of a lane. Proceed with caution.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/unevensurface.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/unevensurface.jpg",
       "questions": [
         "Keep left.",
         "Slippery surface.",
@@ -382,7 +382,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that there is an obstruction in the centre of the road ahead, and that two-way traffic will separate to avoid it.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/obstruction.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/obstruction.jpg",
       "questions": [
         "Dual-carriageway ahead.",
         "Heavy vehicles have priority.",
@@ -396,7 +396,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells pedestrians to cross to the right as the footpath may be closed at this point.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/pedestriancrossright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/pedestriancrossright.jpg",
       "questions": [
         "Pedestrians cross to the right.",
         "Do not drive on the footpath.",
@@ -410,7 +410,7 @@
       "question": "At roadworks, what does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This is the sign telling you to proceed with caution through road works.It may be displayed by a flagman or by an automated system.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/go.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/go.jpg",
       "questions": [
         "Proceed with caution.",
         "Proceed with hazard warning lights on.",
@@ -424,7 +424,7 @@
       "question": "At roadworks, what does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This is a roadworks warning sign telling you to stop.It may be displayed by a flagman or by an automated system.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/roadworksstop.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/roadworksstop.jpg",
       "questions": [
         "Stop before or at the sign.",
         "Stop only if faced by oncoming traffic.",
@@ -438,7 +438,7 @@
       "question": "What do these signs together mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: These roadworks warning signs indicate that a detour has ended and that you are back on the original route.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/endofdetour.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/endofdetour.jpg",
       "questions": [
         "End of speed limit.",
         "End of detour.",
@@ -452,7 +452,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that the course of the road will return to the left ahead.This usually appears after a stretch where traffic was diverted to a right-hand lane.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/crossleftlane.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/crossleftlane.jpg",
       "questions": [
         "Traffic must cross over to left-hand lane.",
         "Bend in the road to the left ahead.",
@@ -466,7 +466,7 @@
       "question": "What does this sign mean?",
       "heading": "Uncategorized",
       "explanation": "Explantion: This roadworks warning sign tells you that the course of the road will temporarily cross the central reserve to the right.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/crossrightlane.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/crossrightlane.jpg",
       "questions": [
         "Traffic calming measures ahead.",
         "Bend in the road to the right ahead.",
@@ -480,7 +480,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that traffic must pass on either side of the traffic island.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/passeitherside.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/passeitherside.jpg",
       "questions": [
         "One-way street.",
         "Two way traffic ahead.",
@@ -494,7 +494,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that two-way traffic will separate to avoid an obstruction.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/startofobstruction.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/startofobstruction.jpg",
       "questions": [
         "Lay-by ahead.",
         "Start of central reserve or obstruction.",
@@ -508,7 +508,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This roadworks warning sign tells you that traffic that was separated will revert to two-way road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/endofobstruction.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/endofobstruction.jpg",
       "questions": [
         "Dual-carriageway ends ahead.",
         "Lighter vehicles should use the middle lane.",
@@ -522,7 +522,7 @@
       "question": "What does this hand signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This hand signal tells other road users that the cyclist intends to either move out or make a right turn.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/signalturnright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/signalturnright.jpg",
       "questions": [
         "The cyclist intends to stop.",
         "The cyclist intends to turn left.",
@@ -536,7 +536,7 @@
       "question": "What does this hand signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This hand signal tells other road users that the cyclist intends to slow down or stop. This may indicate that the cyclist is aware of some hazard ahead, so drive with extra care.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/signalslowdown.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/signalslowdown.jpg",
       "questions": [
         "The cyclist intends to turn left.",
         "The cyclist is signaling following traffic to overtake.",
@@ -550,7 +550,7 @@
       "question": "What does this hand signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This hand signal tells other road users that the cyclist intends to proceed straight ahead at a junction and drivers should show caution.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/signalstraighton.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/signalstraighton.jpg",
       "questions": [
         "The cyclist intends to go straight on.",
         "The cyclist is turning to her left.",
@@ -564,7 +564,7 @@
       "question": "What does this hand signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This hand signal informs other road users that the cyclist intends to make a left-hand turn.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/signalturnleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/signalturnleft.jpg",
       "questions": [
         "The cyclist intends to stop.",
         "The cyclist intends to dismount.",
@@ -578,7 +578,7 @@
       "question": "What does this hand signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This hand signal informs other road users that the cyclist intends to make a right-hand turn.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/frontturnright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/frontturnright.jpg",
       "questions": [
         "The cyclist intends to slow down.",
         "The cyclist intends to stop for pedestrians.",
@@ -592,7 +592,7 @@
       "question": "What does this hand signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This hand signal informs other road users that the cyclist intends to turn left.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/frontturnleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/frontturnleft.jpg",
       "questions": [
         "The cyclist intends to stop.",
         "The cyclist intends to turn left.",
@@ -606,7 +606,7 @@
       "question": "What does this hand signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This hand signal informs other road users that the driver intends to turn left and the vehicle will change direction.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carturnleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carturnleft.jpg",
       "questions": [
         "The driver intends to yield to oncoming traffic.",
         "The driver intends to slow down or stop.",
@@ -620,7 +620,7 @@
       "question": "What does this hand signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This hand signal informs other road users that the driver intends to move out or turn right and the vehicle will change direction.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carturnright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carturnright.jpg",
       "questions": [
         "The driver intends to turn left.",
         "The driver intends to move out or turn right.",
@@ -634,7 +634,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must not proceed in the direction of the arrow. This is displayed to prevent traffic going in the wrong direction - for example, the wrong way up a one-way street.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noentry.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noentry.jpg",
       "questions": [
         "Cul-de-sac ahead.",
         "No hard shoulder ahead.",
@@ -648,7 +648,7 @@
       "question": "What does this hand signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This hand signal informs other road users that the driver intends to slow down or stop and following traffic should be prepared to slow down also.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carslowdown.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carslowdown.jpg",
       "questions": [
         "The driver intends to turn left.",
         "The driver intends to turn right.",
@@ -662,7 +662,7 @@
       "question": "What does this hand signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This hand signal informs other road users or a garda directing traffic (facing this vehicle), that the driver intends to make a left hand turn.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/oncomingturnleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/oncomingturnleft.jpg",
       "questions": [
         "The driver intends to perform a reverse maneuver.",
         "The driver intends to turn left.",
@@ -676,7 +676,7 @@
       "question": "What does this hand signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This hand signal informs other road users or a garda directing traffic (facing this vehicle), that the driver intends to turn right.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/oncomingturnright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/oncomingturnright.jpg",
       "questions": [
         "The driver intends to perform a reverse maneuver.",
         "The driver intends to turn right.",
@@ -690,7 +690,7 @@
       "question": "What does this hand signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This hand signal informs other road users or a garda directing traffic that the driver intends to proceed straight ahead.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/oncomingstraight.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/oncomingstraight.jpg",
       "questions": [
         "The driver is signaling you to proceed.",
         "The driver intends to reverse.",
@@ -704,7 +704,7 @@
       "question": "What does this Garda signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: When approaching a garda giving this signal you must stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/gardastop.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/gardastop.jpg",
       "questions": [
         "Stop if approaching from the front.",
         "Proceed if approaching from the front.",
@@ -718,7 +718,7 @@
       "question": "What does this Garda signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: When approaching a garda giving this signal you must stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/gardastopbehind.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/gardastopbehind.jpg",
       "questions": [
         "Stop if approaching from behind.",
         "Turn right.",
@@ -732,7 +732,7 @@
       "question": "What does this Garda signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: When approaching a garda giving this signal you must stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/stopfrontbehind.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/stopfrontbehind.jpg",
       "questions": [
         "Proceed if approaching from the front.",
         "Turn right.",
@@ -746,7 +746,7 @@
       "question": "What does this Garda signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: When approaching a garda giving this signal you may proceed.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/gardaeitherside.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/gardaeitherside.jpg",
       "questions": [
         "The Garda is beckoning on traffic approaching from the front.",
         "You must not proceed to the right.",
@@ -760,7 +760,7 @@
       "question": "What does this Garda signal mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: When approaching a garda giving this signal you may proceed.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/gardafrontproceed.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/gardafrontproceed.jpg",
       "questions": [
         "Traffic approaching from the front may proceed.",
         "Traffic approaching from behind may proceed.",
@@ -774,7 +774,7 @@
       "question": "What does this road marking indicate? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: A zebra crossing is a designated area for pedrestrians to cross the road. As a driver you must always yield to pedestrians on a zebra crossing.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/zebracrossing.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/zebracrossing.jpg",
       "questions": [
         "Pedestrian island ahead.",
         "Cycle lane ahead.",
@@ -788,7 +788,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign is displayed at a junction where you may not turn right.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noright.jpg",
       "questions": [
         "No right turn.",
         "Yield to other traffic when turning right.",
@@ -802,7 +802,7 @@
       "question": "What does this road marking mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: White zig zag lines indicate that you are approaching a pedrestrian crossing. You must not park or overtake within this area.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noparkingarea.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noparkingarea.jpg",
       "questions": [
         "No parking in this area.",
         "Road surface is uneven.",
@@ -816,7 +816,7 @@
       "question": "What does this road marking mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: You must not enter the yellow box junction unless you can clear it without stopping or unless you are turning and are prevented from doing so by oncoming traffic.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noentryunlessclear.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noentryunlessclear.jpg",
       "questions": [
         "You have right-of-way over traffic from both right and left.",
         "Traffic from right and left have the right-of-way.",
@@ -830,7 +830,7 @@
       "question": "What does this road marking mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: Where there is a continuous white line in the centre of the road, you are not permitted to: 1. Straddle or cross the white line; 2. Overtake another vehicle; 3. Perform a U-turn; 4. Park on the road at this point.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/solidwhite.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/solidwhite.jpg",
       "questions": [
         "You may overtake.",
         "A driver must not cross the line.",
@@ -844,7 +844,7 @@
       "question": "What do white arrows painted on the road indicate?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: When approaching a junction you must select the appropriate lane for the direction you want to go.The appropriate lane may be marked by directional arrows. Make sure you cahange lane only when its safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/whitearrows.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/whitearrows.jpg",
       "questions": [
         "The lane drivers should use for the direction they intent to take.",
         "Left and right-hand lanes are for buses only.",
@@ -858,7 +858,7 @@
       "question": "What does this road marking and information plate together mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: A single yellow line along the edge of a road means that you must not park there during the times shown on the accompanying information plate.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/parkingnotallowedattimes.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/parkingnotallowedattimes.jpg",
       "questions": [
         "Parking not allowed at the times shown.",
         "Parking only at times shown.",
@@ -872,7 +872,7 @@
       "question": "What does this road marking mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: A broken white line along the centre of the road means you must not cross the line unless it is safe to do so when overtaking or passing.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/brokensingleline.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/brokensingleline.jpg",
       "questions": [
         "A driver must not cross the broken white line unless it is safe to do so.",
         "You may not overtake.",
@@ -886,7 +886,7 @@
       "question": "What could this road marking mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: Double broken white lines along the centre of the road alert you to continuous white lines ahead.Do not cross them unless it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/continouswhitelinesahead.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/continouswhitelinesahead.jpg",
       "questions": [
         "All traffic must keep to the left of the broken white lines.",
         "Dual-carriageway ahead.",
@@ -900,7 +900,7 @@
       "question": "If driving from A to B, what do these road markings mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: Where there is broken white line and a continuous white line along the centre of the road, you must obey the line that is nearest to you. In this case you may cross the lines as long as it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/overtakeifsafetodoso.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/overtakeifsafetodoso.jpg",
       "questions": [
         "A driver may cross the continuous white line only when performing a 'U'-turn.",
         "A driver may not overtake, only motorcyclists may cross the continuous white line.",
@@ -914,7 +914,7 @@
       "question": "If driving from A to B, what do these road markings mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: Where there is a broken white line and a continuous white line along the centre of the road, you must obey the line that is nearest to you. In this case you may not cross the lines.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/maynotcross.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/maynotcross.jpg",
       "questions": [
         "A driver may overtake by crossing the continuous white line.",
         "A driver may not cross the lines to overtake.",
@@ -928,7 +928,7 @@
       "question": "What does this road marking mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This road marking indicates the 'wrong' end of a one-way street. You may enter this street.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noentrymarking.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noentrymarking.jpg",
       "questions": [
         "No entry.",
         "The road ahead is a cul-de-sac.",
@@ -942,7 +942,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign is displayed at a junction where you may not turn left.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noleft.jpg",
       "questions": [
         "Roundabout ahead with no left exit.",
         "Cul-de-sac to the left.",
@@ -956,7 +956,7 @@
       "question": "What does this road marking mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: A double yellow line along the edge of the road means parking is not allowed at any time.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/parkingprohibitedalltimes.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/parkingprohibitedalltimes.jpg",
       "questions": [
         "Parking prohibited at all times.",
         "Parking prohibited during business hours.",
@@ -970,7 +970,7 @@
       "question": "What does the broken yellow line road marking mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: A single broken yellow line along the side of the road marks the edge of the carriageway/hard shoulder. This is normally for the use of pedestrians and cyclists. As a driver, however, you may use it briefly to allow faster traffic to overtake, but only where it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/hardshoulder.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/hardshoulder.jpg",
       "questions": [
         "Lay-by ahead.",
         "No stopping for any reason except in an emergency.",
@@ -984,7 +984,7 @@
       "question": "What does this traffic light mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: When the traffic light is showing amber you must not go beyond the stop line unless your so close to the traffic lights that stopping would be dangerous.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/ambertrafficlight.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/ambertrafficlight.jpg",
       "questions": [
         "Stop, unless it would be unsafe to do so.",
         "Stop.",
@@ -998,7 +998,7 @@
       "question": "What does this traffic light mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: A green arrow (filter light) means that traffic may proceed in the direction of the arrow if it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/greenrightlight.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/greenrightlight.jpg",
       "questions": [
         "Traffic is not allowed to turn right.",
         "The driver may proceed in the direction of the green arrow if the way is clear.",
@@ -1012,7 +1012,7 @@
       "question": "What does this traffic light mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: A green arrow (filter light) means that traffic may proceed in the direction of the arrow if it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/greenleftright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/greenleftright.jpg",
       "questions": [
         "Traffic is not allowed to turn left.",
         "All traffic must turn left only.",
@@ -1026,7 +1026,7 @@
       "question": "What does this traffic light mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: A red light means STOP. You must not go beyond the stop line or (if there is no stop line) beyond the light.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/redtrafficlight.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/redtrafficlight.jpg",
       "questions": [
         "You may proceed.",
         "Traffic must stop at the traffic light.",
@@ -1040,7 +1040,7 @@
       "question": "What does this traffic light mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: You may proceed on a green traffic light if it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/greentrafficlight.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/greentrafficlight.jpg",
       "questions": [
         "You must give way to any oncoming traffic turning right.",
         "You must stop.",
@@ -1080,7 +1080,7 @@
       "question": "What does a flashing left amber arrow at a traffic light mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: A flashing amber arrow at a junction means you may proceed left but must give way to pedestrians and traffic already coming through the junction on the other road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/flashingleftamberlight.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/flashingleftamberlight.jpg",
       "questions": [
         "A driver may turn left but yield to traffic on the other road.",
         "A driver may turn left if the green light is also shown.",
@@ -1094,7 +1094,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you are not permitted to make a U-turn. It is displayed at junctions on dual carriageways. U-turns are also not permitted anywhere there is a continuous white line along the centre of the road or on a one-way street.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/nouturn.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/nouturn.jpg",
       "questions": [
         "U-turn not permitted.",
         "Reversing not permitted.",
@@ -1208,7 +1208,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that the maximum legal speed limit permitted for this section of road is 30km/h",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/30kmh.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/30kmh.jpg",
       "questions": [
         "Maximum speed is 30 km/h.",
         "Parking not allowed for more than 30 minutes.",
@@ -1352,7 +1352,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that the maximum legal speed limit permitted for this section of road is 50km/h.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/50kmh.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/50kmh.jpg",
       "questions": [
         "Motorway continues for 50 kilometers.",
         "Minimum distance between vehicles is 50 meters.",
@@ -1366,7 +1366,7 @@
       "question": "What does this marker board on a large vehicle indicate? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This marker board is displayed on heavy goods vehicle loads to alert other road users when the load or equipment overhangs the front or rear of the vehicle by more than 2 meters.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/overhangingload.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/overhangingload.jpg",
       "questions": [
         "Hazardous goods carried.",
         "Overhanging load.",
@@ -1497,7 +1497,7 @@
       "question": "What must a driver do when this sign is accompanied by a white stop line on the road?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: When accompained by a STOP sign, the white stop line indicates the point at which you must stop your vehicle.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/stop.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/stop.jpg",
       "questions": [
         "Stop at the line.",
         "When you have passed the line.",
@@ -1511,7 +1511,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that the maximum legal speed limit permitted for this section of road is 60km/h.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/60kmh.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/60kmh.jpg",
       "questions": [
         "Parking not allowed for more than 60 minutes.",
         "Distance to junction is 60 meters.",
@@ -1590,7 +1590,7 @@
       "question": "What is the correct action to take in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: Because it is difficult to predict children's behavior, you should always be prepared to react to a change in the traffic situation or to stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/closeeyesidewalk.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/closeeyesidewalk.jpg",
       "questions": [
         "Keep a close eye on the children, if necessary give a warning signal and be prepared to brake in good time.",
         "Speed up to pass the children quickly.",
@@ -1604,7 +1604,7 @@
       "question": "An approaching driver notices that the boy on the children’s bicycle has said goodbye to his friend. What is the correct action for the driver to take?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: Because it is difficult to predict children's behavior, you should always be prepared to react to a change in the traffic situation or to stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/bicyclesidewalk.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/bicyclesidewalk.jpg",
       "questions": [
         "Proceed as the boy is on the footpath.",
         "Stop the car until the boy has moved off.",
@@ -1618,7 +1618,7 @@
       "question": "As the driver of the car, which conduct is correct? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You may proceed, but should be aware of the presence of the motorcyclist. You should always be prepared to react to a change in the traffic situation - for example, the motorcyclist might not have seen your vehicle.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carbicycle1.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carbicycle1.jpg",
       "questions": [
         "A driver may proceed.",
         "A driver must drive on the right-hand side to allow clearance to the motorcyclist.",
@@ -1632,7 +1632,7 @@
       "question": "What should the car diver do in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are turning right from a major road, you must yield to oncoming traffic, and you should proceed only when it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation2.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation2.jpg",
       "questions": [
         "The driver must stop and yield right of way to the other road users.",
         "The driver may drive around the corner before the cyclist.",
@@ -1646,7 +1646,7 @@
       "question": "What must a driver be prepared for in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: Because it is difficult to predict children's behavior, you should always be prepared to react to a change in the traffic situation and be prepared to stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation3.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation3.jpg",
       "questions": [
         "The ball could damage your vehicle.",
         "One of the children could turn back to collect the ball from the roadway.",
@@ -1660,7 +1660,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that the maximum legal speed limit permitted for this section of road is 80km/h.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/80kmh.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/80kmh.jpg",
       "questions": [
         "Maximum speed is 80km/h.",
         "80 meters to start of motorway.",
@@ -1674,7 +1674,7 @@
       "question": "When approaching the pedestrian crossing, what should the driver do in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When there are pedestrians at or near a zebra crossing, you should slow down on approach and be prepared to stop to allow the pedestrians to cross safely.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation4.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation4.jpg",
       "questions": [
         "Slow down in good time and be prepared to stop.",
         "Continue to drive on fast because the pedestrians have to wait.",
@@ -1688,7 +1688,7 @@
       "question": "What should the driver do in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you reach the roundabout, you must give way to traffic approaching from the right - unless signs, road markings or traffic lights tell you otherwise.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation5.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation5.jpg",
       "questions": [
         "The driver may proceed onto the roundabout in front of the yellow car.",
         "The driver must yield to the yellow car on the roundabout.",
@@ -1702,7 +1702,7 @@
       "question": "What should the car driver do in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are turning right from a major road to a minor road, you must yield to oncoming traffic. You should proceed only when it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation6.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation6.jpg",
       "questions": [
         "The car driver may proceed first.",
         "The car driver must allow the motorcycle to proceed.",
@@ -1716,7 +1716,7 @@
       "question": "What should the driver do in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are turning right from a major road to a minor road, you must yield to oncoming traffic and only proceed when it is safe to do so. However, the drivers on the minor roads must give way to the traffic on the major road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation7.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation7.jpg",
       "questions": [
         "The driver may turn in front of the other two cars.",
         "The driver must allow the red car to proceed.",
@@ -1730,7 +1730,7 @@
       "question": "Why should a driver be alert in this area? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When driving in a built-up area, you should drive with caution and be prepared to react to pedestrians crossing from between parked vehicles.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation8.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation8.jpg",
       "questions": [
         "Pedestrians may cross between parked cars.",
         "Pedestrians are only allowed to cross the road at pedestrian crossings.",
@@ -1744,7 +1744,7 @@
       "question": "What should the driver do if children are playing at the edge of the roadway? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: Because it is difficult to predict children's behavior, you should always be prepared to react to a change in the traffic situation and be prepared to stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation9.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation9.jpg",
       "questions": [
         "Maintain the same speed because the children can see an oncoming vehicle quite clearly at this point.",
         "Accelerate and move to the right-hand side of the road to avoid the children.",
@@ -1758,7 +1758,7 @@
       "question": "What should the driver do in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: On approaching a crossroads you should check the road sign to see which traffic has priority and be prepared from emerging traffic from either side. Vehicles do not have an automatic right of way on the road. The overriding rule is to proceed with caution in all circumstances.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation10.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation10.jpg",
       "questions": [
         "The cyclist must allow the other vehicles to proceed.",
         "The driver has to let the van cross the junction.",
@@ -1772,7 +1772,7 @@
       "question": "What should the driver do in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You may turn if there is no oncoming traffic but you should also be aware that there might be traffic emerging from the minor roads.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation11.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation11.jpg",
       "questions": [
         "The driver may proceed first.",
         "The driver must allow the orange car cross.",
@@ -1786,7 +1786,7 @@
       "question": "What should the driver do in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are turning right from a major road to a minor road, you must yield to oncoming traffic and proceed only when it is safe to do so. You should also be aware that there might be emerging traffic from the minor road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation12.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation12.jpg",
       "questions": [
         "The driver must allow the blue truck to proceed.",
         "The driver is not allowed to turn right.",
@@ -1800,7 +1800,7 @@
       "question": "What should a driver be conscious of in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should always read the road ahead and be prepared to react to the changing traffic situation. In particular, you should be aware that pedestrians might emerge at the rear of the bus.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation13.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation13.jpg",
       "questions": [
         "Traffic emerging from the street on the left.",
         "The bus driver will always signal before moving off.",
@@ -1814,7 +1814,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that the maximum legal speed limit permitted for this section of road is 100km/h.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/100kmh.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/100kmh.jpg",
       "questions": [
         "Maximum speed is 100 km/h.",
         "Clearway ahead at 100 meters.",
@@ -1828,7 +1828,7 @@
       "question": "The silver car is overtaking the parked car, what should the driver do in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should read the road and be extra careful while driving through an area where children might be playing. When a ball bounces out on the road you should expect that a child might follow to retrieve the ball.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation14.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation14.jpg",
       "questions": [
         "The driver should drive on if you don't hit the ball.",
         "The driver should drive on at the same speed.",
@@ -1842,7 +1842,7 @@
       "question": "What should a driver be aware of in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should read the road ahead and pay expect extra pedestrian activity when the tram is at a stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation15.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation15.jpg",
       "questions": [
         "Pedestrians may leave the traffic island without paying attention.",
         "Nothing as pedestrians are always careful in this situation.",
@@ -1856,7 +1856,7 @@
       "question": "The driver is following these two vehicles and wishes to overtake. What must the driver consider before overtaking here? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should always make sure that the road straight ahead is clear so that there is enough distance to allow you to overtake and get back to the correct side of the road without forcing any other road user to alter speed or course. In this case, the brow of the hill is too close to allow a driver to overtake safely.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation16.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation16.jpg",
       "questions": [
         "You should overtake both vehicles together.",
         "The drivers field of view is not good enough to allow safe overtaking.",
@@ -1870,7 +1870,7 @@
       "question": "What should a driver do when approaching a vehicle which is attempting to park? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you approach a vehicle that is being parked on the roadway, you should be aware that its driver will probably be concentrating on parking the vehicle and may not be aware of moving out into the road to correct its position.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation17.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation17.jpg",
       "questions": [
         "Give warning signal and drive on quickly.",
         "Drive close to the car without crossing the broken line.",
@@ -1884,7 +1884,7 @@
       "question": "What should the driver allow for when following the bus on an icy road? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When driving in icy conditions, you should always reduce speed and allow a bigger gap to the vehicle in front in order to be able to stop safely if necessary.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation18.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation18.jpg",
       "questions": [
         "A longer braking distance.",
         "Expect bus driver to wait until you have overtaken him.",
@@ -1898,7 +1898,7 @@
       "question": "What should the driver of the silver car do before turning left? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: Do not overtake a cyclist as you approach a junction at which you are turning left. The cyclist might be continuing ahead. Cyclists are vulnerable road users and may be unstable in slow-moving traffic and at junctions. Give them more room.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation19.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation19.jpg",
       "questions": [
         "Beckon to the cyclist that you intend to turn left.",
         "Turn the corner before the cyclist.",
@@ -1912,7 +1912,7 @@
       "question": "What lights should a driver use in a fog? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When driving in fog you should switch on your front and rear fog lights along with dipped headlights. You should not drive in fog with full beam headlights on.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation20.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation20.jpg",
       "questions": [
         "Front and rear fog lights along with dipped headlights.",
         "Front and rear fog lights .",
@@ -1926,7 +1926,7 @@
       "question": "What should the driver be conscious of in this situation?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: It is often difficult to predict other road users' behaviour. Where there are parked vehicles on both sides of the road you should approach with caution, and be prepared to react to a change in the traffic situation and to stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation21.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation21.jpg",
       "questions": [
         "The pedestrians will first allow the vehicle to drive past before crossing the road.",
         "The pedestrian may suddenly cross the roadway in front of the vehicle.",
@@ -1940,7 +1940,7 @@
       "question": "What should the driver do when approaching this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: It is often difficult to predict other road users' behaviour. You should be prepared in case the pedestrian steps onto the road and the silver car stops suddenly.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation22.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation22.jpg",
       "questions": [
         "The driver should maintain current speed and following distance from the silver car.",
         "The driver should be prepared for the vehicle in front to increase speed.",
@@ -1954,7 +1954,7 @@
       "question": "What should the driver do? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: At a cross junction of equal importance the traffic approaching from the right has priority. It is important to understand that the right of way is not an absolute right. You must proceed with caution while showing regard for other road users.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation23.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation23.jpg",
       "questions": [
         "The driver does not need to signal.",
         "The driver may cross the junction first.",
@@ -1968,7 +1968,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that the maximum legal speed limit permitted for this section of road is 120km/h.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/120kmh.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/120kmh.jpg",
       "questions": [
         "Motorway exit ahead at 120 meters.",
         "Traffic merging at 120 meters ahead.",
@@ -1982,7 +1982,7 @@
       "question": "Which car, if any, is parked incorrectly ?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: It is an offence to park within 15 metres before or 5 metres after a pedestrian crossing. Parking in this manner may restrict the zone of vision of drivers approaching the crossing and endanger pedestrians.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation24.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation24.jpg",
       "questions": [
         "Both cars.",
         "The green car.",
@@ -1996,7 +1996,7 @@
       "question": "What should a driver be aware of in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should show extra care when approaching cyclists who are about to exit from a cycle lane and join the roadway.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation25.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation25.jpg",
       "questions": [
         "The cyclist will move onto the roadway without paying attention to moving traffic.",
         "A driver should move to the right-hand side in case the cyclist moves out.",
@@ -2010,7 +2010,7 @@
       "question": "A driver wants to pull out of a driveway and turn right onto the road. At the same time a cyclist is approaching from the right and a pedestrian wants to cross. Who must wait? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: By law you must give way to other road users, including pedestrians and cyclists, when you are entering or leaving a driveway.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation26.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation26.jpg",
       "questions": [
         "The pedestrian must wait.",
         "The driver must wait.",
@@ -2024,7 +2024,7 @@
       "question": "What action should the driver take? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: By law you must stop at a Stop line (or at a Stop sign if there is no Stop line), and wait for other traffic to clear before proceeding.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation27.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation27.jpg",
       "questions": [
         "The driver may turn off before the cyclist when the bus has passed.",
         "The cyclist must allow both the driver and the bus to proceed.",
@@ -2038,7 +2038,7 @@
       "question": "What should a driver do when travelling behind this vehicle? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should always read the road ahead and be prepared to react to the changing traffic situation as you approach junctions.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation28.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation28.jpg",
       "questions": [
         "Drive up as close as possible to the vehicle ahead in order not to lose it out of your sight.",
         "Reduce speed and prepare to stop if necessary.",
@@ -2052,7 +2052,7 @@
       "question": "How should a driver overtake the cyclist in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: Where there are two lines in the centre of the road, you must obey the one closest to you. So. if the closest line is a broken white line, by law you may overtake, so long as it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation29.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation29.jpg",
       "questions": [
         "By crossing the broken white line.",
         "By not crossing the broken white line.",
@@ -2066,7 +2066,7 @@
       "question": "What does this road marking mean? ",
       "heading": "Uncategorized",
       "explanation": "Explantion: You must not cross or straddle a continuous white line in the centre of the road unless you wish to enter land or premises and it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/solidwhite.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/solidwhite.jpg",
       "questions": [
         "Vehicles may not cross or straddle the line.",
         "The line may only be crossed during daylight hours.",
@@ -2080,7 +2080,7 @@
       "question": "What does this road marking mean? ",
       "heading": "Uncategorized",
       "explanation": "Explantion: A continuous white line is marked on the road where it is dangerous to carry out any of the above manoeuvres. This is because it may be in a built up area or an area of restricted vision, such as in a bend or on a section of road which has a dangerous junctions joining it.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/solidwhite.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/solidwhite.jpg",
       "questions": [
         "Pick up a passenger.",
         "Reverse the vehicle.",
@@ -2094,7 +2094,7 @@
       "question": "What does a broken white line in the centre of the road mean? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: By law, you may cross a broken white line to overtake or avoid an obstruction, as long as it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation30.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation30.jpg",
       "questions": [
         "A driver may straddle or cross the broken line in order to avoid an obstruction or to overtake.",
         "Oncoming traffic other than slow earth moving vehicles may overtake.",
@@ -2108,7 +2108,7 @@
       "question": "The driver intends to turn left at this junction - what should the driver do? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: Do not overtake a cyclist as you approach a junction at which you are turning left. The cyclist might be continuing ahead. Cyclists are vulnerable road users and may be unstable in slow-moving traffic and at junctions. Give them more room.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation31.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation31.jpg",
       "questions": [
         "Allow the cyclist to continue before turning left.",
         "Yield right of way to the van.",
@@ -2122,7 +2122,7 @@
       "question": "What does these signs together mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: These signs tells you that parking is permitted in both directions, but only at the times shown on the information plate.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/parking.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/parking.jpg",
       "questions": [
         "Parking permitted at times shown.",
         "Parking prohibited at times shown.",
@@ -2136,7 +2136,7 @@
       "question": "Why might it be dangerous to drive on a poorly-lit street? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are driving along a poorly-lit street, you should take extra care - vulnerable road users such as pedestrians might not be easy to see. You should always be prepared to react to react to a change in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/pooorlylitstreet.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/pooorlylitstreet.jpg",
       "questions": [
         "Traffic lights will not be working.",
         "Pedestrians crossing in a dark area might be difficult to see.",
@@ -2150,7 +2150,7 @@
       "question": "Why might it be dangerous to drive on a poorly-lit street? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are driving along a poorly-lit street, you should take extra care - vulnerable road users such as pedestrians might not be easy to see. You should always be prepared to react to react to any change in the traffic situation and to the hazards such as those posed by unlit parked vehicles.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/pooorlylitstreet.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/pooorlylitstreet.jpg",
       "questions": [
         "Traffic lights will not be working.",
         "Only oncoming traffic will see you.",
@@ -2164,7 +2164,7 @@
       "question": "The driver intends to turn right at this junction - what should the driver do? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are turning right at a junction, you should yield to traffic on the major road, and to oncoming traffic at the junction.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation32.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation32.jpg",
       "questions": [
         "Proceed before the bus.",
         "Proceed after the bus and motorcycle have passed.",
@@ -2178,7 +2178,7 @@
       "question": "The driver intends to turn right at this junction - what should the driver do? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are turning right at a junction, you should yield to traffic on the major road, and to oncoming traffic at the junction.\r\nYou must stop at the line where a junction is controlled by a Stop sign and Stop line. Do not proceed until it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation32.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation32.jpg",
       "questions": [
         "Stop at the line.",
         "Proceed in front of the motorcycle and the bus.",
@@ -2192,7 +2192,7 @@
       "question": "What should a driver do if dazzled by the lights of an oncoming vehicle? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: If you are dazzled by the lights of oncoming traffic, turn your eyes to the left edge of the road. If necessary, stop and allow your eyes to recover before driving on.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/oncomingheadlights.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/oncomingheadlights.jpg",
       "questions": [
         "Dazzle the oncoming vehicle with their own full beam.",
         "Look to the left-hand edge of the roadway and if necessary reduce speed.",
@@ -2206,7 +2206,7 @@
       "question": "What should you do when approaching traffic lights that change from green to amber?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are approaching a set of traffic lights showing green, you should take care and be prepared to stop if the amber light comes on.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carjunction1.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carjunction1.jpg",
       "questions": [
         "Accelerate and complete the turn.",
         "Proceed, as the green light is about to come on.",
@@ -2220,7 +2220,7 @@
       "question": "When intending to turn right as shown, what should the car driver do? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are turning right from a main road onto a side road, you must by law give way to oncoming traffic on the main road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation33.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation33.jpg",
       "questions": [
         "Wait and allow the oncoming vehicle to pass.",
         "Wait, the truck may proceed first.",
@@ -2234,7 +2234,7 @@
       "question": "When intending to turn right as shown, what should the car driver do?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are driving on a main road, you have priority over traffic emerging from side roads. But it is important to understand that the right of way is not an absolute right and you must proceed with caution and showing regard for other road users.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation33.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation33.jpg",
       "questions": [
         "The oncoming vehicle should wait.",
         "You should wait; the truck may proceed first.",
@@ -2248,7 +2248,7 @@
       "question": "What danger should a driver allow for over the brow of this hill? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: On the approach to the brow of a hill you should be extra careful and be prepared to react to a change in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/browofhill.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/browofhill.jpg",
       "questions": [
         "Traffic calming measures may apply.",
         "There may be a slow-moving vehicle in your lane.",
@@ -2262,7 +2262,7 @@
       "question": "What danger should a driver allow for over the brow of this hill? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: On the approach to the brow of a hill you should be extra careful and be prepared to react to a change in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/browofhill.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/browofhill.jpg",
       "questions": [
         "A vehicle may have broken down.",
         "Traffic calming measures may apply.",
@@ -2276,7 +2276,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that parking is prohibited in both directions.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/parkingprohibited.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/parkingprohibited.jpg",
       "questions": [
         "Public service vehicles prohibited.",
         "Parking prohibited.",
@@ -2290,7 +2290,7 @@
       "question": "What danger should a driver allow for over the brow of this hill? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: On the approach to the brow of a hill you should be extra careful and be prepared to react to a change in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/browofhill.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/browofhill.jpg",
       "questions": [
         "Speed cameras may be in operation.",
         "There may be no road markings.",
@@ -2304,7 +2304,7 @@
       "question": "What danger should a driver allow for over the brow of this hill? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: On the approach to the brow of a hill you should be extra careful and be prepared to react to a change in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/browofhill.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/browofhill.jpg",
       "questions": [
         "There may be oncoming pedestrians.",
         "There may be no road markings.",
@@ -2318,7 +2318,7 @@
       "question": "What danger should a driver allow for over the brow of this hill? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: On the approach to the brow of a hill you should be extra careful and be prepared to react to a change in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/browofhill.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/browofhill.jpg",
       "questions": [
         "There may be livestock on the road.",
         "An oncoming vehicle may not have power steering.",
@@ -2332,7 +2332,7 @@
       "question": "What danger should a driver allow for over the brow of this hill? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: On the approach to the brow of a hill you should be extra careful and be prepared to react to a change in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/browofhill.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/browofhill.jpg",
       "questions": [
         "There may be hedge-cutting taking place.",
         "Traffic calming measures may apply.",
@@ -2346,7 +2346,7 @@
       "question": "What should a driver be aware of in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: On the approach to an area with a restricted view you should be extra careful and be prepared to react to a change in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/backofbus.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/backofbus.jpg",
       "questions": [
         "There may be a car hidden from view in front of the bus.",
         "A car oncoming towards you will not overtake the bus.",
@@ -2360,7 +2360,7 @@
       "question": "What should a driver do when continuing straight ahead in the middle lane? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should always keep a safe distance from the vehicle in front especially when it is slowing down or stopping.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation34.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation34.jpg",
       "questions": [
         "Take any lane as convenient.",
         "Slow down and allow the driver to change lanes.",
@@ -2374,7 +2374,7 @@
       "question": "What should a driver be aware of when following the motorcyclist, and the white car is reversing onto the road? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should always, keep a safe distance from the vehicle in front if it is slowing down or stopping. Always read the road and be prepared to react correctly to changes in the traffic ahead.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation35.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation35.jpg",
       "questions": [
         "The reversing driver will stop when he sees the motorcyclist.",
         "The motorcyclist may suddenly brake.",
@@ -2388,7 +2388,7 @@
       "question": "What should a driver be aware of when following the motorcyclist, and the white car is reversing onto the road? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should always, keep a safe distance from the vehicle in front if it is slowing down or stopping. Always read the road and be prepared to react correctly to changes in the traffic ahead.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation35.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation35.jpg",
       "questions": [
         "The reversing driver will stop when he sees the motorcyclist.",
         "The driver following the motorcycle may need a longer braking distance than normal.",
@@ -2402,7 +2402,7 @@
       "question": "What should a driver do on the approach to this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When road priority is unclear you might have to yield to oncoming vehicles. Never drive a vehicle into an area that it might not be able to clear or where it could cause an obstruction or bottleneck.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation36.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation36.jpg",
       "questions": [
         "Give way only if you are towing a trailer or caravan.",
         "Drive on because the oncoming traffic must wait.",
@@ -2416,7 +2416,7 @@
       "question": "When driving on a cobblestone road why should you take extra care? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: Different road surfaces can affect your vehicle's grip on the road and its stopping distances. You should be aware of this when driving on different surfaces.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation37.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation37.jpg",
       "questions": [
         "The road surface is uneven and road grip varies.",
         "Driving on the tracks can improve tyre grip.",
@@ -2430,7 +2430,7 @@
       "question": "What does these signs together mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: A clearway sign means that no stopping or parking is allowed in this area during the times shown on the information plate.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/clearway.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/clearway.jpg",
       "questions": [
         "Clearway - no stopping or parking during the times shown.",
         "Crossroads ahead with roads of equal importance.",
@@ -2444,7 +2444,7 @@
       "question": "After a heavy downpour, why should the driver keep a greater distance from vehicles in front? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: Heavy rain can affect how well you can see and how well you can be seen by other road users. On a wet surface, your tyres do not grip the road surface as well as in dry conditions and your stopping distance is increased. For these reasons you should slow down in heavy rain and keep a greater distance from the vehicle in front.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/heavyrainroad.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/heavyrainroad.jpg",
       "questions": [
         "Because wheels rotate at slower speed after rain.",
         "Because wheel-spray may impair visibility.",
@@ -2458,7 +2458,7 @@
       "question": "After a heavy downpour why should the driver keep a greater distance from vehicles in front? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: On a wet surface, your tyres do not grip the road surface as well as in dry conditions and your stopping distance is increased. For these reasons you should slow down in heavy rain and keep a greater distance from the vehicle in front.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/heavyrainroad.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/heavyrainroad.jpg",
       "questions": [
         "Because wheels rotate at slower speed after rain.",
         "Because wheels rotate at greater speed after rain.",
@@ -2472,7 +2472,7 @@
       "question": "When driving on this one-way street with vehicles parked on both sides, what should a driver be prepared for?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When driving on a one-way street, you should be extra careful and should be prepared to react to a change in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation38.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation38.jpg",
       "questions": [
         "The truck may be a left-hand drive vehicle.",
         "The truck may not have proper markings.",
@@ -2486,7 +2486,7 @@
       "question": "When driving on this one-way street with vehicles parked on both sides, what should a driver be prepared for?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When driving on a one-way street, you should be extra careful and should be prepared to react to a change in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation38.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation38.jpg",
       "questions": [
         "The truck may not have proper markings.",
         "Pedestrians crossing between vehicles.",
@@ -2500,7 +2500,7 @@
       "question": "Why must a driver be particularly careful here? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: Where there are fallen leaves on the road surface, your tyres might have reduced grip on the road surface and your braking distances might be greater.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation39.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation39.jpg",
       "questions": [
         "The vehicle coming from the right has right of way.",
         "Because a vehicle could come from then left.",
@@ -2514,7 +2514,7 @@
       "question": "What should a driver do in this situation when intending to turn left? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: By law you must yield to pedestrians already crossing at a junction. Pedestrians are vulnerable road users and you should be extra careful driving at places where pedestrians are attempting to cross the road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation40.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation40.jpg",
       "questions": [
         "Proceed between both pedestrians.",
         "Wait and allow both pedestrians to cross.",
@@ -2528,7 +2528,7 @@
       "question": "What should a driver do when turning right at this junction?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are turning right from a main road into a side road, you must give way to oncoming traffic on the main road even if they are turning left into the same road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation41.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation41.jpg",
       "questions": [
         "Stop, oncoming traffic has right of way.",
         "Allow the red car to proceed.",
@@ -2542,7 +2542,7 @@
       "question": "What should the car driver be aware of in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are approaching a bend or corner with a restricted view you should slow down if necessary and be prepared to react to any changes in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation42.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation42.jpg",
       "questions": [
         "Oncoming traffic may cut the corner.",
         "Following traffic may cut the corner.",
@@ -2556,7 +2556,7 @@
       "question": "What should the car driver be aware of in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are approaching a bend or corner with a restricted view you should slow down if necessary and be prepared to react to any changes in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation42.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation42.jpg",
       "questions": [
         "Road marking is taking place ahead.",
         "The road ahead is solely for cars and other light vehicles.",
@@ -2570,7 +2570,7 @@
       "question": "What should a driver be aware of when driving at night along a shopping street with many different light sources? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When driving at night in an area where there is a variety of light sources, you need to be extra careful, as potential hazards might be more difficult to see.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation43.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation43.jpg",
       "questions": [
         "Parking spaces may be difficult to notice.",
         "Traffic lights may be difficult to distinguish from the other bright lights.",
@@ -2584,7 +2584,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you your vehicle must display a parking disk when you park during the hours shown on the information plate.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/diskparking.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/diskparking.jpg",
       "questions": [
         "Disc parking operates during the times shown.",
         "Parking is prohibited during the hours shown.",
@@ -2598,7 +2598,7 @@
       "question": "What should a driver be most aware of in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When driving in a residential area you need to take account of the danger you might pose to children playing. You should always observe warning signs relating to children and drive accordingly.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation44.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation44.jpg",
       "questions": [
         "Animals could suddenly appear on the road ahead",
         "Children may unexpectedly run out from between parked cars.",
@@ -2612,7 +2612,7 @@
       "question": "What should a driver do in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should always be aware of other road users especially children, who can be unpredictable and show no road sense. You should drive with extra care in areas where there are children about - for example, near schools, playgrounds and in residential areas.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation45.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation45.jpg",
       "questions": [
         "Drive on quickly in order not to delay following traffic.",
         "Reduce speed and be prepared to stop because other children could follow.",
@@ -2626,7 +2626,7 @@
       "question": "In this situation who should wait?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are overtaking a parked vehicle or obstruction, you should yield to oncoming vehicles so that they don't have to slow down or take evasive action.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation46.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation46.jpg",
       "questions": [
         "The driver behind the stopped van should wait.",
         "Whichever driver is furthest away from the van.",
@@ -2640,7 +2640,7 @@
       "question": "In this situation, who should wait?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: A vehicle driving on the main road has priority over vehicles emerging from side roads. However, you must understand that the right of way is not an obsolute right of way and you should be considerate of other road users at all times.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation47.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation47.jpg",
       "questions": [
         "You should wait.",
         "The driver in the red car should wait.",
@@ -2654,7 +2654,7 @@
       "question": "What should a driver do when following the cyclist who is approaching a parked car? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should always read the road ahead and be prepared to react to changing traffic situations. In this scenario, you should allow the cyclist ahead to overtake the parked car before you do.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation48.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation48.jpg",
       "questions": [
         "The cyclist must allow you to pass first.",
         "The cyclist will take proper observations before proceeding.",
@@ -2668,7 +2668,7 @@
       "question": "In this situation, should you overtake the cyclists? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should always read the road ahead and be prepared to react to changing traffic situations. In this scenario you should wait for a safe opportunity to overtake, and not do so when approaching a bend.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation49.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation49.jpg",
       "questions": [
         "No, the driver cannot see clearly ahead.",
         "Yes, provided the broken line does not become continuous.",
@@ -2682,7 +2682,7 @@
       "question": "What should a driver be prepared for in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When approaching cyclists to overtake them, you should be aware that they might change direction or stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation50.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation50.jpg",
       "questions": [
         "The cyclist ahead may move out to turn right at the junction.",
         "The cyclist will take up position further to the left.",
@@ -2696,7 +2696,7 @@
       "question": "What should a driver do in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When approaching a zebra crossing, you must yield to pedestrians already on or about to cross the road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation51.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation51.jpg",
       "questions": [
         "Allow the pedestrian to cross the road.",
         "Sound your horn and drive on.",
@@ -2710,7 +2710,7 @@
       "question": "What should a driver be aware of in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You should always read the road ahead and be prepared to react to changing traffic situations - in this case paying attention to the warning sign clearly indicating a right-hand bend ahead.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation52.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation52.jpg",
       "questions": [
         "A minor road to the left ahead.",
         "A dangerous right-hand bend.",
@@ -2724,7 +2724,7 @@
       "question": "What must a driver be prepared for in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: When you are approaching road works, you should be prepared to divert around or through them and drive at a slower speed. At road works, the road surface may be uneven or dirty.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation53.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation53.jpg",
       "questions": [
         "An area where there is cattle on the road.",
         "Turning left ahead because of road works.",
@@ -2738,7 +2738,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: A Taxi Rank sign indicates that this is an area reserved for taxis, and parking is not permitted here.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/taxirank.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/taxirank.jpg",
       "questions": [
         "Appointed rank for taxis.",
         "You may park when the rank is empty.",
@@ -2752,7 +2752,7 @@
       "question": "What should a driver who wants to turn right do in this situation? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: As you approach a junction where you want to turn right, you should read the road ahead and take up the correct position for turning in good time.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation54.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation54.jpg",
       "questions": [
         "Carefully turn to the left after sounding the horn.",
         "Proceed straight ahead and take a wide turn to the right.",
@@ -2766,7 +2766,7 @@
       "question": "Which vehicle is in the correct position to make a right turn from the major road into the minor road? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: The correct position from which to turn right from a major road to a minor road is just left of centre. You should take up the correct position in good time and avoid cutting the corner or 'swan necking' - that is going beyond the turning point as car 2 is in the picture.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carjunction2.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carjunction2.jpg",
       "questions": [
         "Car 1 is in the correct position to make the right turn.",
         "Car 2 is in the correct position to make the right turn.",
@@ -2780,7 +2780,7 @@
       "question": "Which vehicle is in the correct position to make a left turn from a minor road onto a major road?",
       "heading": "Uncategorized",
       "explanation": "Explantion: The correct position from which to turn left from a minor road to a major road is to keep close to the left-hand side of the roadway as you can safely. When turning left, do not swing wide or mount the kerb.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carjunction3.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carjunction3.jpg",
       "questions": [
         "Car 1 is in the correct position to make the left turn.",
         "Car 2 is in the correct position to make the left turn.",
@@ -2794,7 +2794,7 @@
       "question": "Which vehicle is in the correct position to make a right turn from a minor road onto a major road?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: The correct position from which to turn right from a minor road to a major road is just left of centre of the road. You should take up the correct position in good time and complete the turn by entering the left-hand side of the major road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carjunction3.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carjunction3.jpg",
       "questions": [
         "Car 1 is in the correct position to turn right",
         "Car 2 is in the correct position to turn right",
@@ -2886,7 +2886,7 @@
       "question": "What does these signs together mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign indicates the start of a cycle track. If the track is bounded by a broken white line, other road users should avoid using it wherever possible. If it is bounded by a continuous white line, drivers of cars and other vehicles must not drive on it.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/cycletrack.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/cycletrack.jpg",
       "questions": [
         "Bicycle race track.",
         "Track reserved for motorcyclists.",
@@ -3030,7 +3030,7 @@
       "question": "What must a driver do when this sign is NOT accompanied by a white stop line on the road?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: Where a STOP sign is not accompanied by a white stop line, you must stop at the sign.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/stop.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/stop.jpg",
       "questions": [
         "No more than one car length past the sign.",
         "Stop at the sign.",
@@ -3044,7 +3044,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign indicates the start of a track for cyclists and pedestrians only. If the track is bounded by a broken white line, other road users should avoid using it wherever possible. If it is bounded by a continuous white line, drivers of cars and other vehicles must not drive on it.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sharedtrack.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sharedtrack.jpg",
       "questions": [
         "Parking area for cyclists ahead.",
         "Area reserved for children learning to ride bicycles.",
@@ -3188,7 +3188,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign is used by a school warden. When the warden raises this sign, you must stop and wait until the schoolchildren have crossed the road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/stopcrossing.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/stopcrossing.jpg",
       "questions": [
         "Stop for school warden.",
         "No access area for children.",
@@ -3202,7 +3202,7 @@
       "question": "How does rain affect driving in this situation? ",
       "heading": "Observation/Field of View",
       "explanation": "Explantion: When it is wet, your tyres do not grip the road surface as well as when it is dry, your stopping distance is increased and you are more likely to skid. For these reasons you should slow down during or after rain and keep a greater distance from the vehicle in front.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/wetskiddy.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/wetskiddy.jpg",
       "questions": [
         "It increases the danger of skidding.",
         "It reduces your visibility.",
@@ -3333,7 +3333,7 @@
       "question": "What does these signs together mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you there is a pedestrian area ahead and that traffic is not allowed except during the times stated on the information plate.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/pedestrianisedstreet.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/pedestrianisedstreet.jpg",
       "questions": [
         "Access for buses and taxis only during times shown.",
         "Parking not allowed during times shown.",
@@ -3477,7 +3477,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must not enter this area if your vehicle is over the stated weight limit.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/3tonnemax.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/3tonnemax.jpg",
       "questions": [
         "Minimum permitted weight is 3 tonnes.",
         "Maximum permitted weight is 3 tonnes.",
@@ -3621,7 +3621,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must not enter this area if your vehicle is over the stated weight limit. This may be found at a weak bridge. There are no exemptions.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/max10tonnes.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/max10tonnes.jpg",
       "questions": [
         "Vehicles weight restriction is 10 tonnes.",
         "Vehicles weighing more than 10 tonnes per axle not permitted.",
@@ -3765,7 +3765,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This signs tells you that heavy goods vehicles with five or more axles are not permitted to enter this road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/5axel.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/5axel.jpg",
       "questions": [
         "No entry to goods vehicles with five axles or more.",
         "Racing track ahead.",
@@ -3909,7 +3909,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must not enter this area if your vehicle exceeds the indicated height.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/maxheight.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/maxheight.jpg",
       "questions": [
         "Maximum permitted height of vehicle is figure indicated.",
         "Maximum permitted length of vehicle is figure indicated.",
@@ -4043,7 +4043,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must not park in this area if your vehicle is over the weight limit indicated.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/maxparkingweight.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/maxparkingweight.jpg",
       "questions": [
         "Parking of vehicles exceeding the weight shown is not allowed.",
         "Passing other traffic that exceeds the weight shown is prohibited.",
@@ -4172,7 +4172,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that overtaking is prohibited in this area because it is dangerous to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noovertaking.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/noovertaking.jpg",
       "questions": [
         "Double parking not allowed.",
         "No stopping/parking on the right.",
@@ -4306,7 +4306,7 @@
       "question": "What does these signs together mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you there is a with-flow bus lane ahead - that is, one where the buses move in the same direction as the traffic to their right. The information plate tells the times when the bus lane in operation. Only buses, taxis and cyclists may use the bus lane during those hours.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/buslanetime.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/buslanetime.jpg",
       "questions": [
         "Only buses, cyclists and taxis are allowed to use the lane during the hours indicated.",
         "Outside the times indicated, only buses and, cyclist may use this lane.",
@@ -4450,7 +4450,7 @@
       "question": "What does this sign mean at a junction? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: At a junction, the YIELD sign tells you that you must give way to traffic on a major road ahead. This means that you must slow down and be prepared to stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/yield.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/yield.jpg",
       "questions": [
         "Yield to all heavy goods vehicles.",
         "Slow down and stop for pedestrians.",
@@ -4464,7 +4464,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you there is a with-flow bus lane ahead to your left. Only buses, taxis and cyclists may use the bus lane during the stated operational hours.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/buslane.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/buslane.jpg",
       "questions": [
         "With-flow' bus lane ahead on your left.",
         "Cyclist and buses must turn left.",
@@ -4608,7 +4608,7 @@
       "question": "What does this sign mean?",
       "heading": "Uncategorized",
       "explanation": "Explantion: This sign indicates a with flow bus lane ahead. Only buses, taxis and cyclists may use the bus lane during the stated operational hours.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/buslaneleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/buslaneleft.jpg",
       "questions": [
         "With 'flow' bus and cycle lane on the left",
         "Parking for buses and cyclists on the left.",
@@ -4752,7 +4752,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that there is a bus lane ahead to the right. Only buses, taxis and cyclists may use the bus lane during the stated operational hours.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/buslaneaheadright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/buslaneaheadright.jpg",
       "questions": [
         "Cyclist must give way to buses ahead.",
         "Bus and cycle lane ahead on the right.",
@@ -4896,7 +4896,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you there is a with-flow bus lane ahead to the right. Only buses, taxis and cyclists may use the bus lane during the stated operational hours.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/buslaneright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/buslaneright.jpg",
       "questions": [
         "With-flow bus lane on the right.",
         "Contra flow bus lane ahead.",
@@ -5040,7 +5040,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must drive on the left and not use the contra-flow bus lane ahead day or night. A contraflow bus lane is one where the buses are going in the opposite direction to the traffic on their right.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/contraflowbuslane.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/contraflowbuslane.jpg",
       "questions": [
         "'With-flow' bus lane on the right.",
         "Bus and cycle parking ahead.",
@@ -5184,7 +5184,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you there is a tram lane on the left. Be aware that there might be pedestrians in the area and crossing the road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tramlaneleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tramlaneleft.jpg",
       "questions": [
         "Access for buses only.",
         "Tram lane on left.",
@@ -5328,7 +5328,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you there is a tram lane ahead to the right. Be aware that there might be pedestrians in the area and crossing the road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tramlaneright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tramlaneright.jpg",
       "questions": [
         "Parking only inside the white line.",
         "'With-flow' bus lane ahead.",
@@ -5472,7 +5472,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a junction ahead with minor roads on either side. Be aware that vehicles may be emerging from the minor roads.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/junctionlesser.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/junctionlesser.jpg",
       "questions": [
         "Series of dangerous corners ahead.",
         "Junction ahead with roads of lesser importance.",
@@ -5606,7 +5606,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a junction ahead with a minor road ahead. The wider arm of the Y indicates the course of the main road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/mainbearleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/mainbearleft.jpg",
       "questions": [
         "You must stop at the junction ahead.",
         "Main road bears to the right.",
@@ -5750,7 +5750,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a staggered junction ahead with roads to the left and right. Be aware that vehicles may be emerging from these roads.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/staggeredequal.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/staggeredequal.jpg",
       "questions": [
         "Cul-de-sacs to both left and right.",
         "Staggered crossroads ahead with roads of equal importance.",
@@ -5889,7 +5889,7 @@
       "question": " What does this sign mean at a roundabout? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: At a roundabout, the YIELD sign tells you that you must slow down and be prepared to stop. You must yield (give way) to traffic already on the roundabout.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/yield.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/yield.jpg",
       "questions": [
         "Yield to traffic on the major road.",
         "Yield to traffic coming from the right.",
@@ -5903,7 +5903,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a T-junction ahead with a roads of equal importance. You must give way to traffic already on the road you are joining.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tjunction.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tjunction.jpg",
       "questions": [
         "T-junction ahead with roads of equal importance.",
         "No entry.",
@@ -6047,7 +6047,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a Y-junction ahead with a roads of equal importance. Approach such a junction with caution and be prepared to react to any changes in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/yequal.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/yequal.jpg",
       "questions": [
         "Railway crossing ahead.",
         "Y-Junction ahead with roads of equal importance.",
@@ -6178,7 +6178,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a crossroads junction with a major road ahead. Be prepared to stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/majorahead.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/majorahead.jpg",
       "questions": [
         "Major road ahead.",
         "T-junction ahead with road of greater importance.",
@@ -6322,7 +6322,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a T-junction with a major road ahead. Be prepared to stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tmajor.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tmajor.jpg",
       "questions": [
         "T-junction ahead with a road of major importance.",
         "Cul-de sac to the right.",
@@ -6466,7 +6466,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a crossroads junction with a dual carriageway ahead. Be prepared to stop and give way to other traffic.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/dualcarriagewayahead.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/dualcarriagewayahead.jpg",
       "questions": [
         "Two-way traffic ahead.",
         "Level crossing ahead guarded by gates.",
@@ -6610,7 +6610,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a T-junction with a dual carriageway ahead. Be prepared to stop and give way to other traffic.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tdualcarriageway.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tdualcarriageway.jpg",
       "questions": [
         "T-junction with dual-carriage way ahead.",
         "Low bridge ahead.",
@@ -6754,7 +6754,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of traffic merging from the left ahead. You should expect vehicles to join from the left ahead and you may need to slow down to allow them to merge.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/trafficmergeleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/trafficmergeleft.jpg",
       "questions": [
         "Junction ahead with road of minor importance.",
         "Traffic from the left has priority.",
@@ -6810,7 +6810,7 @@
       "question": "What does this light mean? ",
       "heading": "Technical Matters with a Bearing on Road Safety",
       "explanation": "Explantion: If the battery warning light comes on, it means there is some kind of problem with the electrical charging system of the vehicle and the battery isn't being charged properly.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/batterynotcharging.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/batterynotcharging.jpg",
       "questions": [
         "The battery is not charging.",
         "The gearbox is overheat.",
@@ -6824,7 +6824,7 @@
       "question": "What does this light mean? ",
       "heading": "Technical Matters with a Bearing on Road Safety",
       "explanation": "Explantion: All vehicles are fitted with warning lights to alert you to different things. This light comes on when your full beam headlights are turned on.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/highbeam.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/highbeam.jpg",
       "questions": [
         "The headlights should be dipped.",
         "The reversing light switched on.",
@@ -6838,7 +6838,7 @@
       "question": "What does this light mean?",
       "heading": "Technical Matters with a Bearing on Road Safety",
       "explanation": "Explantion: If the oil pressure warning light comes on. it means that the oil pressure has dropped. You should not drive the vehicle until the problem is fixed.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/lowoillevel.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/lowoillevel.jpg",
       "questions": [
         "Low oil level.",
         "Excessive level of battery fluid.",
@@ -6852,7 +6852,7 @@
       "question": "What does this light mean?",
       "heading": "Technical Matters with a Bearing on Road Safety",
       "explanation": "Explantion: All vehicles are fitted with warning lights to alert you to different things. This light tells you that the directional indicator is on.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/directionalindicator.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/directionalindicator.jpg",
       "questions": [
         "Brake-light bulb blown.",
         "Directional indicator on.",
@@ -6892,7 +6892,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of roads merging and diverging at the left ahead. You should be prepared for traffic changing direction ahead as vehicles may be entering or exiting at the junctions on the left.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/mergingdiverging.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/mergingdiverging.jpg",
       "questions": [
         "Road narrows briefly.",
         "Clearway at junction ahead.",
@@ -7036,7 +7036,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a roundabout ahead. You must prepare to yield to vehicles already on the roundabout coming from the right.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/roundaboutahead.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/roundaboutahead.jpg",
       "questions": [
         "Roundabout ahead.",
         "'U'-turn permitted ahead.",
@@ -7050,7 +7050,7 @@
       "question": "What does a rev counter provide information on? ",
       "heading": "Technical Matters with a Bearing on Road Safety",
       "explanation": "Explantion: The rev counter measures the speed of the engine. in 'revolutions per minute' Generally, the higher the revs, the more fuel the engine is using, so you should keep an eye on the rev counter to help you drive in a more eco-friendly manner.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/revcounter.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/revcounter.jpg",
       "questions": [
         "Engine revolutions.",
         "Temperature.",
@@ -7064,7 +7064,7 @@
       "question": "What does this dial provide information on? ",
       "heading": "Technical Matters with a Bearing on Road Safety",
       "explanation": "Explantion: The rev counter measures the speed of the engine. in 'revolutions per minute' Generally, the higher the revs, the more fuel the engine is using, so you should keep an eye on the rev counter to help you drive in a more eco-friendly manner.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/revcounter.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/revcounter.jpg",
       "questions": [
         "Engine revolution.",
         "Gearbox revolutions.",
@@ -7169,7 +7169,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a mini-roundabout ahead. You must prepare to yield to vehicles already on the roundabout coming from the right.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/miniroundaboutahead.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/miniroundaboutahead.jpg",
       "questions": [
         "'U'-turn permitted ahead.",
         "Roadworks ahead, diversion in operation.",
@@ -7313,7 +7313,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must proceed straight ahead. This sign is usually displayed on the entry to a one-way street.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/straightahead.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/straightahead.jpg",
       "questions": [
         "Straight ahead only.",
         "Overtaking lane ahead.",
@@ -7327,7 +7327,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a dangerous corner to the left. You should slow down and be prepared to react to any changes in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/dangerouscorner.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/dangerouscorner.jpg",
       "questions": [
         "Dangerous bend ahead.",
         "Junction to the left ahead.",
@@ -7471,7 +7471,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a dangerous bend ahead. You should slow down and be prepared to react to any changes in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/dangerousbend.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/dangerousbend.jpg",
       "questions": [
         "No left turn.",
         "Dangerous corner ahead.",
@@ -7605,7 +7605,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a series of dangerous corners ahead. You should slow down and be prepared to react to any changes in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/seriesdangerouscorners.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/seriesdangerouscorners.jpg",
       "questions": [
         "Series of dangerous corners ahead.",
         "Overhead electric cables.",
@@ -7749,7 +7749,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a series of dangerous bends ahead. You should slow down and be prepared to react to any changes in the traffic situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/seriesdangerousbends.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/seriesdangerousbends.jpg",
       "questions": [
         "Diversion ahead.",
         "Slippery road ahead.",
@@ -7893,7 +7893,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a sharp change of direction to your right. You should slow down as you approach the hazard.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sharpchangeright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sharpchangeright.jpg",
       "questions": [
         "Road closed - you must turn back.",
         "Traffic from the left has priority.",
@@ -8032,7 +8032,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that the road narrows on the left ahead. You should show caution and prepare to move to the right.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/roadnarrowleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/roadnarrowleft.jpg",
       "questions": [
         "Left-hand lane has an uneven surface.",
         "You must overtake on the right only.",
@@ -8176,7 +8176,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that the road is narrowing ahead. You should show caution and prepare to slow down.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/roadnarrow.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/roadnarrow.jpg",
       "questions": [
         "Road narrows on both sides.",
         "Dual-carriageway ahead.",
@@ -8320,7 +8320,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that the road divides ahead. You should prepare to move to the left.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/roaddivides.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/roaddivides.jpg",
       "questions": [
         "Lay-by ahead.",
         "Road divides ahead.",
@@ -8399,7 +8399,7 @@
       "question": "In this situation, what should the driver in the right-hand lane of the dual carriageway be aware of? ",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: In wet and windy conditions, watch out for vulnerable road users being blown into your path.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/focuscrosswinds.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/focuscrosswinds.jpg",
       "questions": [
         "Crosswinds may blow the rider into their path.",
         "Reduced visibility.",
@@ -8465,7 +8465,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of the end of a dual carriageway. You will soon be entering a 2-way road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carriagewayends.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carriagewayends.jpg",
       "questions": [
         "Tunnel ahead.",
         "Dual-carriageway ends.",
@@ -8609,7 +8609,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a two-way traffic ahead, with oncoming traffic in the opposite lane.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/twowaytraffic.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/twowaytraffic.jpg",
       "questions": [
         "Dual-carriageway ahead.",
         "Traffic may not stop.",
@@ -8753,7 +8753,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must turn left, its usually displayed at a junction where all traffic must turn left - for example, in a one way system that incorporates a junction.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/turnleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/turnleft.jpg",
       "questions": [
         "Motorway to the left.",
         "Diversion ahead to the left.",
@@ -8767,7 +8767,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a steep downward slope ahead. You should react accordingly by adjusting speed and selecting the appropiate gear.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sharpdescent.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sharpdescent.jpg",
       "questions": [
         "Uneven road surface to the right.",
         "Sharp descent ahead.",
@@ -8911,7 +8911,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a steep upward slope ahead. You should react accordingly by adjusting speed and selecting the appropiate gear.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sharpascent.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sharpascent.jpg",
       "questions": [
         "Sharp ascent ahead.",
         "Uneven road surface to the left.",
@@ -9055,7 +9055,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that you are approaching an area of restricted headroom, such as a low bridge.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/clearing.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/clearing.jpg",
       "questions": [
         "Restricted weight limit for road segment indicated.",
         "Restricted road width ahead.",
@@ -9199,7 +9199,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of electric cables overhead. Drivers with a high load should be particularly careful.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/overheadcables.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/overheadcables.jpg",
       "questions": [
         "Radio transmission mast ahead.",
         "Sharp corners ahead.",
@@ -9343,7 +9343,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of an unguarded level crossing ahead. This is a crossing without gates or barriers and you should cross it with extreme caution.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/unguardedlevelcrossing.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/unguardedlevelcrossing.jpg",
       "questions": [
         "Level crossing ahead unguarded by gates or barriers.",
         "Major roadworks ahead.",
@@ -9461,7 +9461,7 @@
       "question": "What does this warning light indicate? ",
       "heading": "Uncategorized",
       "explanation": "Explantion: If the brake warning light is on. there is a problem with the braking system in the vehicle or the handbrake is on. You should not drive the vehicle until the problem has been rectified.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/faultbrakingsystem.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/faultbrakingsystem.jpg",
       "questions": [
         "Low level of water coolant.",
         "Low oil pressure.",
@@ -9488,7 +9488,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a railway crossing ahead that is protected by gates or lifting barriers. You should be prepared to stop and follow the required procedure.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/guardedlevelcrossing.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/guardedlevelcrossing.jpg",
       "questions": [
         "Road fencing ahead.",
         "Farm machinery crossing ahead.",
@@ -9627,7 +9627,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a railway level crossing ahead with lights and barriers. You should be prepared to stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/railway.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/railway.jpg",
       "questions": [
         "Do not stop on railway crossing.",
         "Railway bridge ahead.",
@@ -9771,7 +9771,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that you must stop when red lights show. This sign may be displayed at railway level crossing.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/stopredlights.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/stopredlights.jpg",
       "questions": [
         "Emerging vehicles have priority. You must stop if necessary.",
         "The driver must stop when red lights show.",
@@ -9915,7 +9915,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of an automatic level crossing ahead. Prepare to stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/automaticlevelcrossing.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/automaticlevelcrossing.jpg",
       "questions": [
         "Automatic level crossing ahead.",
         "Bridge may be raised ahead.",
@@ -10059,7 +10059,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a hump in the road. You should adjust your speed accordingly.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sharprise.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sharprise.jpg",
       "questions": [
         "Series of bumps or hollows ahead.",
         "Road falls from center to left and right.",
@@ -10203,7 +10203,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must turn right, its usually displayed at a junction where all traffic must turn right - for example, in a one way system that incorporates a junction.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/turnright.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/turnright.jpg",
       "questions": [
         "Overtake only on the right",
         "Diversion ahead to the right.",
@@ -10217,7 +10217,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a dip or depression in the road ahead. You should reduce your speed accordingly.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sharpdepression.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sharpdepression.jpg",
       "questions": [
         "Road divides ahead - pass left or right.",
         "Road damage ahead.",
@@ -10361,7 +10361,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a series of bumps or hollows ahead. You should reduce your speed accordingly.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/seriesofbumps.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/seriesofbumps.jpg",
       "questions": [
         "Series of bumps or hollows ahead.",
         "Rumble strips ahead.",
@@ -10427,7 +10427,7 @@
       "question": "What does a white line in the centre of the road mean?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You must not not cross or straddle a continuous white line in the center of the road unless you wish to enter land or premises and it is safe to do so.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/solidwhite.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/solidwhite.jpg",
       "questions": [
         "Vehicles may cross the line for a short time.",
         "Vehicles may park during daylight hours only.",
@@ -10441,7 +10441,7 @@
       "question": "What does a continuous white line along the centre of the road mean?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: You must never do a U-turn on any stretch of road with a continuous white line along its centre. The restricted vision at such places would make doing a U-turn very unsafe.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/solidwhite.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/solidwhite.jpg",
       "questions": [
         "No U-turn allowed.",
         "Motorcyclists can overtake.",
@@ -10455,7 +10455,7 @@
       "question": "What should a driver do at an amber traffic light?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: By law you must stop at an amber traffic light if it is safe to do.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carjunction1.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carjunction1.jpg",
       "questions": [
         "Continue only if sure that the junction is clear of pedestrians.",
         "Make sure to pass the lights before they turn red.",
@@ -10469,7 +10469,7 @@
       "question": "When driving on a road with tram lines why should a driver take extra care?",
       "heading": "Alert Driving and Consideration",
       "explanation": "Explantion: Different surfaces can affect your vehicle's grid on the road and its stopping distances. You should be aware of this when driving on different surfaces.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation37.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/carsituation37.jpg",
       "questions": [
         "Driving on tracks can improve braking.",
         "Driving on tracks can improve steering",
@@ -10496,7 +10496,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that there might be a danger of skidding because of an uncertain road surface ahead.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/slippery.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/slippery.jpg",
       "questions": [
         "Steep hill ahead.",
         "Crosswinds ahead.",
@@ -10562,7 +10562,7 @@
       "question": "What does this road marking mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: A single continuous white line along the centre of the road means all traffic must keep to the left of the line. You are not permitted to overtake or perform a U-turn on this section of road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/solidwhite.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/solidwhite.jpg",
       "questions": [
         "Drivers must keep left of the continuous white line.",
         "Drivers may cross the line to overtake.",
@@ -10623,7 +10623,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a junction with roads of equal importance ahead. At this type of junction you should yield to traffic approaching from the right and traffic already turning.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/crossroads.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/crossroads.jpg",
       "questions": [
         "Railway crossing ahead.",
         "Crossroads ahead with roads of equal importance.",
@@ -10637,7 +10637,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of an open water area ahead. You should show caution in this situation.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/unprotectedwater.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/unprotectedwater.jpg",
       "questions": [
         "Road liable to flooding.",
         "Steep descent ahead.",
@@ -10651,7 +10651,7 @@
       "question": "What does this sign mean when displayed on approach to a motorway?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign is used at motorway toll plazas to direct traffic into a lane where the toll charge may be paid by putting the exact change into a coin basket. This lane usually has a height barrier fitted to prevent large vehicle using it. This lane is generally a quicker way through the toll plaza than the cashier lane. No change is given at such lanes.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/coin-basket.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/coin-basket.jpg",
       "questions": [
         "Coin basket on this lane",
         "Ticket dispenser in this lane.",
@@ -10665,7 +10665,7 @@
       "question": "What does this sign mean when displayed on the approach to a motorway?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign is used at motorway toll plazas to direct traffic into a lane where the toll charge is collected electronically. When the vehicle passes through the plaza it is identified by means of an electronic tag fitted to the front windscreen. Payment will be collected via the user's account. Only vehicles fitted with the tags are allowed to use those lanes.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/etoll.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/etoll.jpg",
       "questions": [
         "Payment in euros only in this lane.",
         "Electronic toll out of order in this lane.",
@@ -10679,7 +10679,7 @@
       "question": "What kind of vehicles are not prohibited by this sign?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: Motor homes are not on the list of vehicles which are prohibited by law from entering a motorway.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/motorwayahead.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/motorwayahead.jpg",
       "questions": [
         "Motor Homes.",
         "Slow Vehicles.",
@@ -10784,7 +10784,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a traffic light controlled junction ahead where drivers might not see the lights in good time - for example, following a bend in the road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/trafficsignal.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/trafficsignal.jpg",
       "questions": [
         "Advance warning for school children crossing ahead.",
         "Railway level crossing ahead.",
@@ -10910,7 +10910,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a school ahead. You should adjust your speed accordingly as there may be children in the area.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/schoolahead.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/schoolahead.jpg",
       "questions": [
         "School ahead.",
         "Pedestrian crossing ahead - prepare to stop.",
@@ -11049,7 +11049,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that there may be school children crossing the road ahead, and you should be prepared to stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/schoolcrossingahead.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/schoolcrossingahead.jpg",
       "questions": [
         "Picnic area ahead.",
         "School children crossing ahead.",
@@ -11188,7 +11188,7 @@
       "question": "What do these signs together mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: These signs are usually displayed in residential areas, and they give advance waning that children might be crossing ahead. You should drive with extra caution.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/bewarechildren.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/bewarechildren.jpg",
       "questions": [
         "Slippery road, children may fall.",
         "Beware of children crossing.",
@@ -11312,7 +11312,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that there may be horses on the road ahead. You should show due regard for horses and their riders.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/horses.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/horses.jpg",
       "questions": [
         "Entrance to horse riding school.",
         "Racecourse ahead.",
@@ -11441,7 +11441,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that there may be cattle or other farm animals on the road ahead.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/cattle.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/cattle.jpg",
       "questions": [
         "Livestock mart ahead.",
         "Veterinary station ahead.",
@@ -11515,7 +11515,7 @@
       "question": "What does this sign mean? ",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign tells you that you must turn left. It is usually displayed on the approach to a one-way system.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/turnleftahead.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/turnleftahead.jpg",
       "questions": [
         "Diversion to the left ahead.",
         "Turn left ahead.",
@@ -11529,7 +11529,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that there may be sheep on the road ahead.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sheep.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/sheep.jpg",
       "questions": [
         "No animals permitted ahead.",
         "Sheep market ahead.",
@@ -11543,7 +11543,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that there may be deer or other wild animals coming onto the roadway.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/deer.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/deer.jpg",
       "questions": [
         "No hunting ahead.",
         "Possibility of deer or wild animals up ahead.",
@@ -11557,7 +11557,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that there may be crosswinds ahead. Crosswinds can affect the stability of your vehicle on the road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/crosswinds.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/crosswinds.jpg",
       "questions": [
         "Nature reserve. Do not litter.",
         "Airport ahead.",
@@ -11571,7 +11571,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a pedestrian crossing ahead. You should show caution and be prepared to stop.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/pedestriancrossing.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/pedestriancrossing.jpg",
       "questions": [
         "Lane reserved for pedestrians.",
         "Jogging lane ahead.",
@@ -11585,7 +11585,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning of a tunnel ahead. You should be aware of the procedures to follow when entering a tunned - such as turning on headlights.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tunnel.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tunnel.jpg",
       "questions": [
         "Turning bay for heavy goods vehicles ahead.",
         "Tunnel ahead.",
@@ -11599,7 +11599,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that there is a danger of rocks and other debris falling onto the road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/fallingrocks.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/fallingrocks.jpg",
       "questions": [
         "Road uneven, beware of unsecured loads on high-sided vehicles.",
         "Danger of falling rocks ahead.",
@@ -11613,7 +11613,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning that there may be low-flying aircraft in the area.Low-flying aircraft can make a loud noise",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/lowflyingaircraft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/lowflyingaircraft.jpg",
       "questions": [
         "Direction of prevailing wind.",
         "Traffic merging/diverging ahead.",
@@ -11627,7 +11627,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: The sign is generally in areas where tourists might be travelling and reminds motorists to drive on the left.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/driveonleft.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/driveonleft.jpg",
       "questions": [
         "A driver must maintain sufficient distance from the vehicle ahead of you.",
         "A driver must drive on the left-hand side.",
@@ -11641,7 +11641,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives advance warning sign of tram crossing ahead.You should be prepared to stop and yield to the tram,if required.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tramway.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tramway.jpg",
       "questions": [
         "Tramway crossing ahead.",
         "Overhead electric cables.",
@@ -11655,7 +11655,7 @@
       "question": "What does this sign mean?",
       "heading": "Traffic Signs and Regulatory Matters",
       "explanation": "Explantion: This sign gives pedestrians advance warning of a tram crossing where they shouldlook both ways before crossing the road.",
-      "image": "http://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tramwaycrossing.jpg",
+      "image": "https://d1fohtyzq6kn2t.cloudfront.net/img/quiz-img/tramwaycrossing.jpg",
       "questions": [
         "Railway station ahead.",
         "Tramway crossing ahead.",
