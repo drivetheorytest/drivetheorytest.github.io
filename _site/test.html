@@ -40,6 +40,38 @@
       crossorigin="anonymous"
     />
   </noscript>
+
+  <style>
+quiz-label {
+     
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #0b0c0c;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.quiz-radios__label {
+    align-self: center;
+    max-width: calc(100% - 74px);
+    margin-bottom: 0;
+    padding: 7px 15px;
+    cursor: pointer;
+    touch-action: manipulation;
+}
+
+.quiz-radios__input {
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 24px;
+    height: 24px;
+    cursor: pointer
+}
+  </style>
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -179,7 +211,7 @@
 
 <script>
   let currentQuestionIndex = 0;
-const totalQuestionsToShow = 5; // Total number of questions to show
+const totalQuestionsToShow = 50; // Total number of questions to show
 let displayedQuestions = []; // Array to keep track of displayed questions
 let correctAnswersCount = 0; // Counter for correct answers
 
@@ -233,8 +265,8 @@ function displayQuestions(questions) {
                 </div>
                 <form id="answerForm">
                     ${question.questions.map((q, index) => `
-                        <input type="radio" id="option${index}" name="answer" value="${index}">
-                        <label for="option${index}">${q}</label><br>
+                        <input type="radio" id="option${index}" name="answer" value="${index}" class="quiz-radios__input">
+                        <label for="option${index}" class="quiz-label quiz-radios__label">${q}</label><br>
                     `).join('')}
                 </form>
                 <button id="nextButton" class="btn btn-primary mt-3" style="display:none;">Next</button>

@@ -43,7 +43,7 @@ var documents = [{
     "id": 8,
     "url": "http://localhost:4000/test",
     "title": "Road and Traffic Signs Mock Test",
-    "body": "&lt;!DOCTYPE html&gt;        {% seo %}                          Navigation  Home  Rules For Pedestrians  Highway Codes  UK Passing Rates  Traffic Signs (PDF) {% include search-lunr. html %}                 Road and traffic Sign Test Practise your driving theory test for free with these revision questions, answers and explanations {% include cta. html %}{% include testimonials. html %}{% include accordion. html %}           Copyright © {{ site. time | date:  %Y  }}DTT         Road Sign Test |  Highway Codes |    UK Passing Rates | Traffic Signs (PDF)          Follow                                                  &lt;/footer&gt;{% if site. lazyimages ==  enabled  %}{% endif %}{% include cookie-consent. html %}&lt;/body&gt;&lt;/html&gt;"
+    "body": "&lt;!DOCTYPE html&gt;        {% seo %}                           Navigation  Home  Rules For Pedestrians  Highway Codes  UK Passing Rates  Traffic Signs (PDF) {% include search-lunr. html %}                 Road and traffic Sign Test Practise your driving theory test for free with these revision questions, answers and explanations {% include cta. html %}{% include testimonials. html %}{% include accordion. html %}           Copyright © {{ site. time | date:  %Y  }}DTT         Road Sign Test |  Highway Codes |    UK Passing Rates | Traffic Signs (PDF)          Follow                                                  &lt;/footer&gt;{% if site. lazyimages ==  enabled  %}{% endif %}{% include cookie-consent. html %}&lt;/body&gt;&lt;/html&gt;"
     }, {
     "id": 9,
     "url": "http://localhost:4000/page2/",
