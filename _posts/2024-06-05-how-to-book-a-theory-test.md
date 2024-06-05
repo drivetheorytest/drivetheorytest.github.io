@@ -36,7 +36,7 @@ The cost of the theory test varies depending on the vehicle type:
   - Part 1b (hazard perception): £11
   - Part 2 (case studies): £23
 
-Read more about the [theory test cost](/how-much-is-the-driving-theory-test/)
+> Read more about the [theory test cost](/how-much-is-the-driving-theory-test/)
 
 ### Step 4: Book Online
 
