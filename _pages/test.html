@@ -191,7 +191,7 @@ accordion:
 
 <script>
   let currentQuestionIndex = 0;
-const totalQuestionsToShow = 50; // Total number of questions to show
+const totalQuestionsToShow = 5; // Total number of questions to show
 let displayedQuestions = []; // Array to keep track of displayed questions
 let correctAnswersCount = 0; // Counter for correct answers
 
@@ -228,6 +228,9 @@ function displayQuestions(questions) {
     const questionDiv = document.createElement('div');
     questionDiv.classList.add('row', 'mt-3', 'border', 'p-3');
     questionDiv.innerHTML = `
+        <div class="col-md-12">
+            <h4>Question ${currentQuestionIndex + 1} of ${totalQuestionsToShow}</h4>
+        </div>
         <div class="col-md-6">
             <div class="image-container">
                 <img src="${question.image || '/assets/images/no-image-available.gif'}" alt="${question.question}" class="img-fluid">
@@ -319,7 +322,7 @@ function displayResult() {
         <div class="col-md-6">
             <h2>Congratulations!</h2>
             <p>You have completed all the questions.</p>
-            <p>Your score is <span class="badge badge-success">${correctAnswersCount}</span> out of <span class="badge badge-primary">${totalQuestionsToShow}</span>.</p>
+            <p>Your score is <span class="badge badge-success">${correctAnswersCount} </span>out of <span class="badge badge-primary">${totalQuestionsToShow}</span></p>
             <a href="/test" class="btn btn-primary">Restart Quiz</a>
         </div>
     `;
