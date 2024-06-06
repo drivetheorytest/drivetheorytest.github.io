@@ -8,8 +8,8 @@ cta-text: "Every day, we encounter and react to road signs. They play a crucial 
 cta-link: "/test"
 affiliate-link: "https://testbuddy.app/theory-test-practice-offer/?ref=46"
 drive-course-aff: "https://testbuddy.app/courses/driving-test-course/?ref=46"
-logo: "assets/images/logo.svg"
-favicon: "assets/images/logo.svg"
+logo: "assets/frontend/logo.svg"
+favicon: "assets/frontend/logo.svg"
 baseurl: ""
 url:
 google_analytics: ""
