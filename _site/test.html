@@ -287,6 +287,11 @@ function displayQuestions(questions) {
             displayAlert('alert-danger', '❌ Incorrect answer');
         }
         displayExplanation(); // Always display explanation
+
+        // Disable all radio buttons
+        const radioButtons = answerForm.querySelectorAll('input[type="radio"]');
+        radioButtons.forEach(button => button.disabled = true);
+
         nextButton.style.display = 'block'; // Always show the "Next" button
     });
 
@@ -361,8 +366,8 @@ async function main() {
 }
 
 main();
-
 </script>
+
 
 
 <!-- _includes/cta.html -->
