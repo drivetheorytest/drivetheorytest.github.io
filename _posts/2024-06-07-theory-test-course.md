@@ -15,7 +15,7 @@ beforetoc: Course includes the latest official content from the Driver and Vehic
 
 # Theory Test Course : Everything You Need to Pass Your Theory Test
 
-Passing the theory test is a crucial step for any learner driver. The **Theory Test Course ** is designed to equip you with all the necessary tools and knowledge to pass your theory test on the first attempt. This comprehensive guide includes official DVSA content and offers a structured approach to mastering both the multiple-choice questions and hazard perception test.
+Passing the theory test is a crucial step for any learner driver. The **Theory Test Course** is designed to equip you with all the necessary tools and knowledge to pass your theory test on the first attempt. This comprehensive guide includes official DVSA content and offers a structured approach to mastering both the multiple-choice questions and hazard perception test.
 
 ## Why Choose the Theory Test Course ?
 
