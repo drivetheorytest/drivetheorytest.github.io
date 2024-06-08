@@ -44,7 +44,7 @@ Getting started with the Theory Test Course  is easy. Simply [enroll now](https:
 
 ### Additional Resources
 
-- **[Driving Test Tips](https://testbuddy.app/driving-test-tips/)**: Helpful advice to prepare you for the practical driving test.
+- **[Driving Test Tips](/learn-to-drive-a-car-in-the-uk-step-by-step-guide/)**: Helpful advice to prepare you for the practical driving test.
 - **[Mock Tests](/test)**: Practice with realistic mock tests to build your confidence.
 - **[Find Approved Driving Instructors](/how-to-find-approved-driving-instructors/)**: How to find approved driving instructor?  
 
