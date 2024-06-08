@@ -40,7 +40,11 @@ Learn from experienced driving instructors and theory test coaches like **[Annie
 
 ## How to Get Started
 
-Getting started with the Theory Test Course  is easy. Simply [enroll now](https://testbuddy.app/courses/theory-test-lessons//?ref=46) and start your journey towards passing your theory test with flying colors.
+Getting started with the Theory Test Course  is easy. Simply enroll now  and start your journey towards passing your theory test with flying colors.
+
+{% include course-enroll.html %}
+
+
 
 ### Additional Resources
 
