@@ -1,34 +1,33 @@
 <div class="container my-5">
-    <div class="row">
+    <div class="row align-items-center">
         <div class="col-lg-5">
-          <h1 class="headline">{{ site.subheading }}</h1>
-          <span>{{ site.description }}</span>
+            <div class="text-lg-left text-center">
+                <h1 class="headline">{{ site.subheading }}</h1>
+                <span>{{ site.description }}</span>
+            </div>
         </div>
         <div class="col-lg-7">
-            <div class="d-flex flex-column justify-content-center h-100">
-          
-
-                <img class="w-100" src="{{ site.baseurl }}/assets/frontend/hero2.png" alt="{{ site.subheading }}"/>
+            <div class="text-lg-right text-center">
+                <img class="hero-img" src="{{ site.baseurl }}/assets/frontend/hero.png" alt="{{ site.subheading }}"/>
             </div>
         </div>
     </div>
 </div>
 
 <div class="container my-5">
-<div class="row">
-    <div class="col-lg-5">
-      <h2>{{ site.cta-head }}</h2>
-      <span>{{ site.cta-text}}</span>
-
-    </div>
-    <div class="col-lg-7">
-        <div class="d-flex flex-column justify-content-center h-100">
-  
-          <a href="{{ site.cta-link}}" class="btn btn-primary btn-lg px-4 py-3  rounded-pill mt-3 mt-sm-0" style="font-size: 1.2rem;"> Get started
-            <span class="button-span"> ─ it's free</span></a> 
-
-           
+    <div class="row align-items-center">
+        <div class="col-lg-5">
+            <div class="text-lg-left text-center">
+                <h2>{{ site.cta-head }}</h2>
+                <span>{{ site.cta-text }}</span>
+            </div>
+        </div>
+        <div class="col-lg-7">
+            <div class="text-lg-right text-center">
+                <a href="{{ site.cta-link }}" class="btn btn-primary btn-lg px-4 py-3 rounded-pill mt-3 mt-sm-0" style="font-size: 1.2rem;">
+                    Get started<span class="button-span"> ─ it's free</span>
+                </a>
+            </div>
         </div>
     </div>
-</div>
 </div>
