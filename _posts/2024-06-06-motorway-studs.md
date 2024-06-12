@@ -55,7 +55,7 @@ For those preparing for their driving theory test, knowing the colors and meanin
 - **Amber** (Central): Next to the central reservation.
 - **White**: Separates lanes.
 
-By associating these colors with traffic light signals and their positions on the road, learners can easily recall their purposes during the test and in real driving situations【6:1†source】.
+By associating these colors with traffic light signals and their positions on the road, learners can easily recall their purposes during the test and in real driving situations.
 
 ## Conclusion
 
