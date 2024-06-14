@@ -13,7 +13,7 @@ beforetoc: Changing your theory test date is straightforward when you know the s
 ---
 ### Change Your Theory Test Date: A Step-by-Step Guide
 
-Changing the date of your [theory test in the UK](/dvsa-theory-test/) can be hassle-free if you know the right steps to follow. Whether you need to reschedule due to unforeseen circumstances or want to find a more convenient date, this blog post will provide a step-by-step guide on how to change your theory test date. By following these instructions, you can navigate the process smoothly and ensure you’re well-prepared for your test.
+Changing the date of your [theory test in the UK](/uk-driving-theory-test/) can be hassle-free if you know the right steps to follow. Whether you need to reschedule due to unforeseen circumstances or want to find a more convenient date, this blog post will provide a step-by-step guide on how to change your theory test date. By following these instructions, you can navigate the process smoothly and ensure you’re well-prepared for your test.
 
 #### Why You Might Need to Change Your Theory Test Date
 
