@@ -8,7 +8,8 @@ categories:
 image: "/assets/images/theory-test-date.png"
 rating: 5
 toc: true
-beforetoc: Motorway studs, also known as cat's eyes, play a critical role in road safety, especially at night and in poor visibility conditions.
+beforetoc: Changing your theory test date is straightforward when you know the steps involved. Follow this guide to ensure a smooth rescheduling process and give yourself the best chance of passing your theory test.
+
 ---
 ### Change Your Theory Test Date: A Step-by-Step Guide
 
