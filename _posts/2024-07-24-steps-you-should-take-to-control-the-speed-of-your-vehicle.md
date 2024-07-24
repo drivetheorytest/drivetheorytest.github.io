@@ -8,7 +8,7 @@ categories:
 rating: "5"
 toc: true
 author: Killcreek
-beforetoc: afe driving practices not only help you avoid accidents but also
+beforetoc: Safe driving practices not only help you avoid accidents but also
   contribute to a more enjoyable and efficient driving experience.
 ---
  
