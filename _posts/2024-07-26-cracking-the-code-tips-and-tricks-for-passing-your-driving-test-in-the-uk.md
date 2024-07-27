@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cracking the Code: Tips and Tricks for Passing Your Driving Test in the UK"
-image: /assets/images/driving-in-the-uk-preview.png
+image: /assets/images/cracking-the-code-tips-and-tricks-for-passing-your-driving_test-in-the-uk-.jpeg
 categories:
   - Driving
 rating: "5"
