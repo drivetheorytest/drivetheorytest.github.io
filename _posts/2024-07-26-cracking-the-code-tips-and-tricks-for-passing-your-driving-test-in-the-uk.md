@@ -17,7 +17,7 @@ but it's not without its challenges. With over 48 million licensed drivers
 on UK roads, it's essential to be well-prepared to ensure a smooth and
 safe experience.
 
-### **Common Mistakes to Avoid:**
+### **Common Mistakes to Avoid**
 
 1. **Speeding:** The most common cause of failing the driving test is
 speeding. Make sure you're within the speed limits and adjust your speed
@@ -27,7 +27,7 @@ including traffic lights, pedestrian crossings, and roundabouts.
 3. **Lack of Observation:** Keep a safe distance from other vehicles and
 pedestrians, and always check your mirrors and blind spots.
 
-### **Expert Tips for Passing First Time:**
+### **Expert Tips for Passing First Time**
 
 1. **Practice, Practice, Practice:** The more you practice, the more
 confident you'll feel behind the wheel.
@@ -36,7 +36,7 @@ on the driving test. Practice turning at different speeds and angles.
 3. **Use Your Mirrors:** Check your mirrors regularly to stay aware of
 your surroundings.
 
-### **Tips for Nervous Test-Takers:**
+### **Tips for Nervous Test-Takers**
 
 1. **Breathe and Relax:** Take deep breaths, and try to relax. Remember
 that it's normal to feel nervous, but don't let it cloud your judgment.
@@ -45,7 +45,7 @@ your driving and follow the test route as instructed.
 3. **Stay Calm Under Pressure:** Keep a level head if you make a mistake
 or encounter unexpected situations during the test.
 
-### **Frequently Asked Questions:**
+### **Frequently Asked Questions**
 
 1. **What's the Pass Rate for Driving Tests in the UK?**
 The overall [pass rate for driving tests in the UK is around 47%](/driving-test-centres).
@@ -54,9 +54,9 @@ You'll need to hold a valid provisional license for at least 6 months
 before taking your test.
 3. **What are the Most Common Reasons for Failing the Driving Test?**
 The top reasons for failing the driving test include poor observation,
-speeding, and not following road signs.
+speeding, and not following [road signs](/highway-codes-page/).
 
-### **Conclusion:**
+### **Conclusion**
 
 Passing your driving test in the UK requires a combination of knowledge,
 practice, and nerves of steel. By avoiding common mistakes and mastering
