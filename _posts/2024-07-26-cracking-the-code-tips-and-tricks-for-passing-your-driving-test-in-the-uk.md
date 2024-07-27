@@ -48,7 +48,7 @@ or encounter unexpected situations during the test.
 ### **Frequently Asked Questions:**
 
 1. **What's the Pass Rate for Driving Tests in the UK?**
-The overall pass rate for driving tests in the UK is around 47%.
+The overall [pass rate for driving tests in the UK is around 47%](/driving-test-centres).
 2. **How Long Does it Take to Get Your Driving License in the UK?**
 You'll need to hold a valid provisional license for at least 6 months
 before taking your test.
