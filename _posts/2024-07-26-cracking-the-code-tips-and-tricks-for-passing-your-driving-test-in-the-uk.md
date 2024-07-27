@@ -1,6 +1,5 @@
 ---
 layout: post
-permalink: ""
 title: "Cracking the Code: Tips and Tricks for Passing Your Driving Test in the UK"
 image: /assets/images/driving-in-the-uk-preview.png
 categories:
