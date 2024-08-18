@@ -10,8 +10,7 @@ title: Home
 
 <div class="blog-grid-container">
 
-
-    {% for post in paginator.posts %}
+ {% for post in paginator.posts %}
         {% include postbox.html %}
     {% endfor %}
 </div>
