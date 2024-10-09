@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: "How to Pass the UK Driving Test: A Comprehensive Guide"
+permalink: how-to-pass-the-uk-driving-test-a-comprehensive-guide
 title: "How to Pass the UK Driving Test: A Comprehensive Guide"
 image: /assets/images/photo-1559156127-7540c1e43565.jpeg
 categories:
