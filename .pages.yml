@@ -47,7 +47,7 @@ content:
         label: Body
         type: rich-text
   - name: config
-    label: Sit Config
+    label: Site Config
     path: _config.yml
     type: file
     fields:
