@@ -27,7 +27,7 @@ collections:
 
   pages:
     label: Pages
-    folder: ""
+    folder: "_pages"
     files:
       - file: index.md
         label: Home Page
