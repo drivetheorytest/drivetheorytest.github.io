@@ -47,7 +47,7 @@ content:
         label: Body
         type: rich-text
   - name: config
-    label: Jekyll config
+    label: Sit Config
     path: _config.yml
     type: file
     fields:
