@@ -1,0 +1,52 @@
+title: My Jekyll Blog Admin
+collections:
+  posts:
+    label: Blog Posts
+    folder: _posts
+    extension: md
+    create: true
+    fields:
+      - name: title
+        label: Title
+        widget: string
+      - name: date
+        label: Date
+        widget: datetime
+      - name: categories
+        label: Categories
+        widget: list
+      - name: tags
+        label: Tags
+        widget: list
+      - name: excerpt
+        label: Excerpt
+        widget: text
+      - name: body
+        label: Content
+        widget: markdown
+
+  pages:
+    label: Pages
+    folder: ""
+    files:
+      - file: index.md
+        label: Home Page
+        name: home
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: body
+            label: Content
+            widget: markdown
+
+      - file: about.md
+        label: About Page
+        name: about
+        fields:
+          - name: title
+            label: Title
+            widget: string
+          - name: body
+            label: Content
+            widget: markdown
