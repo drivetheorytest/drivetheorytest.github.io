@@ -1,7 +1,7 @@
 title: My Jekyll Blog Admin
 collections:
   posts:
-    label: Blog Posts
+    label: Blog
     folder: _posts
     extension: md
     create: true
